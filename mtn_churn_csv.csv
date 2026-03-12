@@ -1,0 +1,975 @@
+Customer ID,Full Name,Date of Purchase,Age,State,REGION,MTN Device,Gender,Satisfaction Rate,Customer Review,Customer Tenure in months,Subscription Plan,Unit Price,Number of Times Purchased,Total Revenue,Data Usage,Customer Churn Status,Reasons for Churn
+CUST0001,Ngozi Berry,Jan-25,27,Kwara,North Central,4G Router,Male,2,Fair,2,165GB Monthly Plan,"?35,000.00",19,"?665,000.00",44.48,Yes,Relocation
+CUST0002,Zainab Baker,Mar-25,16,Abuja (FCT),North Central,Mobile SIM Card,Female,2,Fair,22,12.5GB Monthly Plan,"?5,500.00",12,"?66,000.00",19.79,Yes,Better Offers from Competitors
+CUST0003,Saidu Evans,Mar-25,21,Sokoto,North West,5G Broadband Router,Male,1,Poor,60,150GB FUP Monthly Unlimited,"?20,000.00",8,"?160,000.00",9.64,No,
+CUST0003,Saidu Evans,Mar-25,21,Sokoto,North West,Mobile SIM Card,Male,1,Poor,60,1GB+1.5mins Daily Plan,?500.00,8,"?4,000.00",197.05,No,
+CUST0003,Saidu Evans,Mar-25,21,Sokoto,North West,Broadband MiFi,Male,1,Poor,60,30GB Monthly Broadband Plan,"?9,000.00",15,"?135,000.00",76.34,No,
+CUST0004,Ejiro Walker,Mar-25,36,Gombe,North East,4G Router,Female,1,Poor,14,10GB+10mins Monthly Plan,"?4,500.00",9,"?40,500.00",92.72,No,
+CUST0005,Nura Mann,Jan-25,57,Oyo,South West,4G Router,Male,3,Good,53,25GB Monthly Plan,"?9,000.00",16,"?144,000.00",42.92,No,
+CUST0006,Tamuno Lewis,Feb-25,74,Plateau,North Central,Mobile SIM Card,Female,5,Excellent,9,7GB Monthly Plan,"?3,500.00",5,"?17,500.00",44.25,No,
+CUST0006,Tamuno Lewis,Feb-25,74,Plateau,North Central,5G Broadband Router,Female,5,Excellent,9,1.5TB Yearly Broadband Plan,"?150,000.00",2,"?300,000.00",18.64,No,
+CUST0006,Tamuno Lewis,Feb-25,74,Plateau,North Central,4G Router,Female,5,Excellent,9,65GB Monthly Plan,"?16,000.00",6,"?96,000.00",30.99,No,
+CUST0007,Boma Stewart,Mar-25,24,Jigawa,North West,Broadband MiFi,Female,5,Excellent,39,120GB Monthly Broadband Plan,"?24,000.00",11,"?264,000.00",150.3,Yes,Relocation
+CUST0008,Ifeanyi Park,Jan-25,53,Kwara,North Central,Broadband MiFi,Male,3,Good,30,300GB FUP Monthly Unlimited,"?30,000.00",17,"?510,000.00",168.41,No,
+CUST0009,Bala Robbins,Jan-25,35,Gombe,North East,Broadband MiFi,Male,5,Excellent,35,300GB FUP Monthly Unlimited,"?30,000.00",10,"?300,000.00",175.81,No,
+CUST0010,Halima Ochoa,Mar-25,23,Imo,South East,4G Router,Male,1,Poor,6,10GB+10mins Monthly Plan,"?4,500.00",20,"?90,000.00",53.38,No,
+CUST0010,Halima Ochoa,Mar-25,23,Imo,South East,Broadband MiFi,Male,1,Poor,6,60GB Monthly Broadband Plan,"?14,500.00",18,"?261,000.00",192.89,No,
+CUST0010,Halima Ochoa,Mar-25,23,Imo,South East,Mobile SIM Card,Male,1,Poor,6,500MB Daily Plan,?350.00,13,"?4,550.00",142.73,No,
+CUST0011,Ejiro Griffith,Feb-25,72,Bauchi,North East,4G Router,Female,2,Fair,8,65GB Monthly Plan,"?16,000.00",2,"?32,000.00",14.66,Yes,Poor Network
+CUST0011,Ejiro Griffith,Feb-25,72,Bauchi,North East,5G Broadband Router,Female,2,Fair,8,60GB Monthly Broadband Plan,"?14,500.00",2,"?29,000.00",13.95,Yes,Poor Network
+CUST0011,Ejiro Griffith,Feb-25,72,Bauchi,North East,Broadband MiFi,Female,2,Fair,8,300GB FUP Monthly Unlimited,"?30,000.00",8,"?240,000.00",14.64,Yes,Poor Network
+CUST0012,Zainab Morton,Mar-25,78,Ondo,South West,4G Router,Male,2,Fair,47,65GB Monthly Plan,"?16,000.00",12,"?192,000.00",131.97,No,
+CUST0012,Zainab Morton,Mar-25,78,Ondo,South West,Broadband MiFi,Male,2,Fair,47,60GB Monthly Broadband Plan,"?14,500.00",2,"?29,000.00",82.51,No,
+CUST0013,Ngozi Moreno,Jan-25,23,Kebbi,North West,4G Router,Female,2,Fair,52,10GB+10mins Monthly Plan,"?4,500.00",8,"?36,000.00",56.07,Yes,Relocation
+CUST0013,Ngozi Moreno,Jan-25,23,Kebbi,North West,Mobile SIM Card,Female,2,Fair,52,3.2GB 2-Day Plan,"?1,000.00",18,"?18,000.00",88.9,Yes,Relocation
+CUST0014,Ngozi Crawford,Feb-25,22,Adamawa,North East,4G Router,Male,2,Fair,6,65GB Monthly Plan,"?16,000.00",1,"?16,000.00",33.35,No,
+CUST0014,Ngozi Crawford,Feb-25,22,Adamawa,North East,Mobile SIM Card,Male,2,Fair,6,20GB Monthly Plan,"?7,500.00",15,"?112,500.00",53.41,No,
+CUST0015,Abubakar Garner,Mar-25,70,Yobe,North East,Broadband MiFi,Male,2,Fair,13,30GB Monthly Broadband Plan,"?9,000.00",16,"?144,000.00",10.5,No,
+CUST0015,Abubakar Garner,Mar-25,70,Yobe,North East,5G Broadband Router,Male,2,Fair,13,300GB FUP Monthly Unlimited,"?30,000.00",17,"?510,000.00",11.85,No,
+CUST0015,Abubakar Garner,Mar-25,70,Yobe,North East,4G Router,Male,2,Fair,13,65GB Monthly Plan,"?16,000.00",3,"?48,000.00",170.34,No,
+CUST0016,Kunle Ford,Feb-25,46,Kebbi,North West,Broadband MiFi,Male,5,Excellent,57,300GB FUP Monthly Unlimited,"?30,000.00",11,"?330,000.00",41.25,No,
+CUST0016,Kunle Ford,Feb-25,46,Kebbi,North West,4G Router,Male,5,Excellent,57,10GB+10mins Monthly Plan,"?4,500.00",5,"?22,500.00",53.49,No,
+CUST0016,Kunle Ford,Feb-25,46,Kebbi,North West,5G Broadband Router,Male,5,Excellent,57,120GB Monthly Broadband Plan,"?24,000.00",3,"?72,000.00",91.72,No,
+CUST0017,Tunde Hayes,Feb-25,74,Anambra,South East,4G Router,Male,5,Excellent,35,25GB Monthly Plan,"?9,000.00",15,"?135,000.00",57.35,Yes,Costly Data Plans
+CUST0018,David Fletcher,Mar-25,54,Bauchi,North East,5G Broadband Router,Male,1,Poor,43,150GB FUP Monthly Unlimited,"?20,000.00",18,"?360,000.00",178,No,
+CUST0019,Obinna Wright,Mar-25,50,Cross River,South South,Mobile SIM Card,Male,2,Fair,46,2.5GB 2-Day Plan,?900.00,14,"?12,600.00",18.91,No,
+CUST0019,Obinna Wright,Mar-25,50,Cross River,South South,4G Router,Male,2,Fair,46,25GB Monthly Plan,"?9,000.00",11,"?99,000.00",9.3,No,
+CUST0020,Amaka Reed,Mar-25,49,Abuja (FCT),North Central,4G Router,Female,5,Excellent,36,25GB Monthly Plan,"?9,000.00",5,"?45,000.00",116.71,Yes,Poor Network
+CUST0020,Amaka Reed,Mar-25,49,Abuja (FCT),North Central,5G Broadband Router,Female,5,Excellent,36,450GB 3-Month Broadband Plan,"?75,000.00",10,"?750,000.00",25.93,Yes,Poor Network
+CUST0020,Amaka Reed,Mar-25,49,Abuja (FCT),North Central,Broadband MiFi,Female,5,Excellent,36,300GB FUP Monthly Unlimited,"?30,000.00",2,"?60,000.00",179.85,Yes,Poor Network
+CUST0021,Oghene Brown,Mar-25,42,Imo,South East,Mobile SIM Card,Male,5,Excellent,23,10GB+10mins Monthly Plan,"?4,500.00",1,"?4,500.00",176.34,No,
+CUST0022,Shehu Ferguson,Feb-25,58,Kogi,North Central,Mobile SIM Card,Male,1,Poor,18,500MB Daily Plan,?350.00,15,"?5,250.00",40.31,No,
+CUST0023,Oghene Vazquez,Feb-25,55,Osun,South West,5G Broadband Router,Male,4,Very Good,2,200GB Monthly Broadband Plan,"?25,000.00",13,"?325,000.00",128.48,No,
+CUST0024,David Johnson,Mar-25,58,Kano,North West,Broadband MiFi,Male,2,Fair,57,120GB Monthly Broadband Plan,"?24,000.00",11,"?264,000.00",87.2,No,
+CUST0024,David Johnson,Mar-25,58,Kano,North West,Mobile SIM Card,Male,2,Fair,57,20GB Monthly Plan,"?7,500.00",17,"?127,500.00",121.44,No,
+CUST0025,Ifeanyi Brown,Mar-25,65,Benue,North Central,4G Router,Female,1,Poor,3,65GB Monthly Plan,"?16,000.00",11,"?176,000.00",189.8,No,
+CUST0025,Ifeanyi Brown,Mar-25,65,Benue,North Central,Mobile SIM Card,Female,1,Poor,3,7GB Monthly Plan,"?3,500.00",4,"?14,000.00",132.85,No,
+CUST0025,Ifeanyi Brown,Mar-25,65,Benue,North Central,5G Broadband Router,Female,1,Poor,3,120GB Monthly Broadband Plan,"?24,000.00",14,"?336,000.00",101.67,No,
+CUST0026,Ese Simmons,Mar-25,67,Cross River,South South,5G Broadband Router,Male,4,Very Good,13,450GB 3-Month Broadband Plan,"?75,000.00",1,"?75,000.00",109.81,No,
+CUST0027,Maryam Reyes,Mar-25,52,Ondo,South West,4G Router,Female,4,Very Good,51,10GB+10mins Monthly Plan,"?4,500.00",10,"?45,000.00",131.94,No,
+CUST0027,Maryam Reyes,Mar-25,52,Ondo,South West,5G Broadband Router,Female,4,Very Good,51,200GB Monthly Broadband Plan,"?25,000.00",8,"?200,000.00",19.13,No,
+CUST0027,Maryam Reyes,Mar-25,52,Ondo,South West,Mobile SIM Card,Female,4,Very Good,51,1GB+1.5mins Daily Plan,?500.00,7,"?3,500.00",45.32,No,
+CUST0028,Obinna Sanchez,Jan-25,19,Rivers,South South,Mobile SIM Card,Male,4,Very Good,31,10GB+10mins Monthly Plan,"?4,500.00",5,"?22,500.00",80.23,No,
+CUST0028,Obinna Sanchez,Jan-25,19,Rivers,South South,Mobile SIM Card,Male,4,Very Good,31,2.5GB 2-Day Plan,?900.00,4,"?3,600.00",178.59,No,
+CUST0029,Boma Franco,Feb-25,44,Enugu,South East,5G Broadband Router,Female,1,Poor,4,450GB 3-Month Broadband Plan,"?75,000.00",18,"?1,350,000.00",166.2,No,
+CUST0029,Boma Franco,Feb-25,44,Enugu,South East,4G Router,Female,1,Poor,4,165GB Monthly Plan,"?35,000.00",16,"?560,000.00",179.49,No,
+CUST0030,Alabo Davis,Mar-25,49,Imo,South East,5G Broadband Router,Female,2,Fair,50,200GB Monthly Broadband Plan,"?25,000.00",18,"?450,000.00",64.28,Yes,Poor Network
+CUST0030,Alabo Davis,Mar-25,49,Imo,South East,Broadband MiFi,Female,2,Fair,50,30GB Monthly Broadband Plan,"?9,000.00",8,"?72,000.00",28.11,Yes,Poor Network
+CUST0030,Alabo Davis,Mar-25,49,Imo,South East,4G Router,Female,2,Fair,50,165GB Monthly Plan,"?35,000.00",7,"?245,000.00",138.94,Yes,Poor Network
+CUST0031,Kunle West,Mar-25,69,Kogi,North Central,Mobile SIM Card,Female,4,Very Good,35,2.5GB 2-Day Plan,?900.00,19,"?17,100.00",171.42,Yes,Better Offers from Competitors
+CUST0031,Kunle West,Feb-25,69,Kogi,North Central,5G Broadband Router,Female,4,Very Good,35,450GB 3-Month Broadband Plan,"?75,000.00",12,"?900,000.00",95.66,Yes,Better Offers from Competitors
+CUST0032,Maryam Terry,Feb-25,65,Kogi,North Central,Mobile SIM Card,Male,3,Good,32,7GB Monthly Plan,"?3,500.00",13,"?45,500.00",133.94,No,
+CUST0033,Amina Mosley,Feb-25,75,Borno,North East,Broadband MiFi,Male,5,Excellent,59,60GB Monthly Broadband Plan,"?14,500.00",15,"?217,500.00",27.57,No,
+CUST0034,Shehu Anderson,Feb-25,22,Edo,South South,5G Broadband Router,Female,4,Very Good,21,120GB Monthly Broadband Plan,"?24,000.00",16,"?384,000.00",167.06,No,
+CUST0034,Shehu Anderson,Feb-25,22,Edo,South South,Mobile SIM Card,Female,4,Very Good,21,65GB Monthly Plan,"?16,000.00",2,"?32,000.00",149.93,No,
+CUST0035,Oghene Mcguire,Jan-25,44,Kaduna,North West,4G Router,Male,2,Fair,49,165GB Monthly Plan,"?35,000.00",19,"?665,000.00",134.06,Yes,Poor Network
+CUST0035,Oghene Mcguire,Jan-25,44,Kaduna,North West,Broadband MiFi,Male,2,Fair,49,150GB FUP Monthly Unlimited,"?20,000.00",9,"?180,000.00",93.27,Yes,Poor Network
+CUST0035,Oghene Mcguire,Jan-25,44,Kaduna,North West,5G Broadband Router,Male,2,Fair,49,200GB Monthly Broadband Plan,"?25,000.00",20,"?500,000.00",33.97,Yes,Poor Network
+CUST0036,Ifeanyi Randall,Jan-25,36,Abia,South East,Mobile SIM Card,Male,3,Good,38,500MB Daily Plan,?350.00,8,"?2,800.00",15.66,No,
+CUST0036,Ifeanyi Randall,Jan-25,36,Abia,South East,5G Broadband Router,Male,3,Good,38,150GB FUP Monthly Unlimited,"?20,000.00",10,"?200,000.00",139.59,No,
+CUST0037,Ifeanyi Ruiz,Mar-25,21,Ekiti,South West,Broadband MiFi,Female,1,Poor,43,60GB Monthly Broadband Plan,"?14,500.00",12,"?174,000.00",21.56,No,
+CUST0037,Ifeanyi Ruiz,Mar-25,21,Ekiti,South West,4G Router,Female,1,Poor,43,165GB Monthly Plan,"?35,000.00",14,"?490,000.00",141.61,No,
+CUST0038,Shehu Randall,Feb-25,50,Adamawa,North East,Broadband MiFi,Female,5,Excellent,30,300GB FUP Monthly Unlimited,"?30,000.00",8,"?240,000.00",176.39,Yes,Better Offers from Competitors
+CUST0039,Zina Green,Mar-25,64,Bayelsa,South South,5G Broadband Router,Male,2,Fair,32,120GB Monthly Broadband Plan,"?24,000.00",9,"?216,000.00",176.12,No,
+CUST0039,Zina Green,Mar-25,64,Bayelsa,South South,Mobile SIM Card,Male,2,Fair,32,65GB Monthly Plan,"?16,000.00",7,"?112,000.00",103.57,No,
+CUST0040,Chinedu Ruiz,Feb-25,46,Kogi,North Central,Mobile SIM Card,Female,4,Very Good,36,3.2GB 2-Day Plan,"?1,000.00",13,"?13,000.00",59.2,No,
+CUST0040,Chinedu Ruiz,Feb-25,46,Kogi,North Central,Broadband MiFi,Female,4,Very Good,36,150GB FUP Monthly Unlimited,"?20,000.00",19,"?380,000.00",61.59,No,
+CUST0041,Ejiro Mason,Mar-25,76,Bauchi,North East,5G Broadband Router,Female,3,Good,28,60GB Monthly Broadband Plan,"?14,500.00",7,"?101,500.00",24.57,No,
+CUST0041,Ejiro Mason,Mar-25,76,Bauchi,North East,Mobile SIM Card,Female,3,Good,28,25GB Monthly Plan,"?9,000.00",18,"?162,000.00",24.35,No,
+CUST0042,Shehu Hoffman,Mar-25,40,Ondo,South West,4G Router,Female,1,Poor,18,10GB+10mins Monthly Plan,"?4,500.00",18,"?81,000.00",60.8,No,
+CUST0042,Shehu Hoffman,Mar-25,40,Ondo,South West,Mobile SIM Card,Female,1,Poor,18,1.5GB 2-Day Plan,?600.00,2,"?1,200.00",55.23,No,
+CUST0043,Abubakar Johnson,Jan-25,32,Yobe,North East,5G Broadband Router,Male,5,Excellent,56,30GB Monthly Broadband Plan,"?9,000.00",16,"?144,000.00",50.87,Yes,Fast Data Consumption
+CUST0043,Abubakar Johnson,Jan-25,32,Yobe,North East,Broadband MiFi,Male,5,Excellent,56,30GB Monthly Broadband Plan,"?9,000.00",13,"?117,000.00",164.51,Yes,Fast Data Consumption
+CUST0044,Grace Walker,Mar-25,25,Oyo,South West,Mobile SIM Card,Male,1,Poor,10,500MB Daily Plan,?350.00,13,"?4,550.00",155.25,No,
+CUST0045,Alabo Thompson,Jan-25,72,Abia,South East,4G Router,Female,5,Excellent,20,10GB+10mins Monthly Plan,"?4,500.00",3,"?13,500.00",53.3,No,
+CUST0046,Amina Wright,Jan-25,46,Enugu,South East,Mobile SIM Card,Male,4,Very Good,11,500MB Daily Plan,?350.00,10,"?3,500.00",57.98,No,
+CUST0046,Amina Wright,Jan-25,46,Enugu,South East,4G Router,Male,4,Very Good,11,165GB Monthly Plan,"?35,000.00",8,"?280,000.00",14.7,No,
+CUST0046,Amina Wright,Jan-25,46,Enugu,South East,Broadband MiFi,Male,4,Very Good,11,300GB FUP Monthly Unlimited,"?30,000.00",19,"?570,000.00",157.67,No,
+CUST0047,Bala Christian,Feb-25,70,Delta,South South,Broadband MiFi,Male,3,Good,42,150GB FUP Monthly Unlimited,"?20,000.00",20,"?400,000.00",158.63,No,
+CUST0048,Abubakar Gentry,Mar-25,72,Delta,South South,Mobile SIM Card,Female,4,Very Good,45,2.5GB 2-Day Plan,?900.00,11,"?9,900.00",177.94,No,
+CUST0048,Abubakar Gentry,Mar-25,72,Delta,South South,4G Router,Female,4,Very Good,45,25GB Monthly Plan,"?9,000.00",8,"?72,000.00",5.66,No,
+CUST0048,Abubakar Gentry,Mar-25,72,Delta,South South,Broadband MiFi,Female,4,Very Good,45,120GB Monthly Broadband Plan,"?24,000.00",1,"?24,000.00",117.63,No,
+CUST0049,Zainab Taylor,Feb-25,21,Enugu,South East,Mobile SIM Card,Female,3,Good,34,12.5GB Monthly Plan,"?5,500.00",11,"?60,500.00",69.92,Yes,Relocation
+CUST0049,Zainab Taylor,Feb-25,21,Enugu,South East,Broadband MiFi,Female,3,Good,34,300GB FUP Monthly Unlimited,"?30,000.00",6,"?180,000.00",134.19,Yes,Relocation
+CUST0050,Tega Stevens,Feb-25,68,Yobe,North East,5G Broadband Router,Female,5,Excellent,43,150GB FUP Monthly Unlimited,"?20,000.00",13,"?260,000.00",194.05,Yes,Poor Network
+CUST0050,Tega Stevens,Feb-25,68,Yobe,North East,4G Router,Female,5,Excellent,43,65GB Monthly Plan,"?16,000.00",18,"?288,000.00",131.7,Yes,Poor Network
+CUST0051,Zina Carter,Mar-25,68,Oyo,South West,Mobile SIM Card,Male,5,Excellent,34,1GB+1.5mins Daily Plan,?500.00,10,"?5,000.00",110.07,No,
+CUST0051,Zina Carter,Mar-25,68,Oyo,South West,Broadband MiFi,Male,5,Excellent,34,60GB Monthly Broadband Plan,"?14,500.00",16,"?232,000.00",176.23,No,
+CUST0051,Zina Carter,Mar-25,68,Oyo,South West,5G Broadband Router,Male,5,Excellent,34,150GB FUP Monthly Unlimited,"?20,000.00",20,"?400,000.00",6.26,No,
+CUST0052,Halima Johnston,Feb-25,36,Abia,South East,Mobile SIM Card,Male,1,Poor,36,3.2GB 2-Day Plan,"?1,000.00",5,"?5,000.00",129.72,Yes,Better Offers from Competitors
+CUST0053,Grace Christensen,Feb-25,53,Zamfara,North West,Mobile SIM Card,Female,4,Very Good,27,500MB Daily Plan,?350.00,17,"?5,950.00",184.41,Yes,Relocation
+CUST0054,Amaka Potter,Mar-25,24,Akwa Ibom,South South,Mobile SIM Card,Female,1,Poor,22,16.5GB+10mins Monthly Plan,"?6,500.00",11,"?71,500.00",97.13,Yes,Costly Data Plans
+CUST0054,Amaka Potter,Mar-25,24,Akwa Ibom,South South,Broadband MiFi,Female,1,Poor,22,120GB Monthly Broadband Plan,"?24,000.00",13,"?312,000.00",152.69,Yes,Costly Data Plans
+CUST0054,Amaka Potter,Mar-25,24,Akwa Ibom,South South,Mobile SIM Card,Female,1,Poor,22,165GB Monthly Plan,"?35,000.00",7,"?245,000.00",186.6,Yes,Costly Data Plans
+CUST0055,Halima Smith,Mar-25,65,Osun,South West,Mobile SIM Card,Female,4,Very Good,3,1.5GB 2-Day Plan,?600.00,2,"?1,200.00",99.32,No,
+CUST0055,Halima Smith,Mar-25,65,Osun,South West,5G Broadband Router,Female,4,Very Good,3,300GB FUP Monthly Unlimited,"?30,000.00",19,"?570,000.00",100.71,No,
+CUST0056,Tega Daniels,Feb-25,28,Nasarawa,North Central,Mobile SIM Card,Male,1,Poor,34,165GB Monthly Plan,"?35,000.00",9,"?315,000.00",156.41,No,
+CUST0056,Tega Daniels,Feb-25,28,Nasarawa,North Central,Broadband MiFi,Male,1,Poor,34,300GB FUP Monthly Unlimited,"?30,000.00",13,"?390,000.00",124.84,No,
+CUST0057,Chinedu Davis,Feb-25,58,Adamawa,North East,5G Broadband Router,Female,5,Excellent,21,60GB Monthly Broadband Plan,"?14,500.00",14,"?203,000.00",149.48,Yes,Poor Network
+CUST0058,Ngozi Brown,Mar-25,28,Nasarawa,North Central,5G Broadband Router,Male,1,Poor,45,200GB Monthly Broadband Plan,"?25,000.00",5,"?125,000.00",75.28,Yes,Better Offers from Competitors
+CUST0059,Halima Williams,Jan-25,68,Enugu,South East,4G Router,Male,5,Excellent,12,10GB+10mins Monthly Plan,"?4,500.00",9,"?40,500.00",92.5,No,
+CUST0059,Halima Williams,Jan-25,68,Enugu,South East,Mobile SIM Card,Male,5,Excellent,12,12.5GB Monthly Plan,"?5,500.00",1,"?5,500.00",51.44,No,
+CUST0059,Halima Williams,Jan-25,68,Enugu,South East,Broadband MiFi,Male,5,Excellent,12,60GB Monthly Broadband Plan,"?14,500.00",18,"?261,000.00",180.29,No,
+CUST0060,Amina Payne,Mar-25,25,Nasarawa,North Central,5G Broadband Router,Female,4,Very Good,38,450GB 3-Month Broadband Plan,"?75,000.00",4,"?300,000.00",170.74,No,
+CUST0060,Amina Payne,Mar-25,25,Nasarawa,North Central,Broadband MiFi,Female,4,Very Good,38,150GB FUP Monthly Unlimited,"?20,000.00",12,"?240,000.00",76.58,No,
+CUST0061,Abubakar Ewing,Jan-25,53,Kano,North West,Broadband MiFi,Female,5,Excellent,18,300GB FUP Monthly Unlimited,"?30,000.00",8,"?240,000.00",155.26,No,
+CUST0061,Abubakar Ewing,Jan-25,53,Kano,North West,5G Broadband Router,Female,5,Excellent,18,200GB Monthly Broadband Plan,"?25,000.00",7,"?175,000.00",44.19,No,
+CUST0061,Abubakar Ewing,Jan-25,53,Kano,North West,4G Router,Female,5,Excellent,18,25GB Monthly Plan,"?9,000.00",5,"?45,000.00",135.71,No,
+CUST0062,Ngozi Henson,Mar-25,21,Abia,South East,Mobile SIM Card,Female,2,Fair,3,500MB Daily Plan,?350.00,18,"?6,300.00",26.87,Yes,Costly Data Plans
+CUST0062,Ngozi Henson,Mar-25,21,Abia,South East,Broadband MiFi,Female,2,Fair,3,300GB FUP Monthly Unlimited,"?30,000.00",9,"?270,000.00",106.41,Yes,Costly Data Plans
+CUST0063,Amina Flores,Mar-25,48,Taraba,North East,4G Router,Female,1,Poor,48,10GB+10mins Monthly Plan,"?4,500.00",13,"?58,500.00",172.1,No,
+CUST0064,Ejiro Ford,Jan-25,27,Kebbi,North West,5G Broadband Router,Male,4,Very Good,17,200GB Monthly Broadband Plan,"?25,000.00",8,"?200,000.00",22.12,No,
+CUST0064,Ejiro Ford,Jan-25,27,Kebbi,North West,Mobile SIM Card,Male,4,Very Good,17,12.5GB Monthly Plan,"?5,500.00",18,"?99,000.00",5.49,No,
+CUST0064,Ejiro Ford,Jan-25,27,Kebbi,North West,4G Router,Male,4,Very Good,17,25GB Monthly Plan,"?9,000.00",8,"?72,000.00",183.09,No,
+CUST0065,Kunle Shaw,Feb-25,75,Abia,South East,Mobile SIM Card,Female,1,Poor,8,3.2GB 2-Day Plan,"?1,000.00",18,"?18,000.00",47.34,No,
+CUST0065,Kunle Shaw,Feb-25,75,Abia,South East,Broadband MiFi,Female,1,Poor,8,150GB FUP Monthly Unlimited,"?20,000.00",12,"?240,000.00",78.03,No,
+CUST0066,David Schneider,Jan-25,69,Plateau,North Central,Broadband MiFi,Female,4,Very Good,42,300GB FUP Monthly Unlimited,"?30,000.00",15,"?450,000.00",43.85,No,
+CUST0066,David Schneider,Jan-25,69,Plateau,North Central,5G Broadband Router,Female,4,Very Good,42,60GB Monthly Broadband Plan,"?14,500.00",4,"?58,000.00",171.16,No,
+CUST0067,Ejiro Smith,Feb-25,61,Oyo,South West,Broadband MiFi,Female,1,Poor,18,150GB FUP Monthly Unlimited,"?20,000.00",20,"?400,000.00",128.52,No,
+CUST0067,Ejiro Smith,Feb-25,61,Oyo,South West,5G Broadband Router,Female,1,Poor,18,30GB Monthly Broadband Plan,"?9,000.00",11,"?99,000.00",10.59,No,
+CUST0068,Halima Anderson,Feb-25,32,Ondo,South West,5G Broadband Router,Male,5,Excellent,54,300GB FUP Monthly Unlimited,"?30,000.00",20,"?600,000.00",157.83,Yes,Better Offers from Competitors
+CUST0069,Tunde Oliver,Mar-25,51,Plateau,North Central,4G Router,Male,2,Fair,35,65GB Monthly Plan,"?16,000.00",8,"?128,000.00",71.97,Yes,Better Offers from Competitors
+CUST0070,Ese Obrien,Feb-25,18,Enugu,South East,4G Router,Female,4,Very Good,4,10GB+10mins Monthly Plan,"?4,500.00",4,"?18,000.00",102.89,No,
+CUST0071,Alabo Keith,Mar-25,80,Osun,South West,Broadband MiFi,Male,4,Very Good,47,60GB Monthly Broadband Plan,"?14,500.00",14,"?203,000.00",169.54,No,
+CUST0072,Ngozi Hernandez,Jan-25,78,Nasarawa,North Central,4G Router,Male,3,Good,58,25GB Monthly Plan,"?9,000.00",19,"?171,000.00",125.05,No,
+CUST0073,Ese Flowers,Feb-25,64,Bauchi,North East,Mobile SIM Card,Female,1,Poor,30,165GB Monthly Plan,"?35,000.00",8,"?280,000.00",90.59,No,
+CUST0074,Ibim Marshall,Jan-25,59,Sokoto,North West,5G Broadband Router,Female,3,Good,27,1.5TB Yearly Broadband Plan,"?150,000.00",3,"?450,000.00",13.89,No,
+CUST0074,Ibim Marshall,Jan-25,59,Sokoto,North West,4G Router,Female,3,Good,27,65GB Monthly Plan,"?16,000.00",12,"?192,000.00",86.66,No,
+CUST0074,Ibim Marshall,Jan-25,59,Sokoto,North West,Broadband MiFi,Female,3,Good,27,150GB FUP Monthly Unlimited,"?20,000.00",19,"?380,000.00",111.5,No,
+CUST0075,Tega Medina,Feb-25,31,Kogi,North Central,5G Broadband Router,Female,1,Poor,56,60GB Monthly Broadband Plan,"?14,500.00",16,"?232,000.00",31.37,No,
+CUST0075,Tega Medina,Feb-25,31,Kogi,North Central,4G Router,Female,1,Poor,56,10GB+10mins Monthly Plan,"?4,500.00",12,"?54,000.00",169.53,No,
+CUST0075,Tega Medina,Feb-25,31,Kogi,North Central,Broadband MiFi,Female,1,Poor,56,120GB Monthly Broadband Plan,"?24,000.00",9,"?216,000.00",73.83,No,
+CUST0076,Nura Mcneil,Feb-25,70,Kano,North West,5G Broadband Router,Female,3,Good,2,30GB Monthly Broadband Plan,"?9,000.00",5,"?45,000.00",36.69,No,
+CUST0076,Nura Mcneil,Feb-25,70,Kano,North West,4G Router,Female,3,Good,2,165GB Monthly Plan,"?35,000.00",1,"?35,000.00",14.38,No,
+CUST0077,Chinedu Pitts,Mar-25,43,Jigawa,North West,5G Broadband Router,Female,2,Fair,30,30GB Monthly Broadband Plan,"?9,000.00",20,"?180,000.00",31.54,No,
+CUST0077,Chinedu Pitts,Mar-25,43,Jigawa,North West,Mobile SIM Card,Female,2,Fair,30,2.5GB 2-Day Plan,?900.00,9,"?8,100.00",134.96,No,
+CUST0077,Chinedu Pitts,Mar-25,43,Jigawa,North West,Broadband MiFi,Female,2,Fair,30,60GB Monthly Broadband Plan,"?14,500.00",16,"?232,000.00",132.56,No,
+CUST0078,Alabo Kelly,Jan-25,69,Akwa Ibom,South South,Mobile SIM Card,Male,3,Good,49,1GB+1.5mins Daily Plan,?500.00,13,"?6,500.00",9.56,No,
+CUST0078,Alabo Kelly,Jan-25,69,Akwa Ibom,South South,5G Broadband Router,Male,3,Good,49,30GB Monthly Broadband Plan,"?9,000.00",10,"?90,000.00",2.03,No,
+CUST0079,Fatima Pennington,Jan-25,33,Edo,South South,Mobile SIM Card,Female,1,Poor,21,165GB Monthly Plan,"?35,000.00",8,"?280,000.00",106.75,No,
+CUST0079,Fatima Pennington,Jan-25,33,Edo,South South,Broadband MiFi,Female,1,Poor,21,120GB Monthly Broadband Plan,"?24,000.00",12,"?288,000.00",111.97,No,
+CUST0080,Kunle Williams,Feb-25,66,Rivers,South South,Mobile SIM Card,Female,1,Poor,2,20GB Monthly Plan,"?7,500.00",13,"?97,500.00",58.26,No,
+CUST0080,Kunle Williams,Feb-25,66,Rivers,South South,5G Broadband Router,Female,1,Poor,2,30GB Monthly Broadband Plan,"?9,000.00",6,"?54,000.00",193.26,No,
+CUST0080,Kunle Williams,Feb-25,66,Rivers,South South,4G Router,Female,1,Poor,2,165GB Monthly Plan,"?35,000.00",12,"?420,000.00",166.49,No,
+CUST0081,Chinedu Ortiz,Feb-25,71,Anambra,South East,5G Broadband Router,Male,5,Excellent,28,200GB Monthly Broadband Plan,"?25,000.00",3,"?75,000.00",155.93,Yes,Better Offers from Competitors
+CUST0081,Chinedu Ortiz,Feb-25,71,Anambra,South East,Broadband MiFi,Male,5,Excellent,28,120GB Monthly Broadband Plan,"?24,000.00",17,"?408,000.00",126.83,Yes,Better Offers from Competitors
+CUST0082,Michael Ortiz,Feb-25,40,Ekiti,South West,4G Router,Female,2,Fair,47,10GB+10mins Monthly Plan,"?4,500.00",3,"?13,500.00",152.16,Yes,Costly Data Plans
+CUST0083,Shehu Holt,Mar-25,79,Sokoto,North West,Mobile SIM Card,Female,3,Good,44,1GB+1.5mins Daily Plan,?500.00,19,"?9,500.00",159.37,Yes,Poor Network
+CUST0083,Shehu Holt,Mar-25,79,Sokoto,North West,5G Broadband Router,Female,3,Good,44,30GB Monthly Broadband Plan,"?9,000.00",3,"?27,000.00",70.71,Yes,Poor Network
+CUST0084,Maryam Velez,Mar-25,75,Nasarawa,North Central,Mobile SIM Card,Male,3,Good,4,12.5GB Monthly Plan,"?5,500.00",2,"?11,000.00",116.28,Yes,Better Offers from Competitors
+CUST0085,Alabo Turner,Feb-25,40,Niger,North Central,Broadband MiFi,Female,1,Poor,33,150GB FUP Monthly Unlimited,"?20,000.00",15,"?300,000.00",8.31,No,
+CUST0085,Alabo Turner,Feb-25,40,Niger,North Central,5G Broadband Router,Female,1,Poor,33,1.5TB Yearly Broadband Plan,"?150,000.00",20,"?3,000,000.00",105.05,No,
+CUST0086,Amina Rivas,Feb-25,62,Gombe,North East,5G Broadband Router,Female,3,Good,25,150GB FUP Monthly Unlimited,"?20,000.00",18,"?360,000.00",66.27,No,
+CUST0087,Omamuzo Guerrero,Jan-25,52,Edo,South South,5G Broadband Router,Male,5,Excellent,22,450GB 3-Month Broadband Plan,"?75,000.00",3,"?225,000.00",26.23,No,
+CUST0087,Omamuzo Guerrero,Jan-25,52,Edo,South South,Mobile SIM Card,Male,5,Excellent,22,1GB+1.5mins Daily Plan,?500.00,11,"?5,500.00",112,No,
+CUST0088,Amaka Brown,Mar-25,27,Kwara,North Central,Mobile SIM Card,Female,3,Good,2,500MB Daily Plan,?350.00,5,"?1,750.00",200,Yes,Poor Customer Service
+CUST0088,Amaka Brown,Mar-25,27,Kwara,North Central,Broadband MiFi,Female,3,Good,2,30GB Monthly Broadband Plan,"?9,000.00",4,"?36,000.00",59.51,Yes,Poor Customer Service
+CUST0089,Michael Schultz,Feb-25,20,Bayelsa,South South,4G Router,Male,2,Fair,39,65GB Monthly Plan,"?16,000.00",8,"?128,000.00",82.47,Yes,Better Offers from Competitors
+CUST0089,Michael Schultz,Feb-25,20,Bayelsa,South South,5G Broadband Router,Male,2,Fair,39,1.5TB Yearly Broadband Plan,"?150,000.00",15,"?2,250,000.00",122.31,Yes,Better Offers from Competitors
+CUST0089,Michael Schultz,Feb-25,20,Bayelsa,South South,Mobile SIM Card,Male,2,Fair,39,500MB Daily Plan,?350.00,10,"?3,500.00",107.04,Yes,Better Offers from Competitors
+CUST0090,John Montoya,Mar-25,40,Gombe,North East,Mobile SIM Card,Female,4,Very Good,30,10GB+10mins Monthly Plan,"?4,500.00",2,"?9,000.00",174.66,No,
+CUST0090,John Montoya,Mar-25,40,Gombe,North East,Broadband MiFi,Female,4,Very Good,30,60GB Monthly Broadband Plan,"?14,500.00",18,"?261,000.00",174.89,No,
+CUST0091,Ngozi Fox,Feb-25,31,Cross River,South South,4G Router,Male,3,Good,49,10GB+10mins Monthly Plan,"?4,500.00",12,"?54,000.00",163.43,No,
+CUST0091,Ngozi Fox,Feb-25,31,Cross River,South South,Mobile SIM Card,Male,3,Good,49,2.5GB 2-Day Plan,?900.00,13,"?11,700.00",83.27,No,
+CUST0091,Ngozi Fox,Feb-25,31,Cross River,South South,Broadband MiFi,Male,3,Good,49,120GB Monthly Broadband Plan,"?24,000.00",13,"?312,000.00",75.11,No,
+CUST0092,Chinedu Burke,Jan-25,63,Osun,South West,Broadband MiFi,Male,3,Good,21,300GB FUP Monthly Unlimited,"?30,000.00",16,"?480,000.00",183.52,No,
+CUST0093,Amaka Webb,Jan-25,76,Nasarawa,North Central,Mobile SIM Card,Male,1,Poor,58,3.2GB 2-Day Plan,"?1,000.00",8,"?8,000.00",155.35,Yes,Better Offers from Competitors
+CUST0094,Maryam Tucker,Feb-25,31,Oyo,South West,Broadband MiFi,Male,1,Poor,27,150GB FUP Monthly Unlimited,"?20,000.00",1,"?20,000.00",58.61,Yes,Fast Data Consumption
+CUST0094,Maryam Tucker,Feb-25,31,Oyo,South West,5G Broadband Router,Male,1,Poor,27,200GB Monthly Broadband Plan,"?25,000.00",14,"?350,000.00",48.49,Yes,Fast Data Consumption
+CUST0094,Maryam Tucker,Feb-25,31,Oyo,South West,Mobile SIM Card,Male,1,Poor,27,1.5GB 2-Day Plan,?600.00,3,"?1,800.00",133.04,Yes,Fast Data Consumption
+CUST0095,Sarah James,Feb-25,62,Kaduna,North West,5G Broadband Router,Male,1,Poor,25,30GB Monthly Broadband Plan,"?9,000.00",3,"?27,000.00",71.74,No,
+CUST0095,Sarah James,Feb-25,62,Kaduna,North West,Mobile SIM Card,Male,1,Poor,25,7GB Monthly Plan,"?3,500.00",4,"?14,000.00",48.6,No,
+CUST0096,Tega Turner,Mar-25,33,Rivers,South South,Mobile SIM Card,Female,2,Fair,35,1.5GB 2-Day Plan,?600.00,3,"?1,800.00",162.39,No,
+CUST0096,Tega Turner,Mar-25,33,Rivers,South South,5G Broadband Router,Female,2,Fair,35,1.5TB Yearly Broadband Plan,"?150,000.00",7,"?1,050,000.00",7.88,No,
+CUST0096,Tega Turner,Mar-25,33,Rivers,South South,4G Router,Female,2,Fair,35,65GB Monthly Plan,"?16,000.00",2,"?32,000.00",158.33,No,
+CUST0097,Ese Perez,Feb-25,55,Zamfara,North West,5G Broadband Router,Female,3,Good,53,200GB Monthly Broadband Plan,"?25,000.00",2,"?50,000.00",172.5,Yes,High Call Tarriffs
+CUST0098,Tega Murray,Feb-25,50,Delta,South South,5G Broadband Router,Female,4,Very Good,28,1.5TB Yearly Broadband Plan,"?150,000.00",12,"?1,800,000.00",138.57,No,
+CUST0098,Tega Murray,Feb-25,50,Delta,South South,Broadband MiFi,Female,4,Very Good,28,120GB Monthly Broadband Plan,"?24,000.00",3,"?72,000.00",53.71,No,
+CUST0099,Boma Gonzalez,Mar-25,26,Kwara,North Central,5G Broadband Router,Male,3,Good,35,450GB 3-Month Broadband Plan,"?75,000.00",15,"?1,125,000.00",33.75,Yes,Costly Data Plans
+CUST0099,Boma Gonzalez,Mar-25,26,Kwara,North Central,4G Router,Male,3,Good,35,25GB Monthly Plan,"?9,000.00",12,"?108,000.00",89.7,Yes,Costly Data Plans
+CUST0099,Boma Gonzalez,Mar-25,26,Kwara,North Central,Mobile SIM Card,Male,3,Good,35,20GB Monthly Plan,"?7,500.00",2,"?15,000.00",55.27,Yes,Costly Data Plans
+CUST0100,Kunle Davis,Feb-25,67,Gombe,North East,Broadband MiFi,Male,5,Excellent,2,30GB Monthly Broadband Plan,"?9,000.00",12,"?108,000.00",47.58,No,
+CUST0100,Kunle Davis,Feb-25,67,Gombe,North East,Mobile SIM Card,Male,5,Excellent,2,7GB Monthly Plan,"?3,500.00",19,"?66,500.00",76.88,No,
+CUST0101,Bola Brown,Feb-25,35,Nasarawa,North Central,5G Broadband Router,Female,1,Poor,24,120GB Monthly Broadband Plan,"?24,000.00",4,"?96,000.00",50.3,No,
+CUST0101,Bola Brown,Feb-25,35,Nasarawa,North Central,Mobile SIM Card,Female,1,Poor,24,65GB Monthly Plan,"?16,000.00",16,"?256,000.00",147.27,No,
+CUST0101,Bola Brown,Feb-25,35,Nasarawa,North Central,Mobile SIM Card,Female,1,Poor,24,16.5GB+10mins Monthly Plan,"?6,500.00",18,"?117,000.00",77.7,No,
+CUST0102,Ifeanyi Burns,Mar-25,49,Edo,South South,Mobile SIM Card,Female,4,Very Good,14,1.5GB 2-Day Plan,?600.00,15,"?9,000.00",179.79,Yes,Poor Customer Service
+CUST0103,Chinedu Barrera,Mar-25,56,Ekiti,South West,4G Router,Male,3,Good,36,65GB Monthly Plan,"?16,000.00",5,"?80,000.00",197.03,No,
+CUST0103,Chinedu Barrera,Mar-25,56,Ekiti,South West,Mobile SIM Card,Male,3,Good,36,500MB Daily Plan,?350.00,1,?350.00,158.18,No,
+CUST0103,Chinedu Barrera,Mar-25,56,Ekiti,South West,Broadband MiFi,Male,3,Good,36,300GB FUP Monthly Unlimited,"?30,000.00",12,"?360,000.00",111.03,No,
+CUST0104,Zina Fischer,Feb-25,32,Katsina,North West,Broadband MiFi,Male,4,Very Good,20,300GB FUP Monthly Unlimited,"?30,000.00",15,"?450,000.00",128.65,No,
+CUST0104,Zina Fischer,Feb-25,32,Katsina,North West,Mobile SIM Card,Male,4,Very Good,20,12.5GB Monthly Plan,"?5,500.00",12,"?66,000.00",136.18,No,
+CUST0105,Amaka Garcia,Jan-25,39,Borno,North East,Mobile SIM Card,Female,1,Poor,33,25GB Monthly Plan,"?9,000.00",8,"?72,000.00",186.98,No,
+CUST0105,Amaka Garcia,Jan-25,39,Borno,North East,Broadband MiFi,Female,1,Poor,33,300GB FUP Monthly Unlimited,"?30,000.00",17,"?510,000.00",189.52,No,
+CUST0106,Abubakar Holmes,Mar-25,26,Edo,South South,Broadband MiFi,Male,2,Fair,41,120GB Monthly Broadband Plan,"?24,000.00",5,"?120,000.00",188.35,No,
+CUST0106,Abubakar Holmes,Mar-25,26,Edo,South South,5G Broadband Router,Male,2,Fair,41,300GB FUP Monthly Unlimited,"?30,000.00",20,"?600,000.00",131.92,No,
+CUST0106,Abubakar Holmes,Mar-25,26,Edo,South South,Mobile SIM Card,Male,2,Fair,41,7GB Monthly Plan,"?3,500.00",19,"?66,500.00",168.58,No,
+CUST0107,Bola Rogers,Mar-25,19,Katsina,North West,4G Router,Male,2,Fair,42,10GB+10mins Monthly Plan,"?4,500.00",10,"?45,000.00",128.56,No,
+CUST0108,John Rose,Jan-25,47,Kebbi,North West,Mobile SIM Card,Female,1,Poor,30,7GB Monthly Plan,"?3,500.00",11,"?38,500.00",121.53,Yes,Fast Data Consumption
+CUST0108,John Rose,Jan-25,47,Kebbi,North West,Broadband MiFi,Female,1,Poor,30,300GB FUP Monthly Unlimited,"?30,000.00",12,"?360,000.00",146.97,Yes,Fast Data Consumption
+CUST0109,Tamuno Bates,Feb-25,32,Gombe,North East,Mobile SIM Card,Male,4,Very Good,21,65GB Monthly Plan,"?16,000.00",13,"?208,000.00",10.6,Yes,Fast Data Consumption
+CUST0110,Ibim Richards,Mar-25,47,Abuja (FCT),North Central,Mobile SIM Card,Female,2,Fair,60,1GB+1.5mins Daily Plan,?500.00,3,"?1,500.00",99.73,No,
+CUST0110,Ibim Richards,Mar-25,47,Abuja (FCT),North Central,4G Router,Female,2,Fair,60,165GB Monthly Plan,"?35,000.00",8,"?280,000.00",101.34,No,
+CUST0111,Fatima Blevins,Feb-25,61,Oyo,South West,Mobile SIM Card,Male,5,Excellent,19,3.2GB 2-Day Plan,"?1,000.00",9,"?9,000.00",86.47,No,
+CUST0111,Fatima Blevins,Feb-25,61,Oyo,South West,4G Router,Male,5,Excellent,19,25GB Monthly Plan,"?9,000.00",12,"?108,000.00",152.89,No,
+CUST0111,Fatima Blevins,Feb-25,61,Oyo,South West,Broadband MiFi,Male,5,Excellent,19,30GB Monthly Broadband Plan,"?9,000.00",19,"?171,000.00",80.42,No,
+CUST0112,Bala Smith,Feb-25,62,Cross River,South South,Broadband MiFi,Male,5,Excellent,25,60GB Monthly Broadband Plan,"?14,500.00",11,"?159,500.00",74.95,Yes,Relocation
+CUST0112,Bala Smith,Feb-25,62,Cross River,South South,Mobile SIM Card,Male,5,Excellent,25,16.5GB+10mins Monthly Plan,"?6,500.00",5,"?32,500.00",187.82,Yes,Relocation
+CUST0112,Bala Smith,Feb-25,62,Cross River,South South,5G Broadband Router,Male,5,Excellent,25,60GB Monthly Broadband Plan,"?14,500.00",13,"?188,500.00",120.69,Yes,Relocation
+CUST0113,Michael Evans,Mar-25,21,Rivers,South South,4G Router,Male,4,Very Good,9,25GB Monthly Plan,"?9,000.00",11,"?99,000.00",186.31,No,
+CUST0114,Amina Todd,Feb-25,66,Abia,South East,5G Broadband Router,Female,5,Excellent,33,200GB Monthly Broadband Plan,"?25,000.00",14,"?350,000.00",134.92,Yes,Better Offers from Competitors
+CUST0115,Maryam Smith,Feb-25,19,Taraba,North East,Mobile SIM Card,Female,1,Poor,42,1.5GB 2-Day Plan,?600.00,8,"?4,800.00",164.42,No,
+CUST0116,Bola Garcia,Mar-25,30,Benue,North Central,Mobile SIM Card,Male,4,Very Good,29,16.5GB+10mins Monthly Plan,"?6,500.00",16,"?104,000.00",155.11,Yes,High Call Tarriffs
+CUST0117,Sade Collins,Mar-25,33,Bauchi,North East,4G Router,Male,4,Very Good,36,25GB Monthly Plan,"?9,000.00",9,"?81,000.00",109.48,No,
+CUST0117,Sade Collins,Mar-25,33,Bauchi,North East,Mobile SIM Card,Male,4,Very Good,36,12.5GB Monthly Plan,"?5,500.00",8,"?44,000.00",38.86,No,
+CUST0118,Zainab Garcia,Mar-25,54,Osun,South West,5G Broadband Router,Female,2,Fair,50,200GB Monthly Broadband Plan,"?25,000.00",9,"?225,000.00",112.32,No,
+CUST0118,Zainab Garcia,Mar-25,54,Osun,South West,4G Router,Female,2,Fair,50,25GB Monthly Plan,"?9,000.00",18,"?162,000.00",24.81,No,
+CUST0119,Omamuzo Terry,Jan-25,66,Ekiti,South West,5G Broadband Router,Male,3,Good,19,1.5TB Yearly Broadband Plan,"?150,000.00",16,"?2,400,000.00",131.37,No,
+CUST0120,Fatima Lindsey,Mar-25,41,Adamawa,North East,4G Router,Female,2,Fair,60,10GB+10mins Monthly Plan,"?4,500.00",2,"?9,000.00",127.77,Yes,High Call Tarriffs
+CUST0120,Fatima Lindsey,Mar-25,41,Adamawa,North East,Broadband MiFi,Female,2,Fair,60,30GB Monthly Broadband Plan,"?9,000.00",16,"?144,000.00",82.95,Yes,High Call Tarriffs
+CUST0120,Fatima Lindsey,Mar-25,41,Adamawa,North East,5G Broadband Router,Female,2,Fair,60,150GB FUP Monthly Unlimited,"?20,000.00",5,"?100,000.00",136.4,Yes,High Call Tarriffs
+CUST0121,Tunde Smith,Feb-25,36,Kogi,North Central,Broadband MiFi,Female,3,Good,31,120GB Monthly Broadband Plan,"?24,000.00",2,"?48,000.00",147.87,No,
+CUST0121,Tunde Smith,Feb-25,36,Kogi,North Central,Mobile SIM Card,Female,3,Good,31,1.5GB 2-Day Plan,?600.00,6,"?3,600.00",83.87,No,
+CUST0121,Tunde Smith,Feb-25,36,Kogi,North Central,5G Broadband Router,Female,3,Good,31,30GB Monthly Broadband Plan,"?9,000.00",13,"?117,000.00",199.44,No,
+CUST0122,Grace Fowler,Mar-25,39,Cross River,South South,5G Broadband Router,Male,5,Excellent,1,1.5TB Yearly Broadband Plan,"?150,000.00",5,"?750,000.00",177.91,No,
+CUST0122,Grace Fowler,Mar-25,39,Cross River,South South,4G Router,Male,5,Excellent,1,165GB Monthly Plan,"?35,000.00",4,"?140,000.00",54.93,No,
+CUST0123,Tega Chen,Feb-25,36,Sokoto,North West,4G Router,Female,1,Poor,46,165GB Monthly Plan,"?35,000.00",17,"?595,000.00",165.48,No,
+CUST0123,Tega Chen,Feb-25,36,Sokoto,North West,Broadband MiFi,Female,1,Poor,46,300GB FUP Monthly Unlimited,"?30,000.00",4,"?120,000.00",17.8,No,
+CUST0124,Shehu Nguyen,Feb-25,33,Taraba,North East,5G Broadband Router,Female,1,Poor,60,120GB Monthly Broadband Plan,"?24,000.00",19,"?456,000.00",116.7,Yes,Poor Customer Service
+CUST0124,Shehu Nguyen,Feb-25,33,Taraba,North East,4G Router,Female,1,Poor,60,65GB Monthly Plan,"?16,000.00",12,"?192,000.00",52.68,Yes,Poor Customer Service
+CUST0125,Halima Aguilar,Feb-25,23,Delta,South South,5G Broadband Router,Female,4,Very Good,20,120GB Monthly Broadband Plan,"?24,000.00",8,"?192,000.00",73.83,No,
+CUST0125,Halima Aguilar,Feb-25,23,Delta,South South,Mobile SIM Card,Female,4,Very Good,20,500MB Daily Plan,?350.00,16,"?5,600.00",191.49,No,
+CUST0125,Halima Aguilar,Feb-25,23,Delta,South South,Broadband MiFi,Female,4,Very Good,20,150GB FUP Monthly Unlimited,"?20,000.00",20,"?400,000.00",91.27,No,
+CUST0126,Ejiro Ware,Feb-25,69,Taraba,North East,Mobile SIM Card,Male,5,Excellent,49,16.5GB+10mins Monthly Plan,"?6,500.00",3,"?19,500.00",140.9,No,
+CUST0127,Ifeanyi Clayton,Feb-25,23,Zamfara,North West,Mobile SIM Card,Male,2,Fair,37,12.5GB Monthly Plan,"?5,500.00",17,"?93,500.00",18.64,No,
+CUST0127,Ifeanyi Clayton,Feb-25,23,Zamfara,North West,Broadband MiFi,Male,2,Fair,37,60GB Monthly Broadband Plan,"?14,500.00",15,"?217,500.00",161.83,No,
+CUST0127,Ifeanyi Clayton,Feb-25,23,Zamfara,North West,5G Broadband Router,Male,2,Fair,37,300GB FUP Monthly Unlimited,"?30,000.00",15,"?450,000.00",102.89,No,
+CUST0128,Sade Berry,Mar-25,75,Abia,South East,Broadband MiFi,Male,1,Poor,26,300GB FUP Monthly Unlimited,"?30,000.00",18,"?540,000.00",140.23,No,
+CUST0128,Sade Berry,Mar-25,75,Abia,South East,Mobile SIM Card,Male,1,Poor,26,2.5GB 2-Day Plan,?900.00,3,"?2,700.00",186.95,No,
+CUST0128,Sade Berry,Mar-25,75,Abia,South East,Mobile SIM Card,Male,1,Poor,26,165GB Monthly Plan,"?35,000.00",14,"?490,000.00",6.83,No,
+CUST0129,Shehu Lee,Feb-25,33,Kogi,North Central,Mobile SIM Card,Female,4,Very Good,58,16.5GB+10mins Monthly Plan,"?6,500.00",12,"?78,000.00",27.03,No,
+CUST0129,Shehu Lee,Feb-25,33,Kogi,North Central,Broadband MiFi,Female,4,Very Good,58,30GB Monthly Broadband Plan,"?9,000.00",18,"?162,000.00",36.11,No,
+CUST0130,Tamuno Greer,Jan-25,32,Osun,South West,Mobile SIM Card,Male,3,Good,49,500MB Daily Plan,?350.00,12,"?4,200.00",49.88,No,
+CUST0130,Tamuno Greer,Jan-25,32,Osun,South West,5G Broadband Router,Male,3,Good,49,300GB FUP Monthly Unlimited,"?30,000.00",4,"?120,000.00",55.49,No,
+CUST0130,Tamuno Greer,Jan-25,32,Osun,South West,4G Router,Male,3,Good,49,65GB Monthly Plan,"?16,000.00",14,"?224,000.00",161.99,No,
+CUST0131,Funke Hart,Jan-25,46,Ondo,South West,Broadband MiFi,Male,4,Very Good,7,60GB Monthly Broadband Plan,"?14,500.00",18,"?261,000.00",88.07,No,
+CUST0131,Funke Hart,Jan-25,46,Ondo,South West,Mobile SIM Card,Male,4,Very Good,7,500MB Daily Plan,?350.00,2,?700.00,151,No,
+CUST0131,Funke Hart,Jan-25,46,Ondo,South West,5G Broadband Router,Male,4,Very Good,7,300GB FUP Monthly Unlimited,"?30,000.00",10,"?300,000.00",101.03,No,
+CUST0132,Nura Yang,Feb-25,56,Niger,North Central,Broadband MiFi,Male,5,Excellent,20,120GB Monthly Broadband Plan,"?24,000.00",6,"?144,000.00",176,Yes,Costly Data Plans
+CUST0132,Nura Yang,Feb-25,56,Niger,North Central,5G Broadband Router,Male,5,Excellent,20,450GB 3-Month Broadband Plan,"?75,000.00",2,"?150,000.00",111.39,Yes,Costly Data Plans
+CUST0133,Oghene Cooper,Feb-25,64,Bauchi,North East,Mobile SIM Card,Female,4,Very Good,45,500MB Daily Plan,?350.00,10,"?3,500.00",169.94,Yes,Fast Data Consumption
+CUST0134,Obinna Branch,Feb-25,75,Oyo,South West,Broadband MiFi,Female,4,Very Good,27,300GB FUP Monthly Unlimited,"?30,000.00",7,"?210,000.00",18.95,Yes,Poor Customer Service
+CUST0134,Obinna Branch,Feb-25,75,Oyo,South West,4G Router,Female,4,Very Good,27,65GB Monthly Plan,"?16,000.00",20,"?320,000.00",54.06,Yes,Poor Customer Service
+CUST0135,Bola Anderson,Feb-25,25,Benue,North Central,Mobile SIM Card,Male,3,Good,31,10GB+10mins Monthly Plan,"?4,500.00",4,"?18,000.00",192.43,No,
+CUST0136,John Hill,Feb-25,47,Ondo,South West,Mobile SIM Card,Female,5,Excellent,59,16.5GB+10mins Monthly Plan,"?6,500.00",10,"?65,000.00",129.92,No,
+CUST0136,John Hill,Feb-25,47,Ondo,South West,4G Router,Female,5,Excellent,59,25GB Monthly Plan,"?9,000.00",16,"?144,000.00",72.25,No,
+CUST0137,Zina Singh,Feb-25,28,Taraba,North East,4G Router,Female,3,Good,59,10GB+10mins Monthly Plan,"?4,500.00",18,"?81,000.00",3.74,No,
+CUST0138,Ibim Brown,Feb-25,53,Plateau,North Central,Mobile SIM Card,Male,4,Very Good,22,16.5GB+10mins Monthly Plan,"?6,500.00",11,"?71,500.00",131.09,No,
+CUST0139,Saidu Holt,Mar-25,78,Yobe,North East,4G Router,Female,2,Fair,11,65GB Monthly Plan,"?16,000.00",3,"?48,000.00",105.03,Yes,Relocation
+CUST0139,Saidu Holt,Mar-25,78,Yobe,North East,5G Broadband Router,Female,2,Fair,11,30GB Monthly Broadband Plan,"?9,000.00",14,"?126,000.00",152.99,Yes,Relocation
+CUST0140,Amaka Vang,Feb-25,45,Kaduna,North West,Mobile SIM Card,Male,5,Excellent,1,12.5GB Monthly Plan,"?5,500.00",18,"?99,000.00",3.64,No,
+CUST0141,Ibim Faulkner,Mar-25,17,Kano,North West,Mobile SIM Card,Female,1,Poor,35,3.2GB 2-Day Plan,"?1,000.00",8,"?8,000.00",105.11,No,
+CUST0142,Bala Hood,Feb-25,48,Ekiti,South West,Mobile SIM Card,Female,1,Poor,51,500MB Daily Plan,?350.00,8,"?2,800.00",198.05,No,
+CUST0142,Bala Hood,Feb-25,48,Ekiti,South West,5G Broadband Router,Female,1,Poor,51,120GB Monthly Broadband Plan,"?24,000.00",3,"?72,000.00",136.97,No,
+CUST0143,Bola Brooks,Feb-25,27,Kebbi,North West,Mobile SIM Card,Female,1,Poor,25,165GB Monthly Plan,"?35,000.00",11,"?385,000.00",129.16,No,
+CUST0143,Bola Brooks,Feb-25,27,Kebbi,North West,Broadband MiFi,Female,1,Poor,25,120GB Monthly Broadband Plan,"?24,000.00",4,"?96,000.00",195.48,No,
+CUST0143,Bola Brooks,Feb-25,27,Kebbi,North West,Mobile SIM Card,Female,1,Poor,25,16.5GB+10mins Monthly Plan,"?6,500.00",8,"?52,000.00",183.87,No,
+CUST0144,Fatima Wheeler,Jan-25,76,Akwa Ibom,South South,Broadband MiFi,Male,3,Good,60,30GB Monthly Broadband Plan,"?9,000.00",19,"?171,000.00",192.31,No,
+CUST0144,Fatima Wheeler,Jan-25,76,Akwa Ibom,South South,Mobile SIM Card,Male,3,Good,60,1.5GB 2-Day Plan,?600.00,13,"?7,800.00",150.57,No,
+CUST0144,Fatima Wheeler,Jan-25,76,Akwa Ibom,South South,4G Router,Male,3,Good,60,65GB Monthly Plan,"?16,000.00",19,"?304,000.00",60.21,No,
+CUST0145,Halima Valencia,Feb-25,65,Adamawa,North East,Broadband MiFi,Female,1,Poor,25,60GB Monthly Broadband Plan,"?14,500.00",3,"?43,500.00",46.81,No,
+CUST0145,Halima Valencia,Feb-25,65,Adamawa,North East,Mobile SIM Card,Female,1,Poor,25,7GB Monthly Plan,"?3,500.00",20,"?70,000.00",121.23,No,
+CUST0146,Tamuno Boyd,Feb-25,57,Kano,North West,Mobile SIM Card,Female,4,Very Good,51,20GB Monthly Plan,"?7,500.00",20,"?150,000.00",17.6,Yes,Relocation
+CUST0146,Tamuno Boyd,Feb-25,57,Kano,North West,Broadband MiFi,Female,4,Very Good,51,300GB FUP Monthly Unlimited,"?30,000.00",3,"?90,000.00",159.71,Yes,Relocation
+CUST0147,Chinedu Martinez,Feb-25,50,Plateau,North Central,Broadband MiFi,Female,4,Very Good,46,30GB Monthly Broadband Plan,"?9,000.00",15,"?135,000.00",188.62,No,
+CUST0148,Ejiro Finley,Feb-25,50,Anambra,South East,Mobile SIM Card,Male,4,Very Good,6,3.2GB 2-Day Plan,"?1,000.00",3,"?3,000.00",71.11,No,
+CUST0148,Ejiro Finley,Feb-25,50,Anambra,South East,Broadband MiFi,Male,4,Very Good,6,120GB Monthly Broadband Plan,"?24,000.00",11,"?264,000.00",119.81,No,
+CUST0148,Ejiro Finley,Feb-25,50,Anambra,South East,5G Broadband Router,Male,4,Very Good,6,450GB 3-Month Broadband Plan,"?75,000.00",14,"?1,050,000.00",2.96,No,
+CUST0149,Omamuzo Levine,Feb-25,26,Imo,South East,Mobile SIM Card,Male,2,Fair,44,3.2GB 2-Day Plan,"?1,000.00",9,"?9,000.00",33.86,Yes,Costly Data Plans
+CUST0149,Omamuzo Levine,Feb-25,26,Imo,South East,Broadband MiFi,Male,2,Fair,44,60GB Monthly Broadband Plan,"?14,500.00",3,"?43,500.00",60.3,Yes,Costly Data Plans
+CUST0150,Ejiro Roman,Feb-25,48,Imo,South East,Mobile SIM Card,Female,4,Very Good,39,7GB Monthly Plan,"?3,500.00",13,"?45,500.00",168.4,Yes,Costly Data Plans
+CUST0151,Tega Mendez,Feb-25,72,Bayelsa,South South,4G Router,Female,3,Good,53,10GB+10mins Monthly Plan,"?4,500.00",11,"?49,500.00",192.93,No,
+CUST0151,Tega Mendez,Feb-25,72,Bayelsa,South South,Mobile SIM Card,Female,3,Good,53,1GB+1.5mins Daily Plan,?500.00,16,"?8,000.00",147.11,No,
+CUST0151,Tega Mendez,Feb-25,72,Bayelsa,South South,5G Broadband Router,Female,3,Good,53,60GB Monthly Broadband Plan,"?14,500.00",9,"?130,500.00",65.51,No,
+CUST0152,Tamuno Yang,Feb-25,62,Delta,South South,4G Router,Male,5,Excellent,38,25GB Monthly Plan,"?9,000.00",3,"?27,000.00",166.34,Yes,High Call Tarriffs
+CUST0152,Tamuno Yang,Feb-25,62,Delta,South South,Mobile SIM Card,Male,5,Excellent,38,20GB Monthly Plan,"?7,500.00",5,"?37,500.00",134.76,Yes,High Call Tarriffs
+CUST0153,Maryam Williams,Feb-25,46,Edo,South South,Mobile SIM Card,Male,4,Very Good,46,16.5GB+10mins Monthly Plan,"?6,500.00",14,"?91,000.00",184.74,Yes,Relocation
+CUST0153,Maryam Williams,Feb-25,46,Edo,South South,5G Broadband Router,Male,4,Very Good,46,30GB Monthly Broadband Plan,"?9,000.00",12,"?108,000.00",158.25,Yes,Relocation
+CUST0154,David Miller,Mar-25,26,Anambra,South East,Mobile SIM Card,Male,2,Fair,43,7GB Monthly Plan,"?3,500.00",14,"?49,000.00",193.16,No,
+CUST0155,Ngozi Fowler,Feb-25,17,Anambra,South East,4G Router,Female,4,Very Good,15,10GB+10mins Monthly Plan,"?4,500.00",10,"?45,000.00",96.81,No,
+CUST0155,Ngozi Fowler,Feb-25,17,Anambra,South East,Mobile SIM Card,Female,4,Very Good,15,12.5GB Monthly Plan,"?5,500.00",3,"?16,500.00",184.15,No,
+CUST0156,Ifeanyi Garcia,Feb-25,34,Ekiti,South West,Mobile SIM Card,Female,2,Fair,22,12.5GB Monthly Plan,"?5,500.00",15,"?82,500.00",144.54,No,
+CUST0156,Ifeanyi Garcia,Feb-25,34,Ekiti,South West,Broadband MiFi,Female,2,Fair,22,300GB FUP Monthly Unlimited,"?30,000.00",2,"?60,000.00",13.9,No,
+CUST0157,Ifeanyi Jimenez,Feb-25,18,Bayelsa,South South,4G Router,Male,2,Fair,44,10GB+10mins Monthly Plan,"?4,500.00",13,"?58,500.00",46.76,No,
+CUST0157,Ifeanyi Jimenez,Feb-25,18,Bayelsa,South South,Mobile SIM Card,Male,2,Fair,44,1.5GB 2-Day Plan,?600.00,14,"?8,400.00",37.68,No,
+CUST0159,Kunle Nielsen,Mar-25,29,Adamawa,North East,Mobile SIM Card,Male,2,Fair,24,7GB Monthly Plan,"?3,500.00",20,"?70,000.00",119.6,No,
+CUST0159,Kunle Nielsen,Mar-25,29,Adamawa,North East,5G Broadband Router,Male,2,Fair,24,450GB 3-Month Broadband Plan,"?75,000.00",12,"?900,000.00",117.61,No,
+CUST0160,Oghene Diaz,Jan-25,74,Enugu,South East,5G Broadband Router,Female,2,Fair,59,150GB FUP Monthly Unlimited,"?20,000.00",5,"?100,000.00",37.02,No,
+CUST0161,Michael Wilson,Feb-25,65,Kogi,North Central,4G Router,Male,4,Very Good,37,165GB Monthly Plan,"?35,000.00",6,"?210,000.00",58.12,Yes,High Call Tarriffs
+CUST0161,Michael Wilson,Feb-25,65,Kogi,North Central,5G Broadband Router,Male,4,Very Good,37,200GB Monthly Broadband Plan,"?25,000.00",20,"?500,000.00",168.48,Yes,High Call Tarriffs
+CUST0161,Michael Wilson,Feb-25,65,Kogi,North Central,Broadband MiFi,Male,4,Very Good,37,30GB Monthly Broadband Plan,"?9,000.00",1,"?9,000.00",173.17,Yes,High Call Tarriffs
+CUST0162,Grace Gallegos,Feb-25,33,Benue,North Central,Mobile SIM Card,Female,4,Very Good,36,1.5GB 2-Day Plan,?600.00,1,?600.00,16.99,No,
+CUST0162,Grace Gallegos,Feb-25,33,Benue,North Central,4G Router,Female,4,Very Good,36,10GB+10mins Monthly Plan,"?4,500.00",9,"?40,500.00",58.77,No,
+CUST0163,Nura Jackson,Feb-25,52,Abuja (FCT),North Central,Broadband MiFi,Female,5,Excellent,37,120GB Monthly Broadband Plan,"?24,000.00",2,"?48,000.00",164.61,No,
+CUST0163,Nura Jackson,Feb-25,52,Abuja (FCT),North Central,4G Router,Female,5,Excellent,37,165GB Monthly Plan,"?35,000.00",14,"?490,000.00",109.5,No,
+CUST0163,Nura Jackson,Feb-25,52,Abuja (FCT),North Central,5G Broadband Router,Female,5,Excellent,37,150GB FUP Monthly Unlimited,"?20,000.00",8,"?160,000.00",147.33,No,
+CUST0164,Maryam Diaz,Jan-25,20,Nasarawa,North Central,Mobile SIM Card,Female,4,Very Good,23,10GB+10mins Monthly Plan,"?4,500.00",19,"?85,500.00",162.24,No,
+CUST0165,Oghene Allison,Feb-25,70,Abuja (FCT),North Central,5G Broadband Router,Male,2,Fair,51,300GB FUP Monthly Unlimited,"?30,000.00",10,"?300,000.00",65.07,No,
+CUST0165,Oghene Allison,Feb-25,70,Abuja (FCT),North Central,Mobile SIM Card,Male,2,Fair,51,1GB+1.5mins Daily Plan,?500.00,17,"?8,500.00",114.76,No,
+CUST0165,Oghene Allison,Feb-25,70,Abuja (FCT),North Central,4G Router,Male,2,Fair,51,65GB Monthly Plan,"?16,000.00",14,"?224,000.00",27.55,No,
+CUST0166,Sade Suarez,Feb-25,51,Borno,North East,Mobile SIM Card,Male,3,Good,16,1GB+1.5mins Daily Plan,?500.00,13,"?6,500.00",125.75,No,
+CUST0166,Sade Suarez,Feb-25,51,Borno,North East,4G Router,Male,3,Good,16,165GB Monthly Plan,"?35,000.00",3,"?105,000.00",15.57,No,
+CUST0166,Sade Suarez,Feb-25,51,Borno,North East,Broadband MiFi,Male,3,Good,16,60GB Monthly Broadband Plan,"?14,500.00",9,"?130,500.00",103.36,No,
+CUST0167,Ejiro Thomas,Jan-25,74,Yobe,North East,5G Broadband Router,Female,1,Poor,38,450GB 3-Month Broadband Plan,"?75,000.00",14,"?1,050,000.00",43.96,No,
+CUST0167,Ejiro Thomas,Jan-25,74,Yobe,North East,Broadband MiFi,Female,1,Poor,38,150GB FUP Monthly Unlimited,"?20,000.00",11,"?220,000.00",99.2,No,
+CUST0168,Abubakar Weiss,Mar-25,59,Borno,North East,Broadband MiFi,Female,1,Poor,51,150GB FUP Monthly Unlimited,"?20,000.00",1,"?20,000.00",88.54,Yes,High Call Tarriffs
+CUST0168,Abubakar Weiss,Mar-25,59,Borno,North East,Mobile SIM Card,Female,1,Poor,51,20GB Monthly Plan,"?7,500.00",5,"?37,500.00",40.86,Yes,High Call Tarriffs
+CUST0169,Maryam Dean,Mar-25,36,Akwa Ibom,South South,4G Router,Male,3,Good,42,25GB Monthly Plan,"?9,000.00",8,"?72,000.00",145.33,Yes,High Call Tarriffs
+CUST0169,Maryam Dean,Mar-25,36,Akwa Ibom,South South,Broadband MiFi,Male,3,Good,42,60GB Monthly Broadband Plan,"?14,500.00",4,"?58,000.00",131.27,Yes,High Call Tarriffs
+CUST0169,Maryam Dean,Mar-25,36,Akwa Ibom,South South,Mobile SIM Card,Male,3,Good,42,2.5GB 2-Day Plan,?900.00,3,"?2,700.00",43.08,Yes,High Call Tarriffs
+CUST0170,Amaka Whitaker,Jan-25,44,Bauchi,North East,4G Router,Female,3,Good,1,65GB Monthly Plan,"?16,000.00",3,"?48,000.00",46.17,No,
+CUST0170,Amaka Whitaker,Jan-25,44,Bauchi,North East,Mobile SIM Card,Female,3,Good,1,3.2GB 2-Day Plan,"?1,000.00",12,"?12,000.00",21.09,No,
+CUST0171,Maryam Dixon,Feb-25,33,Jigawa,North West,4G Router,Male,1,Poor,42,165GB Monthly Plan,"?35,000.00",7,"?245,000.00",70.56,No,
+CUST0172,Obinna Miller,Jan-25,68,Nasarawa,North Central,Mobile SIM Card,Male,2,Fair,6,7GB Monthly Plan,"?3,500.00",8,"?28,000.00",158.32,No,
+CUST0172,Obinna Miller,Jan-25,68,Nasarawa,North Central,4G Router,Male,2,Fair,6,25GB Monthly Plan,"?9,000.00",8,"?72,000.00",129.1,No,
+CUST0172,Obinna Miller,Jan-25,68,Nasarawa,North Central,5G Broadband Router,Male,2,Fair,6,120GB Monthly Broadband Plan,"?24,000.00",1,"?24,000.00",155.9,No,
+CUST0173,Maryam Soto,Feb-25,42,Bauchi,North East,Mobile SIM Card,Male,3,Good,48,20GB Monthly Plan,"?7,500.00",16,"?120,000.00",22.99,No,
+CUST0174,Kunle Jones,Feb-25,17,Gombe,North East,4G Router,Female,5,Excellent,9,10GB+10mins Monthly Plan,"?4,500.00",1,"?4,500.00",117.68,No,
+CUST0174,Kunle Jones,Feb-25,17,Gombe,North East,Mobile SIM Card,Female,5,Excellent,9,1GB+1.5mins Daily Plan,?500.00,2,"?1,000.00",43.54,No,
+CUST0175,Tamuno Patton,Feb-25,80,Cross River,South South,Mobile SIM Card,Female,1,Poor,28,25GB Monthly Plan,"?9,000.00",7,"?63,000.00",16.26,No,
+CUST0175,Tamuno Patton,Feb-25,80,Cross River,South South,Mobile SIM Card,Female,1,Poor,28,1.5GB 2-Day Plan,?600.00,13,"?7,800.00",107.51,No,
+CUST0175,Tamuno Patton,Feb-25,80,Cross River,South South,Broadband MiFi,Female,1,Poor,28,120GB Monthly Broadband Plan,"?24,000.00",3,"?72,000.00",127.04,No,
+CUST0176,Maryam Martinez,Jan-25,71,Imo,South East,Broadband MiFi,Male,4,Very Good,16,30GB Monthly Broadband Plan,"?9,000.00",5,"?45,000.00",3.03,Yes,Relocation
+CUST0176,Maryam Martinez,Jan-25,71,Imo,South East,4G Router,Male,4,Very Good,16,65GB Monthly Plan,"?16,000.00",12,"?192,000.00",33.18,Yes,Relocation
+CUST0176,Maryam Martinez,Jan-25,71,Imo,South East,Mobile SIM Card,Male,4,Very Good,16,16.5GB+10mins Monthly Plan,"?6,500.00",9,"?58,500.00",103.69,Yes,Relocation
+CUST0177,Amina Johnson,Jan-25,63,Borno,North East,5G Broadband Router,Female,1,Poor,47,150GB FUP Monthly Unlimited,"?20,000.00",19,"?380,000.00",52.96,No,
+CUST0177,Amina Johnson,Jan-25,63,Borno,North East,Mobile SIM Card,Female,1,Poor,47,3.2GB 2-Day Plan,"?1,000.00",17,"?17,000.00",99.48,No,
+CUST0178,Ejiro Johnson,Feb-25,23,Yobe,North East,Broadband MiFi,Male,3,Good,24,30GB Monthly Broadband Plan,"?9,000.00",1,"?9,000.00",171.81,No,
+CUST0178,Ejiro Johnson,Feb-25,23,Yobe,North East,Mobile SIM Card,Male,3,Good,24,500MB Daily Plan,?350.00,12,"?4,200.00",9.67,No,
+CUST0178,Ejiro Johnson,Feb-25,23,Yobe,North East,5G Broadband Router,Male,3,Good,24,450GB 3-Month Broadband Plan,"?75,000.00",6,"?450,000.00",184.09,No,
+CUST0179,Bola Curtis,Feb-25,69,Osun,South West,5G Broadband Router,Female,3,Good,16,300GB FUP Monthly Unlimited,"?30,000.00",17,"?510,000.00",45.03,Yes,Poor Network
+CUST0179,Bola Curtis,Feb-25,69,Osun,South West,Broadband MiFi,Female,3,Good,16,30GB Monthly Broadband Plan,"?9,000.00",3,"?27,000.00",190.84,Yes,Poor Network
+CUST0179,Bola Curtis,Feb-25,69,Osun,South West,Mobile SIM Card,Female,3,Good,16,12.5GB Monthly Plan,"?5,500.00",10,"?55,000.00",173.27,Yes,Poor Network
+CUST0180,Ese Haley,Feb-25,27,Sokoto,North West,Mobile SIM Card,Male,3,Good,24,25GB Monthly Plan,"?9,000.00",16,"?144,000.00",118.54,No,
+CUST0180,Ese Haley,Feb-25,27,Sokoto,North West,Mobile SIM Card,Male,3,Good,24,500MB Daily Plan,?350.00,18,"?6,300.00",146.63,No,
+CUST0181,Halima Walker,Feb-25,35,Lagos,South West,Broadband MiFi,Female,5,Excellent,2,60GB Monthly Broadband Plan,"?14,500.00",10,"?145,000.00",169.88,No,
+CUST0181,Halima Walker,Feb-25,35,Lagos,South West,4G Router,Female,5,Excellent,2,65GB Monthly Plan,"?16,000.00",8,"?128,000.00",41.44,No,
+CUST0181,Halima Walker,Feb-25,35,Lagos,South West,Mobile SIM Card,Female,5,Excellent,2,20GB Monthly Plan,"?7,500.00",2,"?15,000.00",98.66,No,
+CUST0182,Obinna Mills,Feb-25,51,Katsina,North West,Mobile SIM Card,Male,5,Excellent,59,3.2GB 2-Day Plan,"?1,000.00",17,"?17,000.00",116.36,No,
+CUST0182,Obinna Mills,Feb-25,51,Katsina,North West,5G Broadband Router,Male,5,Excellent,59,300GB FUP Monthly Unlimited,"?30,000.00",13,"?390,000.00",127.62,No,
+CUST0183,Kunle Shaw,Mar-25,23,Kwara,North Central,5G Broadband Router,Male,3,Good,16,1.5TB Yearly Broadband Plan,"?150,000.00",3,"?450,000.00",54.76,No,
+CUST0183,Kunle Shaw,Mar-25,23,Kwara,North Central,4G Router,Male,3,Good,16,10GB+10mins Monthly Plan,"?4,500.00",19,"?85,500.00",27.65,No,
+CUST0184,Ngozi Webb,Feb-25,35,Anambra,South East,5G Broadband Router,Male,3,Good,29,120GB Monthly Broadband Plan,"?24,000.00",4,"?96,000.00",92.94,No,
+CUST0184,Ngozi Webb,Feb-25,35,Anambra,South East,Broadband MiFi,Male,3,Good,29,30GB Monthly Broadband Plan,"?9,000.00",10,"?90,000.00",31.94,No,
+CUST0184,Ngozi Webb,Feb-25,35,Anambra,South East,Mobile SIM Card,Male,3,Good,29,65GB Monthly Plan,"?16,000.00",11,"?176,000.00",43.4,No,
+CUST0185,Obinna Young,Jan-25,27,Imo,South East,Mobile SIM Card,Female,3,Good,26,12.5GB Monthly Plan,"?5,500.00",18,"?99,000.00",111.41,Yes,Poor Customer Service
+CUST0186,Halima Harrison,Feb-25,28,Sokoto,North West,4G Router,Male,1,Poor,52,10GB+10mins Monthly Plan,"?4,500.00",12,"?54,000.00",164.82,Yes,Better Offers from Competitors
+CUST0187,Chinedu Brown,Feb-25,49,Kaduna,North West,5G Broadband Router,Male,4,Very Good,5,150GB FUP Monthly Unlimited,"?20,000.00",15,"?300,000.00",9.02,No,
+CUST0188,Sade Cruz,Jan-25,37,Kwara,North Central,5G Broadband Router,Female,4,Very Good,32,60GB Monthly Broadband Plan,"?14,500.00",9,"?130,500.00",181.71,No,
+CUST0189,Zainab Mcguire,Feb-25,73,Plateau,North Central,Mobile SIM Card,Male,3,Good,40,1GB+1.5mins Daily Plan,?500.00,14,"?7,000.00",76.91,No,
+CUST0189,Zainab Mcguire,Feb-25,73,Plateau,North Central,Broadband MiFi,Male,3,Good,40,150GB FUP Monthly Unlimited,"?20,000.00",17,"?340,000.00",128.71,No,
+CUST0189,Zainab Mcguire,Feb-25,73,Plateau,North Central,5G Broadband Router,Male,3,Good,40,60GB Monthly Broadband Plan,"?14,500.00",18,"?261,000.00",126.34,No,
+CUST0190,Funke Thomas,Feb-25,64,Ekiti,South West,5G Broadband Router,Female,3,Good,35,300GB FUP Monthly Unlimited,"?30,000.00",20,"?600,000.00",5.7,No,
+CUST0190,Funke Thomas,Feb-25,64,Ekiti,South West,4G Router,Female,3,Good,35,10GB+10mins Monthly Plan,"?4,500.00",9,"?40,500.00",6.35,No,
+CUST0190,Funke Thomas,Feb-25,64,Ekiti,South West,Mobile SIM Card,Female,3,Good,35,2.5GB 2-Day Plan,?900.00,16,"?14,400.00",161.83,No,
+CUST0191,Sarah Meyer,Feb-25,61,Osun,South West,Broadband MiFi,Male,2,Fair,7,300GB FUP Monthly Unlimited,"?30,000.00",6,"?180,000.00",187.07,Yes,Better Offers from Competitors
+CUST0191,Sarah Meyer,Feb-25,61,Osun,South West,Mobile SIM Card,Male,2,Fair,7,1.5GB 2-Day Plan,?600.00,11,"?6,600.00",47.69,Yes,Better Offers from Competitors
+CUST0191,Sarah Meyer,Feb-25,61,Osun,South West,4G Router,Male,2,Fair,7,25GB Monthly Plan,"?9,000.00",1,"?9,000.00",182.84,Yes,Better Offers from Competitors
+CUST0192,Oghene Schroeder,Mar-25,34,Benue,North Central,Broadband MiFi,Female,2,Fair,35,150GB FUP Monthly Unlimited,"?20,000.00",1,"?20,000.00",120.53,No,
+CUST0193,Sarah Thomas,Feb-25,77,Lagos,South West,5G Broadband Router,Female,2,Fair,59,30GB Monthly Broadband Plan,"?9,000.00",19,"?171,000.00",4.87,No,
+CUST0194,Obinna Dunn,Mar-25,30,Bauchi,North East,5G Broadband Router,Female,4,Very Good,5,300GB FUP Monthly Unlimited,"?30,000.00",14,"?420,000.00",195.18,No,
+CUST0194,Obinna Dunn,Mar-25,30,Bauchi,North East,4G Router,Female,4,Very Good,5,165GB Monthly Plan,"?35,000.00",6,"?210,000.00",130.01,No,
+CUST0195,Oghene Munoz,Mar-25,44,Enugu,South East,Mobile SIM Card,Female,2,Fair,20,1.5GB 2-Day Plan,?600.00,20,"?12,000.00",120.68,Yes,Poor Network
+CUST0195,Oghene Munoz,Mar-25,44,Enugu,South East,5G Broadband Router,Female,2,Fair,20,60GB Monthly Broadband Plan,"?14,500.00",4,"?58,000.00",128.11,Yes,Poor Network
+CUST0195,Oghene Munoz,Mar-25,44,Enugu,South East,Broadband MiFi,Female,2,Fair,20,60GB Monthly Broadband Plan,"?14,500.00",3,"?43,500.00",28.56,Yes,Poor Network
+CUST0196,Halima Burns,Jan-25,60,Niger,North Central,4G Router,Male,3,Good,41,65GB Monthly Plan,"?16,000.00",4,"?64,000.00",70.42,No,
+CUST0196,Halima Burns,Jan-25,60,Niger,North Central,Broadband MiFi,Male,3,Good,41,30GB Monthly Broadband Plan,"?9,000.00",15,"?135,000.00",10.11,No,
+CUST0197,Ibim Murphy,Feb-25,37,Kogi,North Central,Mobile SIM Card,Female,3,Good,57,500MB Daily Plan,?350.00,3,"?1,050.00",32.95,No,
+CUST0198,Bola Potter,Jan-25,53,Kano,North West,4G Router,Female,1,Poor,17,65GB Monthly Plan,"?16,000.00",3,"?48,000.00",109.64,No,
+CUST0198,Bola Potter,Jan-25,53,Kano,North West,5G Broadband Router,Female,1,Poor,17,200GB Monthly Broadband Plan,"?25,000.00",20,"?500,000.00",119.01,No,
+CUST0199,John Morales,Feb-25,19,Kwara,North Central,4G Router,Male,2,Fair,39,10GB+10mins Monthly Plan,"?4,500.00",18,"?81,000.00",139.59,Yes,Costly Data Plans
+CUST0200,Saidu Tucker,Jan-25,52,Abia,South East,4G Router,Male,4,Very Good,7,25GB Monthly Plan,"?9,000.00",3,"?27,000.00",1.26,No,
+CUST0200,Saidu Tucker,Jan-25,52,Abia,South East,Broadband MiFi,Male,4,Very Good,7,300GB FUP Monthly Unlimited,"?30,000.00",20,"?600,000.00",164.87,No,
+CUST0201,John Mcgrath,Feb-25,41,Anambra,South East,Broadband MiFi,Male,3,Good,14,60GB Monthly Broadband Plan,"?14,500.00",9,"?130,500.00",94.45,No,
+CUST0201,John Mcgrath,Feb-25,41,Anambra,South East,4G Router,Male,3,Good,14,65GB Monthly Plan,"?16,000.00",13,"?208,000.00",128.55,No,
+CUST0202,Shehu Hays,Feb-25,63,Jigawa,North West,4G Router,Female,1,Poor,12,65GB Monthly Plan,"?16,000.00",4,"?64,000.00",30.65,Yes,Fast Data Consumption
+CUST0202,Shehu Hays,Feb-25,63,Jigawa,North West,Mobile SIM Card,Female,1,Poor,12,3.2GB 2-Day Plan,"?1,000.00",18,"?18,000.00",133.79,Yes,Fast Data Consumption
+CUST0203,Ibim Castro,Feb-25,45,Oyo,South West,4G Router,Female,5,Excellent,53,25GB Monthly Plan,"?9,000.00",2,"?18,000.00",16.25,No,
+CUST0203,Ibim Castro,Feb-25,45,Oyo,South West,Mobile SIM Card,Female,5,Excellent,53,16.5GB+10mins Monthly Plan,"?6,500.00",17,"?110,500.00",114.46,No,
+CUST0204,Obinna Patterson,Feb-25,31,Nasarawa,North Central,Mobile SIM Card,Male,2,Fair,11,500MB Daily Plan,?350.00,5,"?1,750.00",199.46,Yes,Fast Data Consumption
+CUST0205,Saidu Munoz,Feb-25,56,Kaduna,North West,Mobile SIM Card,Male,5,Excellent,25,16.5GB+10mins Monthly Plan,"?6,500.00",4,"?26,000.00",156.45,No,
+CUST0205,Saidu Munoz,Feb-25,56,Kaduna,North West,Broadband MiFi,Male,5,Excellent,25,60GB Monthly Broadband Plan,"?14,500.00",19,"?275,500.00",30.35,No,
+CUST0206,Ngozi Wood,Mar-25,29,Anambra,South East,Mobile SIM Card,Female,4,Very Good,56,1.5GB 2-Day Plan,?600.00,5,"?3,000.00",55.45,Yes,High Call Tarriffs
+CUST0206,Ngozi Wood,Mar-25,29,Anambra,South East,Broadband MiFi,Female,4,Very Good,56,120GB Monthly Broadband Plan,"?24,000.00",13,"?312,000.00",121.93,Yes,High Call Tarriffs
+CUST0207,Bola Miller,Feb-25,66,Bayelsa,South South,5G Broadband Router,Male,3,Good,4,120GB Monthly Broadband Plan,"?24,000.00",16,"?384,000.00",62.53,No,
+CUST0208,Ngozi Acevedo,Feb-25,45,Borno,North East,Broadband MiFi,Female,3,Good,48,150GB FUP Monthly Unlimited,"?20,000.00",14,"?280,000.00",182.73,Yes,Fast Data Consumption
+CUST0208,Ngozi Acevedo,Feb-25,45,Borno,North East,Mobile SIM Card,Female,3,Good,48,12.5GB Monthly Plan,"?5,500.00",12,"?66,000.00",152.02,Yes,Fast Data Consumption
+CUST0208,Ngozi Acevedo,Feb-25,45,Borno,North East,4G Router,Female,3,Good,48,65GB Monthly Plan,"?16,000.00",6,"?96,000.00",103.3,Yes,Fast Data Consumption
+CUST0209,Kunle Bird,Jan-25,55,Zamfara,North West,Broadband MiFi,Female,2,Fair,9,150GB FUP Monthly Unlimited,"?20,000.00",2,"?40,000.00",7.1,Yes,Better Offers from Competitors
+CUST0210,Ejiro Gill,Feb-25,41,Akwa Ibom,South South,Broadband MiFi,Female,5,Excellent,53,150GB FUP Monthly Unlimited,"?20,000.00",20,"?400,000.00",74.81,No,
+CUST0211,Alabo Clay,Feb-25,38,Taraba,North East,Broadband MiFi,Female,3,Good,23,60GB Monthly Broadband Plan,"?14,500.00",19,"?275,500.00",10.41,No,
+CUST0211,Alabo Clay,Feb-25,38,Taraba,North East,Mobile SIM Card,Female,3,Good,23,10GB+10mins Monthly Plan,"?4,500.00",8,"?36,000.00",171.49,No,
+CUST0211,Alabo Clay,Feb-25,38,Taraba,North East,Mobile SIM Card,Female,3,Good,23,500MB Daily Plan,?350.00,14,"?4,900.00",54.18,No,
+CUST0212,Michael Williams,Feb-25,18,Lagos,South West,4G Router,Female,2,Fair,59,10GB+10mins Monthly Plan,"?4,500.00",10,"?45,000.00",121.86,No,
+CUST0213,Zainab Clark,Mar-25,70,Jigawa,North West,Mobile SIM Card,Female,2,Fair,30,2.5GB 2-Day Plan,?900.00,12,"?10,800.00",102.55,No,
+CUST0213,Zainab Clark,Mar-25,70,Jigawa,North West,5G Broadband Router,Female,2,Fair,30,120GB Monthly Broadband Plan,"?24,000.00",4,"?96,000.00",60.05,No,
+CUST0213,Zainab Clark,Mar-25,70,Jigawa,North West,Broadband MiFi,Female,2,Fair,30,60GB Monthly Broadband Plan,"?14,500.00",9,"?130,500.00",13.24,No,
+CUST0214,Ese Cooper,Feb-25,51,Edo,South South,Mobile SIM Card,Female,5,Excellent,13,7GB Monthly Plan,"?3,500.00",1,"?3,500.00",136.31,No,
+CUST0215,Grace Figueroa,Feb-25,53,Edo,South South,Mobile SIM Card,Female,1,Poor,26,165GB Monthly Plan,"?35,000.00",12,"?420,000.00",181.35,No,
+CUST0215,Grace Figueroa,Feb-25,53,Edo,South South,Mobile SIM Card,Female,1,Poor,26,16.5GB+10mins Monthly Plan,"?6,500.00",6,"?39,000.00",60.39,No,
+CUST0215,Grace Figueroa,Feb-25,53,Edo,South South,Broadband MiFi,Female,1,Poor,26,120GB Monthly Broadband Plan,"?24,000.00",4,"?96,000.00",36.64,No,
+CUST0216,John Erickson,Mar-25,32,Edo,South South,5G Broadband Router,Male,1,Poor,44,200GB Monthly Broadband Plan,"?25,000.00",10,"?250,000.00",52.48,Yes,Poor Customer Service
+CUST0216,John Erickson,Mar-25,32,Edo,South South,4G Router,Male,1,Poor,44,165GB Monthly Plan,"?35,000.00",16,"?560,000.00",170.32,Yes,Poor Customer Service
+CUST0216,John Erickson,Mar-25,32,Edo,South South,Mobile SIM Card,Male,1,Poor,44,2.5GB 2-Day Plan,?900.00,19,"?17,100.00",173.35,Yes,Poor Customer Service
+CUST0217,Kunle Collins,Feb-25,76,Benue,North Central,4G Router,Male,5,Excellent,56,10GB+10mins Monthly Plan,"?4,500.00",19,"?85,500.00",68.86,Yes,Poor Network
+CUST0218,Zina Dawson,Jan-25,34,Niger,North Central,5G Broadband Router,Male,4,Very Good,50,30GB Monthly Broadband Plan,"?9,000.00",9,"?81,000.00",1.44,No,
+CUST0219,Fatima Scott,Jan-25,37,Abuja (FCT),North Central,Mobile SIM Card,Female,2,Fair,51,12.5GB Monthly Plan,"?5,500.00",2,"?11,000.00",76.97,No,
+CUST0219,Fatima Scott,Jan-25,37,Abuja (FCT),North Central,4G Router,Female,2,Fair,51,10GB+10mins Monthly Plan,"?4,500.00",1,"?4,500.00",146.27,No,
+CUST0219,Fatima Scott,Jan-25,37,Abuja (FCT),North Central,5G Broadband Router,Female,2,Fair,51,200GB Monthly Broadband Plan,"?25,000.00",17,"?425,000.00",151.49,No,
+CUST0220,Bala Smith,Mar-25,18,Lagos,South West,Mobile SIM Card,Male,3,Good,15,2.5GB 2-Day Plan,?900.00,10,"?9,000.00",59.99,Yes,Fast Data Consumption
+CUST0221,Zina Cochran,Feb-25,59,Kwara,North Central,Mobile SIM Card,Male,3,Good,22,2.5GB 2-Day Plan,?900.00,5,"?4,500.00",46.07,No,
+CUST0222,Fatima Carpenter,Mar-25,18,Zamfara,North West,Mobile SIM Card,Male,1,Poor,8,2.5GB 2-Day Plan,?900.00,1,?900.00,132.56,No,
+CUST0223,Sade Howell,Jan-25,30,Kogi,North Central,Mobile SIM Card,Female,5,Excellent,25,65GB Monthly Plan,"?16,000.00",4,"?64,000.00",60.57,Yes,High Call Tarriffs
+CUST0224,Sarah Stevens,Jan-25,50,Borno,North East,5G Broadband Router,Female,5,Excellent,54,150GB FUP Monthly Unlimited,"?20,000.00",16,"?320,000.00",157.06,No,
+CUST0225,Bala Cummings,Feb-25,41,Edo,South South,Mobile SIM Card,Male,3,Good,23,165GB Monthly Plan,"?35,000.00",1,"?35,000.00",66.46,Yes,Relocation
+CUST0225,Bala Cummings,Feb-25,41,Edo,South South,5G Broadband Router,Male,3,Good,23,30GB Monthly Broadband Plan,"?9,000.00",4,"?36,000.00",134.49,Yes,Relocation
+CUST0226,Grace Carter,Jan-25,35,Katsina,North West,5G Broadband Router,Male,3,Good,47,1.5TB Yearly Broadband Plan,"?150,000.00",6,"?900,000.00",10.49,No,
+CUST0226,Grace Carter,Jan-25,35,Katsina,North West,4G Router,Male,3,Good,47,65GB Monthly Plan,"?16,000.00",12,"?192,000.00",170.52,No,
+CUST0227,Ese Stewart,Jan-25,70,Delta,South South,4G Router,Male,1,Poor,55,165GB Monthly Plan,"?35,000.00",9,"?315,000.00",191.04,No,
+CUST0227,Ese Stewart,Jan-25,70,Delta,South South,Mobile SIM Card,Male,1,Poor,55,3.2GB 2-Day Plan,"?1,000.00",11,"?11,000.00",74.84,No,
+CUST0227,Ese Stewart,Jan-25,70,Delta,South South,5G Broadband Router,Male,1,Poor,55,300GB FUP Monthly Unlimited,"?30,000.00",13,"?390,000.00",23.21,No,
+CUST0228,Zina Fuller,Feb-25,50,Jigawa,North West,Broadband MiFi,Female,2,Fair,52,60GB Monthly Broadband Plan,"?14,500.00",16,"?232,000.00",182.29,Yes,High Call Tarriffs
+CUST0228,Zina Fuller,Feb-25,50,Jigawa,North West,Mobile SIM Card,Female,2,Fair,52,12.5GB Monthly Plan,"?5,500.00",13,"?71,500.00",36.66,Yes,High Call Tarriffs
+CUST0228,Zina Fuller,Feb-25,50,Jigawa,North West,5G Broadband Router,Female,2,Fair,52,200GB Monthly Broadband Plan,"?25,000.00",5,"?125,000.00",122.47,Yes,High Call Tarriffs
+CUST0229,John Edwards,Jan-25,78,Delta,South South,Mobile SIM Card,Female,1,Poor,29,25GB Monthly Plan,"?9,000.00",20,"?180,000.00",104.06,Yes,Costly Data Plans
+CUST0230,Ngozi Pierce,Feb-25,71,Imo,South East,Broadband MiFi,Female,2,Fair,23,120GB Monthly Broadband Plan,"?24,000.00",16,"?384,000.00",169.84,No,
+CUST0230,Ngozi Pierce,Feb-25,71,Imo,South East,Mobile SIM Card,Female,2,Fair,23,1.5GB 2-Day Plan,?600.00,16,"?9,600.00",15.44,No,
+CUST0230,Ngozi Pierce,Feb-25,71,Imo,South East,5G Broadband Router,Female,2,Fair,23,200GB Monthly Broadband Plan,"?25,000.00",9,"?225,000.00",48.56,No,
+CUST0231,Sade Smith,Feb-25,80,Osun,South West,Mobile SIM Card,Female,1,Poor,26,12.5GB Monthly Plan,"?5,500.00",16,"?88,000.00",63.55,No,
+CUST0231,Sade Smith,Feb-25,80,Osun,South West,Broadband MiFi,Female,1,Poor,26,30GB Monthly Broadband Plan,"?9,000.00",14,"?126,000.00",20.98,No,
+CUST0231,Sade Smith,Feb-25,80,Osun,South West,Mobile SIM Card,Female,1,Poor,26,65GB Monthly Plan,"?16,000.00",1,"?16,000.00",111.65,No,
+CUST0232,Chinedu Hughes,Feb-25,54,Zamfara,North West,4G Router,Male,3,Good,42,165GB Monthly Plan,"?35,000.00",20,"?700,000.00",66.73,No,
+CUST0233,John Benjamin,Feb-25,62,Nasarawa,North Central,5G Broadband Router,Male,1,Poor,7,150GB FUP Monthly Unlimited,"?20,000.00",6,"?120,000.00",9.63,No,
+CUST0233,John Benjamin,Feb-25,62,Nasarawa,North Central,Mobile SIM Card,Male,1,Poor,7,12.5GB Monthly Plan,"?5,500.00",14,"?77,000.00",28.52,No,
+CUST0233,John Benjamin,Feb-25,62,Nasarawa,North Central,4G Router,Male,1,Poor,7,65GB Monthly Plan,"?16,000.00",7,"?112,000.00",51.23,No,
+CUST0234,Bala Hardin,Feb-25,31,Kebbi,North West,Broadband MiFi,Male,3,Good,30,60GB Monthly Broadband Plan,"?14,500.00",19,"?275,500.00",91.75,Yes,Fast Data Consumption
+CUST0235,Michael Savage,Jan-25,33,Yobe,North East,Mobile SIM Card,Male,5,Excellent,34,1.5GB 2-Day Plan,?600.00,5,"?3,000.00",146.23,No,
+CUST0235,Michael Savage,Jan-25,33,Yobe,North East,5G Broadband Router,Male,5,Excellent,34,150GB FUP Monthly Unlimited,"?20,000.00",20,"?400,000.00",77.79,No,
+CUST0235,Michael Savage,Jan-25,33,Yobe,North East,Broadband MiFi,Male,5,Excellent,34,120GB Monthly Broadband Plan,"?24,000.00",17,"?408,000.00",176.6,No,
+CUST0236,Omamuzo Stephenson,Mar-25,69,Imo,South East,Mobile SIM Card,Female,3,Good,26,165GB Monthly Plan,"?35,000.00",17,"?595,000.00",120.7,No,
+CUST0237,Maryam Moore,Mar-25,56,Ondo,South West,4G Router,Male,3,Good,14,25GB Monthly Plan,"?9,000.00",12,"?108,000.00",142.22,No,
+CUST0238,John Patel,Feb-25,69,Adamawa,North East,Mobile SIM Card,Female,1,Poor,57,1.5GB 2-Day Plan,?600.00,2,"?1,200.00",11.09,No,
+CUST0239,Bala Holt,Mar-25,50,Abuja (FCT),North Central,5G Broadband Router,Female,2,Fair,44,200GB Monthly Broadband Plan,"?25,000.00",4,"?100,000.00",162.9,No,
+CUST0239,Bala Holt,Mar-25,50,Abuja (FCT),North Central,Broadband MiFi,Female,2,Fair,44,120GB Monthly Broadband Plan,"?24,000.00",18,"?432,000.00",173.67,No,
+CUST0239,Bala Holt,Mar-25,50,Abuja (FCT),North Central,Mobile SIM Card,Female,2,Fair,44,500MB Daily Plan,?350.00,18,"?6,300.00",148.61,No,
+CUST0240,Omamuzo Roberts,Jan-25,46,Zamfara,North West,5G Broadband Router,Female,4,Very Good,45,30GB Monthly Broadband Plan,"?9,000.00",7,"?63,000.00",148.86,No,
+CUST0240,Omamuzo Roberts,Jan-25,46,Zamfara,North West,Mobile SIM Card,Female,4,Very Good,45,12.5GB Monthly Plan,"?5,500.00",12,"?66,000.00",166.08,No,
+CUST0240,Omamuzo Roberts,Jan-25,46,Zamfara,North West,Broadband MiFi,Female,4,Very Good,45,120GB Monthly Broadband Plan,"?24,000.00",20,"?480,000.00",109.55,No,
+CUST0241,Bala Calhoun,Jan-25,40,Cross River,South South,Broadband MiFi,Female,2,Fair,12,60GB Monthly Broadband Plan,"?14,500.00",9,"?130,500.00",56.18,No,
+CUST0241,Bala Calhoun,Jan-25,40,Cross River,South South,4G Router,Female,2,Fair,12,10GB+10mins Monthly Plan,"?4,500.00",9,"?40,500.00",32.61,No,
+CUST0241,Bala Calhoun,Jan-25,40,Cross River,South South,Mobile SIM Card,Female,2,Fair,12,2.5GB 2-Day Plan,?900.00,5,"?4,500.00",66.45,No,
+CUST0242,Bola Miller,Mar-25,35,Niger,North Central,5G Broadband Router,Male,4,Very Good,50,60GB Monthly Broadband Plan,"?14,500.00",17,"?246,500.00",191.42,No,
+CUST0242,Bola Miller,Mar-25,35,Niger,North Central,Broadband MiFi,Male,4,Very Good,50,30GB Monthly Broadband Plan,"?9,000.00",6,"?54,000.00",157.36,No,
+CUST0242,Bola Miller,Mar-25,35,Niger,North Central,4G Router,Male,4,Very Good,50,165GB Monthly Plan,"?35,000.00",13,"?455,000.00",108.84,No,
+CUST0243,Chinedu Elliott,Mar-25,60,Osun,South West,Mobile SIM Card,Male,3,Good,43,16.5GB+10mins Monthly Plan,"?6,500.00",1,"?6,500.00",164.83,No,
+CUST0244,Ifeanyi Austin,Feb-25,60,Nasarawa,North Central,Mobile SIM Card,Male,1,Poor,58,20GB Monthly Plan,"?7,500.00",10,"?75,000.00",51.69,No,
+CUST0244,Ifeanyi Austin,Feb-25,60,Nasarawa,North Central,Broadband MiFi,Male,1,Poor,58,30GB Monthly Broadband Plan,"?9,000.00",12,"?108,000.00",182.31,No,
+CUST0245,Michael Jones,Feb-25,73,Yobe,North East,4G Router,Male,3,Good,19,65GB Monthly Plan,"?16,000.00",7,"?112,000.00",125.57,No,
+CUST0246,Fatima Foster,Feb-25,70,Anambra,South East,Broadband MiFi,Male,1,Poor,35,60GB Monthly Broadband Plan,"?14,500.00",2,"?29,000.00",143.52,No,
+CUST0247,Chinedu Yates,Mar-25,25,Oyo,South West,5G Broadband Router,Male,5,Excellent,51,450GB 3-Month Broadband Plan,"?75,000.00",13,"?975,000.00",77.91,Yes,Better Offers from Competitors
+CUST0248,Boma Peterson,Jan-25,56,Kano,North West,Broadband MiFi,Female,5,Excellent,44,30GB Monthly Broadband Plan,"?9,000.00",17,"?153,000.00",71.86,Yes,High Call Tarriffs
+CUST0248,Boma Peterson,Jan-25,56,Kano,North West,5G Broadband Router,Female,5,Excellent,44,150GB FUP Monthly Unlimited,"?20,000.00",10,"?200,000.00",58.32,Yes,High Call Tarriffs
+CUST0248,Boma Peterson,Jan-25,56,Kano,North West,Mobile SIM Card,Female,5,Excellent,44,3.2GB 2-Day Plan,"?1,000.00",15,"?15,000.00",56.66,Yes,High Call Tarriffs
+CUST0249,Omamuzo Jones,Feb-25,66,Kano,North West,5G Broadband Router,Female,2,Fair,11,120GB Monthly Broadband Plan,"?24,000.00",12,"?288,000.00",135.62,No,
+CUST0249,Omamuzo Jones,Feb-25,66,Kano,North West,Mobile SIM Card,Female,2,Fair,11,2.5GB 2-Day Plan,?900.00,18,"?16,200.00",110.93,No,
+CUST0249,Omamuzo Jones,Feb-25,66,Kano,North West,Broadband MiFi,Female,2,Fair,11,150GB FUP Monthly Unlimited,"?20,000.00",1,"?20,000.00",25.09,No,
+CUST0250,Tamuno Lawrence,Mar-25,26,Abia,South East,4G Router,Male,2,Fair,48,10GB+10mins Monthly Plan,"?4,500.00",9,"?40,500.00",123.57,No,
+CUST0250,Tamuno Lawrence,Mar-25,26,Abia,South East,Broadband MiFi,Male,2,Fair,48,150GB FUP Monthly Unlimited,"?20,000.00",19,"?380,000.00",23.37,No,
+CUST0250,Tamuno Lawrence,Mar-25,26,Abia,South East,5G Broadband Router,Male,2,Fair,48,30GB Monthly Broadband Plan,"?9,000.00",18,"?162,000.00",170.35,No,
+CUST0251,Zina Nicholson,Jan-25,25,Cross River,South South,5G Broadband Router,Male,2,Fair,17,300GB FUP Monthly Unlimited,"?30,000.00",8,"?240,000.00",134.42,No,
+CUST0251,Zina Nicholson,Jan-25,25,Cross River,South South,4G Router,Male,2,Fair,17,65GB Monthly Plan,"?16,000.00",3,"?48,000.00",57.38,No,
+CUST0252,Bala Graham,Mar-25,56,Yobe,North East,5G Broadband Router,Female,5,Excellent,22,300GB FUP Monthly Unlimited,"?30,000.00",8,"?240,000.00",1.46,Yes,Relocation
+CUST0252,Bala Graham,Mar-25,56,Yobe,North East,Mobile SIM Card,Female,5,Excellent,22,10GB+10mins Monthly Plan,"?4,500.00",14,"?63,000.00",142.58,Yes,Relocation
+CUST0253,Zainab Blackwell,Feb-25,62,Borno,North East,Mobile SIM Card,Female,4,Very Good,57,3.2GB 2-Day Plan,"?1,000.00",20,"?20,000.00",35.57,No,
+CUST0253,Zainab Blackwell,Feb-25,62,Borno,North East,5G Broadband Router,Female,4,Very Good,57,150GB FUP Monthly Unlimited,"?20,000.00",5,"?100,000.00",168.44,No,
+CUST0254,David Rodriguez,Jan-25,41,Edo,South South,Broadband MiFi,Male,1,Poor,47,120GB Monthly Broadband Plan,"?24,000.00",2,"?48,000.00",42.95,No,
+CUST0254,David Rodriguez,Jan-25,41,Edo,South South,5G Broadband Router,Male,1,Poor,47,120GB Monthly Broadband Plan,"?24,000.00",18,"?432,000.00",108.92,No,
+CUST0254,David Rodriguez,Jan-25,41,Edo,South South,4G Router,Male,1,Poor,47,165GB Monthly Plan,"?35,000.00",5,"?175,000.00",130.95,No,
+CUST0255,Ejiro Miller,Feb-25,66,Osun,South West,5G Broadband Router,Female,5,Excellent,9,30GB Monthly Broadband Plan,"?9,000.00",20,"?180,000.00",132.7,No,
+CUST0255,Ejiro Miller,Feb-25,66,Osun,South West,Mobile SIM Card,Female,5,Excellent,9,1.5GB 2-Day Plan,?600.00,5,"?3,000.00",151.56,No,
+CUST0256,Alabo Smith,Feb-25,36,Enugu,South East,4G Router,Male,3,Good,48,25GB Monthly Plan,"?9,000.00",2,"?18,000.00",74.2,Yes,Better Offers from Competitors
+CUST0256,Alabo Smith,Feb-25,36,Enugu,South East,Broadband MiFi,Male,3,Good,48,150GB FUP Monthly Unlimited,"?20,000.00",12,"?240,000.00",103.82,Yes,Better Offers from Competitors
+CUST0257,Omamuzo Smith,Mar-25,76,Sokoto,North West,5G Broadband Router,Male,1,Poor,3,300GB FUP Monthly Unlimited,"?30,000.00",13,"?390,000.00",75.64,No,
+CUST0257,Omamuzo Smith,Mar-25,76,Sokoto,North West,Mobile SIM Card,Male,1,Poor,3,7GB Monthly Plan,"?3,500.00",3,"?10,500.00",117.74,No,
+CUST0257,Omamuzo Smith,Mar-25,76,Sokoto,North West,4G Router,Male,1,Poor,3,25GB Monthly Plan,"?9,000.00",8,"?72,000.00",75.58,No,
+CUST0258,Sarah Munoz,Feb-25,67,Ekiti,South West,Mobile SIM Card,Female,5,Excellent,32,65GB Monthly Plan,"?16,000.00",9,"?144,000.00",103.15,Yes,Poor Customer Service
+CUST0258,Sarah Munoz,Feb-25,67,Ekiti,South West,Broadband MiFi,Female,5,Excellent,32,150GB FUP Monthly Unlimited,"?20,000.00",6,"?120,000.00",30.47,Yes,Poor Customer Service
+CUST0259,Ejiro Collins,Mar-25,31,Osun,South West,Mobile SIM Card,Female,1,Poor,52,1.5GB 2-Day Plan,?600.00,14,"?8,400.00",129.63,No,
+CUST0259,Ejiro Collins,Mar-25,31,Osun,South West,Broadband MiFi,Female,1,Poor,52,30GB Monthly Broadband Plan,"?9,000.00",5,"?45,000.00",49.11,No,
+CUST0260,Amina Johns,Feb-25,33,Zamfara,North West,Mobile SIM Card,Male,1,Poor,58,1GB+1.5mins Daily Plan,?500.00,7,"?3,500.00",189.48,Yes,Poor Customer Service
+CUST0260,Amina Johns,Feb-25,33,Zamfara,North West,5G Broadband Router,Male,1,Poor,58,1.5TB Yearly Broadband Plan,"?150,000.00",16,"?2,400,000.00",121.5,Yes,Poor Customer Service
+CUST0260,Amina Johns,Feb-25,33,Zamfara,North West,Broadband MiFi,Male,1,Poor,58,60GB Monthly Broadband Plan,"?14,500.00",14,"?203,000.00",34.53,Yes,Poor Customer Service
+CUST0261,Obinna Simon,Mar-25,39,Zamfara,North West,4G Router,Female,4,Very Good,11,165GB Monthly Plan,"?35,000.00",4,"?140,000.00",77.4,No,
+CUST0262,Funke Alexander,Feb-25,41,Bauchi,North East,Broadband MiFi,Female,5,Excellent,53,30GB Monthly Broadband Plan,"?9,000.00",5,"?45,000.00",96.71,Yes,Fast Data Consumption
+CUST0262,Funke Alexander,Feb-25,41,Bauchi,North East,5G Broadband Router,Female,5,Excellent,53,30GB Monthly Broadband Plan,"?9,000.00",14,"?126,000.00",179.45,Yes,Fast Data Consumption
+CUST0262,Funke Alexander,Feb-25,41,Bauchi,North East,Mobile SIM Card,Female,5,Excellent,53,16.5GB+10mins Monthly Plan,"?6,500.00",2,"?13,000.00",84.43,Yes,Fast Data Consumption
+CUST0263,Sarah Fritz,Feb-25,70,Osun,South West,Broadband MiFi,Female,3,Good,51,300GB FUP Monthly Unlimited,"?30,000.00",8,"?240,000.00",95.69,No,
+CUST0263,Sarah Fritz,Feb-25,70,Osun,South West,4G Router,Female,3,Good,51,65GB Monthly Plan,"?16,000.00",18,"?288,000.00",57.01,No,
+CUST0263,Sarah Fritz,Feb-25,70,Osun,South West,Mobile SIM Card,Female,3,Good,51,20GB Monthly Plan,"?7,500.00",1,"?7,500.00",51.93,No,
+CUST0264,Tunde Smith,Feb-25,31,Bauchi,North East,Mobile SIM Card,Male,3,Good,25,165GB Monthly Plan,"?35,000.00",9,"?315,000.00",130.49,No,
+CUST0265,Saidu Martinez,Feb-25,70,Gombe,North East,Mobile SIM Card,Female,2,Fair,44,16.5GB+10mins Monthly Plan,"?6,500.00",9,"?58,500.00",111.2,No,
+CUST0265,Saidu Martinez,Feb-25,70,Gombe,North East,Broadband MiFi,Female,2,Fair,44,300GB FUP Monthly Unlimited,"?30,000.00",13,"?390,000.00",115.74,No,
+CUST0265,Saidu Martinez,Feb-25,70,Gombe,North East,4G Router,Female,2,Fair,44,10GB+10mins Monthly Plan,"?4,500.00",4,"?18,000.00",171.07,No,
+CUST0266,Nura Hunter,Feb-25,73,Abuja (FCT),North Central,Broadband MiFi,Male,3,Good,14,30GB Monthly Broadband Plan,"?9,000.00",5,"?45,000.00",160.97,No,
+CUST0266,Nura Hunter,Feb-25,73,Abuja (FCT),North Central,Mobile SIM Card,Male,3,Good,14,12.5GB Monthly Plan,"?5,500.00",14,"?77,000.00",185.21,No,
+CUST0266,Nura Hunter,Feb-25,73,Abuja (FCT),North Central,4G Router,Male,3,Good,14,65GB Monthly Plan,"?16,000.00",8,"?128,000.00",13.28,No,
+CUST0267,Ejiro Mendoza,Feb-25,26,Rivers,South South,Broadband MiFi,Female,5,Excellent,60,60GB Monthly Broadband Plan,"?14,500.00",7,"?101,500.00",88.07,No,
+CUST0267,Ejiro Mendoza,Feb-25,26,Rivers,South South,Mobile SIM Card,Female,5,Excellent,60,16.5GB+10mins Monthly Plan,"?6,500.00",2,"?13,000.00",57.56,No,
+CUST0268,Michael Peterson,Feb-25,45,Abuja (FCT),North Central,5G Broadband Router,Male,1,Poor,24,450GB 3-Month Broadband Plan,"?75,000.00",13,"?975,000.00",70.95,No,
+CUST0269,Tamuno Diaz,Jan-25,41,Bauchi,North East,5G Broadband Router,Male,1,Poor,48,60GB Monthly Broadband Plan,"?14,500.00",7,"?101,500.00",121.47,No,
+CUST0269,Tamuno Diaz,Jan-25,41,Bauchi,North East,4G Router,Male,1,Poor,48,165GB Monthly Plan,"?35,000.00",19,"?665,000.00",185.98,No,
+CUST0269,Tamuno Diaz,Jan-25,41,Bauchi,North East,Mobile SIM Card,Male,1,Poor,48,2.5GB 2-Day Plan,?900.00,14,"?12,600.00",52.59,No,
+CUST0270,Michael Rodriguez,Jan-25,29,Kaduna,North West,5G Broadband Router,Female,5,Excellent,22,450GB 3-Month Broadband Plan,"?75,000.00",8,"?600,000.00",112.85,No,
+CUST0270,Michael Rodriguez,Jan-25,29,Kaduna,North West,Mobile SIM Card,Female,5,Excellent,22,7GB Monthly Plan,"?3,500.00",15,"?52,500.00",192.27,No,
+CUST0270,Michael Rodriguez,Jan-25,29,Kaduna,North West,Mobile SIM Card,Female,5,Excellent,22,165GB Monthly Plan,"?35,000.00",1,"?35,000.00",179.36,No,
+CUST0271,John Benson,Feb-25,30,Edo,South South,5G Broadband Router,Male,2,Fair,25,30GB Monthly Broadband Plan,"?9,000.00",9,"?81,000.00",140.31,No,
+CUST0271,John Benson,Feb-25,30,Edo,South South,Mobile SIM Card,Male,2,Fair,25,500MB Daily Plan,?350.00,13,"?4,550.00",57.81,No,
+CUST0272,Tega Cooper,Mar-25,25,Enugu,South East,Mobile SIM Card,Female,2,Fair,21,10GB+10mins Monthly Plan,"?4,500.00",7,"?31,500.00",100.05,No,
+CUST0272,Tega Cooper,Mar-25,25,Enugu,South East,5G Broadband Router,Female,2,Fair,21,60GB Monthly Broadband Plan,"?14,500.00",9,"?130,500.00",147.22,No,
+CUST0273,Fatima Lewis,Mar-25,45,Benue,North Central,Broadband MiFi,Male,2,Fair,54,60GB Monthly Broadband Plan,"?14,500.00",18,"?261,000.00",122.96,No,
+CUST0274,Bola Duffy,Mar-25,77,Gombe,North East,5G Broadband Router,Female,4,Very Good,32,300GB FUP Monthly Unlimited,"?30,000.00",14,"?420,000.00",11.3,Yes,Better Offers from Competitors
+CUST0274,Bola Duffy,Mar-25,77,Gombe,North East,Mobile SIM Card,Female,4,Very Good,32,165GB Monthly Plan,"?35,000.00",2,"?70,000.00",187.96,Yes,Better Offers from Competitors
+CUST0274,Bola Duffy,Mar-25,77,Gombe,North East,Broadband MiFi,Female,4,Very Good,32,120GB Monthly Broadband Plan,"?24,000.00",6,"?144,000.00",69.78,Yes,Better Offers from Competitors
+CUST0275,Zina Gallegos,Jan-25,31,Bauchi,North East,Broadband MiFi,Female,1,Poor,21,300GB FUP Monthly Unlimited,"?30,000.00",9,"?270,000.00",122.75,No,
+CUST0275,Zina Gallegos,Jan-25,31,Bauchi,North East,Mobile SIM Card,Female,1,Poor,21,10GB+10mins Monthly Plan,"?4,500.00",8,"?36,000.00",109.94,No,
+CUST0276,Zainab Rogers,Feb-25,76,Bayelsa,South South,5G Broadband Router,Female,4,Very Good,12,120GB Monthly Broadband Plan,"?24,000.00",19,"?456,000.00",90.42,Yes,High Call Tarriffs
+CUST0276,Zainab Rogers,Feb-25,76,Bayelsa,South South,4G Router,Female,4,Very Good,12,10GB+10mins Monthly Plan,"?4,500.00",8,"?36,000.00",195.86,Yes,High Call Tarriffs
+CUST0277,Ngozi Dunn,Feb-25,50,Imo,South East,Mobile SIM Card,Female,2,Fair,55,2.5GB 2-Day Plan,?900.00,16,"?14,400.00",35.73,Yes,High Call Tarriffs
+CUST0278,Amaka Johnson,Jan-25,56,Yobe,North East,4G Router,Female,4,Very Good,17,25GB Monthly Plan,"?9,000.00",4,"?36,000.00",95.57,Yes,Poor Customer Service
+CUST0279,Alabo Carlson,Mar-25,58,Edo,South South,Mobile SIM Card,Female,3,Good,24,10GB+10mins Monthly Plan,"?4,500.00",10,"?45,000.00",195.88,Yes,Poor Network
+CUST0279,Alabo Carlson,Mar-25,58,Edo,South South,5G Broadband Router,Female,3,Good,24,200GB Monthly Broadband Plan,"?25,000.00",17,"?425,000.00",65.36,Yes,Poor Network
+CUST0280,Grace Brock,Mar-25,73,Katsina,North West,4G Router,Female,4,Very Good,40,25GB Monthly Plan,"?9,000.00",20,"?180,000.00",84.65,No,
+CUST0281,Tamuno Ortiz,Feb-25,25,Katsina,North West,5G Broadband Router,Male,3,Good,22,450GB 3-Month Broadband Plan,"?75,000.00",15,"?1,125,000.00",54.61,No,
+CUST0281,Tamuno Ortiz,Feb-25,25,Katsina,North West,Mobile SIM Card,Male,3,Good,22,7GB Monthly Plan,"?3,500.00",17,"?59,500.00",149.71,No,
+CUST0282,Alabo Chavez,Jan-25,68,Abuja (FCT),North Central,5G Broadband Router,Male,2,Fair,55,60GB Monthly Broadband Plan,"?14,500.00",4,"?58,000.00",33.8,No,
+CUST0282,Alabo Chavez,Jan-25,68,Abuja (FCT),North Central,Mobile SIM Card,Male,2,Fair,55,3.2GB 2-Day Plan,"?1,000.00",16,"?16,000.00",13.23,No,
+CUST0282,Alabo Chavez,Jan-25,68,Abuja (FCT),North Central,Broadband MiFi,Male,2,Fair,55,120GB Monthly Broadband Plan,"?24,000.00",13,"?312,000.00",11.24,No,
+CUST0283,Sarah Ballard,Feb-25,26,Anambra,South East,5G Broadband Router,Female,1,Poor,40,60GB Monthly Broadband Plan,"?14,500.00",15,"?217,500.00",147.65,No,
+CUST0283,Sarah Ballard,Feb-25,26,Anambra,South East,Broadband MiFi,Female,1,Poor,40,150GB FUP Monthly Unlimited,"?20,000.00",6,"?120,000.00",26.69,No,
+CUST0284,Funke Shaffer,Feb-25,20,Ekiti,South West,5G Broadband Router,Female,4,Very Good,56,300GB FUP Monthly Unlimited,"?30,000.00",18,"?540,000.00",193.92,No,
+CUST0284,Funke Shaffer,Feb-25,20,Ekiti,South West,Mobile SIM Card,Female,4,Very Good,56,1.5GB 2-Day Plan,?600.00,15,"?9,000.00",118.37,No,
+CUST0284,Funke Shaffer,Feb-25,20,Ekiti,South West,4G Router,Female,4,Very Good,56,165GB Monthly Plan,"?35,000.00",18,"?630,000.00",104.93,No,
+CUST0285,Maryam Gates,Jan-25,60,Taraba,North East,5G Broadband Router,Male,4,Very Good,52,120GB Monthly Broadband Plan,"?24,000.00",17,"?408,000.00",2.61,No,
+CUST0285,Maryam Gates,Jan-25,60,Taraba,North East,Broadband MiFi,Male,4,Very Good,52,150GB FUP Monthly Unlimited,"?20,000.00",16,"?320,000.00",69.11,No,
+CUST0286,David George,Jan-25,17,Yobe,North East,4G Router,Female,4,Very Good,20,10GB+10mins Monthly Plan,"?4,500.00",18,"?81,000.00",82.64,No,
+CUST0286,David George,Jan-25,17,Yobe,North East,Mobile SIM Card,Female,4,Very Good,20,12.5GB Monthly Plan,"?5,500.00",6,"?33,000.00",79.25,No,
+CUST0287,Omamuzo Rivera,Feb-25,64,Osun,South West,5G Broadband Router,Female,2,Fair,6,450GB 3-Month Broadband Plan,"?75,000.00",3,"?225,000.00",38.01,No,
+CUST0287,Omamuzo Rivera,Feb-25,64,Osun,South West,4G Router,Female,2,Fair,6,10GB+10mins Monthly Plan,"?4,500.00",4,"?18,000.00",27.76,No,
+CUST0287,Omamuzo Rivera,Feb-25,64,Osun,South West,Mobile SIM Card,Female,2,Fair,6,12.5GB Monthly Plan,"?5,500.00",9,"?49,500.00",123.74,No,
+CUST0288,Grace Chaney,Jan-25,40,Niger,North Central,5G Broadband Router,Male,5,Excellent,10,1.5TB Yearly Broadband Plan,"?150,000.00",8,"?1,200,000.00",145.56,Yes,Poor Network
+CUST0288,Grace Chaney,Jan-25,40,Niger,North Central,Broadband MiFi,Male,5,Excellent,10,30GB Monthly Broadband Plan,"?9,000.00",16,"?144,000.00",30.56,Yes,Poor Network
+CUST0289,Fatima Wheeler,Feb-25,59,Kogi,North Central,5G Broadband Router,Female,3,Good,51,150GB FUP Monthly Unlimited,"?20,000.00",5,"?100,000.00",168.79,No,
+CUST0290,Sade Ryan,Feb-25,50,Kebbi,North West,Mobile SIM Card,Male,2,Fair,35,3.2GB 2-Day Plan,"?1,000.00",8,"?8,000.00",194.93,Yes,Better Offers from Competitors
+CUST0290,Sade Ryan,Feb-25,50,Kebbi,North West,Broadband MiFi,Male,2,Fair,35,60GB Monthly Broadband Plan,"?14,500.00",15,"?217,500.00",154.36,Yes,Better Offers from Competitors
+CUST0291,Halima Mahoney,Jan-25,20,Benue,North Central,Mobile SIM Card,Female,5,Excellent,48,20GB Monthly Plan,"?7,500.00",10,"?75,000.00",136.45,No,
+CUST0292,Ese Rose,Feb-25,36,Rivers,South South,4G Router,Male,3,Good,17,165GB Monthly Plan,"?35,000.00",6,"?210,000.00",65.24,Yes,Poor Network
+CUST0292,Ese Rose,Feb-25,36,Rivers,South South,Broadband MiFi,Male,3,Good,17,300GB FUP Monthly Unlimited,"?30,000.00",13,"?390,000.00",117.15,Yes,Poor Network
+CUST0292,Ese Rose,Feb-25,36,Rivers,South South,5G Broadband Router,Male,3,Good,17,60GB Monthly Broadband Plan,"?14,500.00",2,"?29,000.00",2.28,Yes,Poor Network
+CUST0293,John Jones,Feb-25,35,Gombe,North East,Broadband MiFi,Male,4,Very Good,16,300GB FUP Monthly Unlimited,"?30,000.00",18,"?540,000.00",129.09,Yes,Relocation
+CUST0293,John Jones,Feb-25,35,Gombe,North East,Mobile SIM Card,Male,4,Very Good,16,3.2GB 2-Day Plan,"?1,000.00",8,"?8,000.00",25.6,Yes,Relocation
+CUST0294,Ese Bailey,Feb-25,60,Nasarawa,North Central,Broadband MiFi,Male,3,Good,2,60GB Monthly Broadband Plan,"?14,500.00",18,"?261,000.00",112.03,No,
+CUST0294,Ese Bailey,Feb-25,60,Nasarawa,North Central,4G Router,Male,3,Good,2,165GB Monthly Plan,"?35,000.00",6,"?210,000.00",38.36,No,
+CUST0295,David Higgins,Feb-25,60,Niger,North Central,5G Broadband Router,Female,1,Poor,18,200GB Monthly Broadband Plan,"?25,000.00",17,"?425,000.00",91.09,No,
+CUST0295,David Higgins,Feb-25,60,Niger,North Central,4G Router,Female,1,Poor,18,165GB Monthly Plan,"?35,000.00",1,"?35,000.00",146.86,No,
+CUST0296,Ejiro Scott,Feb-25,46,Niger,North Central,4G Router,Male,2,Fair,43,25GB Monthly Plan,"?9,000.00",11,"?99,000.00",64.86,No,
+CUST0296,Ejiro Scott,Feb-25,46,Niger,North Central,5G Broadband Router,Male,2,Fair,43,150GB FUP Monthly Unlimited,"?20,000.00",3,"?60,000.00",19.7,No,
+CUST0297,Bola Spencer,Jan-25,32,Enugu,South East,Mobile SIM Card,Male,4,Very Good,13,16.5GB+10mins Monthly Plan,"?6,500.00",19,"?123,500.00",124.98,Yes,Poor Network
+CUST0297,Bola Spencer,Jan-25,32,Enugu,South East,5G Broadband Router,Male,4,Very Good,13,120GB Monthly Broadband Plan,"?24,000.00",8,"?192,000.00",10.29,Yes,Poor Network
+CUST0297,Bola Spencer,Jan-25,32,Enugu,South East,4G Router,Male,4,Very Good,13,65GB Monthly Plan,"?16,000.00",7,"?112,000.00",3.11,Yes,Poor Network
+CUST0298,Grace Davis,Feb-25,26,Sokoto,North West,5G Broadband Router,Male,3,Good,24,30GB Monthly Broadband Plan,"?9,000.00",10,"?90,000.00",146.99,No,
+CUST0299,Kunle Fuller,Feb-25,43,Bauchi,North East,4G Router,Male,5,Excellent,7,10GB+10mins Monthly Plan,"?4,500.00",18,"?81,000.00",111.91,No,
+CUST0300,Ibim Wilkerson,Feb-25,29,Ekiti,South West,Mobile SIM Card,Female,1,Poor,45,1.5GB 2-Day Plan,?600.00,20,"?12,000.00",107.01,Yes,Poor Customer Service
+CUST0300,Ibim Wilkerson,Feb-25,29,Ekiti,South West,5G Broadband Router,Female,1,Poor,45,1.5TB Yearly Broadband Plan,"?150,000.00",11,"?1,650,000.00",186.74,Yes,Poor Customer Service
+CUST0300,Ibim Wilkerson,Feb-25,29,Ekiti,South West,4G Router,Female,1,Poor,45,25GB Monthly Plan,"?9,000.00",14,"?126,000.00",169.05,Yes,Poor Customer Service
+CUST0301,Boma Knight,Mar-25,57,Imo,South East,Mobile SIM Card,Male,3,Good,25,2.5GB 2-Day Plan,?900.00,20,"?18,000.00",196.6,No,
+CUST0301,Boma Knight,Mar-25,57,Imo,South East,Broadband MiFi,Male,3,Good,25,30GB Monthly Broadband Plan,"?9,000.00",10,"?90,000.00",103.76,No,
+CUST0302,Tunde Wallace,Mar-25,54,Osun,South West,5G Broadband Router,Male,1,Poor,55,150GB FUP Monthly Unlimited,"?20,000.00",12,"?240,000.00",8.03,No,
+CUST0302,Tunde Wallace,Mar-25,54,Osun,South West,Mobile SIM Card,Male,1,Poor,55,1.5GB 2-Day Plan,?600.00,12,"?7,200.00",28.11,No,
+CUST0302,Tunde Wallace,Mar-25,54,Osun,South West,Broadband MiFi,Male,1,Poor,55,120GB Monthly Broadband Plan,"?24,000.00",9,"?216,000.00",50.35,No,
+CUST0303,Maryam Walker,Jan-25,27,Kebbi,North West,Mobile SIM Card,Male,3,Good,47,3.2GB 2-Day Plan,"?1,000.00",10,"?10,000.00",119.25,No,
+CUST0304,Bola Castro,Mar-25,64,Katsina,North West,Mobile SIM Card,Male,3,Good,59,500MB Daily Plan,?350.00,20,"?7,000.00",149.66,No,
+CUST0304,Bola Castro,Mar-25,64,Katsina,North West,Broadband MiFi,Male,3,Good,59,30GB Monthly Broadband Plan,"?9,000.00",13,"?117,000.00",126.96,No,
+CUST0305,Sade Shepard,Feb-25,55,Bauchi,North East,Mobile SIM Card,Male,3,Good,21,65GB Monthly Plan,"?16,000.00",13,"?208,000.00",134.89,No,
+CUST0306,Alabo Cortez,Mar-25,80,Katsina,North West,Mobile SIM Card,Male,4,Very Good,28,2.5GB 2-Day Plan,?900.00,9,"?8,100.00",109.86,Yes,Costly Data Plans
+CUST0307,Chinedu Hoffman,Feb-25,67,Zamfara,North West,Mobile SIM Card,Female,2,Fair,50,20GB Monthly Plan,"?7,500.00",7,"?52,500.00",130.62,No,
+CUST0308,Sarah Flores,Feb-25,47,Imo,South East,Broadband MiFi,Male,3,Good,18,60GB Monthly Broadband Plan,"?14,500.00",7,"?101,500.00",73.37,No,
+CUST0308,Sarah Flores,Feb-25,47,Imo,South East,Mobile SIM Card,Male,3,Good,18,7GB Monthly Plan,"?3,500.00",1,"?3,500.00",69.23,No,
+CUST0308,Sarah Flores,Feb-25,47,Imo,South East,4G Router,Male,3,Good,18,25GB Monthly Plan,"?9,000.00",12,"?108,000.00",34.27,No,
+CUST0309,Alabo Guerra,Feb-25,34,Nasarawa,North Central,Broadband MiFi,Male,2,Fair,60,30GB Monthly Broadband Plan,"?9,000.00",8,"?72,000.00",148.05,No,
+CUST0310,Obinna Ballard,Jan-25,52,Lagos,South West,5G Broadband Router,Female,3,Good,45,60GB Monthly Broadband Plan,"?14,500.00",7,"?101,500.00",148.13,No,
+CUST0311,Fatima Freeman,Jan-25,49,Taraba,North East,Broadband MiFi,Male,4,Very Good,45,30GB Monthly Broadband Plan,"?9,000.00",20,"?180,000.00",57.16,No,
+CUST0311,Fatima Freeman,Jan-25,49,Taraba,North East,4G Router,Male,4,Very Good,45,25GB Monthly Plan,"?9,000.00",1,"?9,000.00",11.09,No,
+CUST0311,Fatima Freeman,Jan-25,49,Taraba,North East,Mobile SIM Card,Male,4,Very Good,45,3.2GB 2-Day Plan,"?1,000.00",9,"?9,000.00",78.03,No,
+CUST0312,Ejiro Barker,Feb-25,29,Kano,North West,Broadband MiFi,Female,2,Fair,56,120GB Monthly Broadband Plan,"?24,000.00",6,"?144,000.00",106.55,No,
+CUST0312,Ejiro Barker,Feb-25,29,Kano,North West,4G Router,Female,2,Fair,56,10GB+10mins Monthly Plan,"?4,500.00",15,"?67,500.00",100.38,No,
+CUST0312,Ejiro Barker,Feb-25,29,Kano,North West,5G Broadband Router,Female,2,Fair,56,30GB Monthly Broadband Plan,"?9,000.00",17,"?153,000.00",8.43,No,
+CUST0313,Maryam Hernandez,Feb-25,58,Yobe,North East,5G Broadband Router,Female,1,Poor,48,120GB Monthly Broadband Plan,"?24,000.00",17,"?408,000.00",47.62,No,
+CUST0313,Maryam Hernandez,Feb-25,58,Yobe,North East,Mobile SIM Card,Female,1,Poor,48,1GB+1.5mins Daily Plan,?500.00,9,"?4,500.00",162.47,No,
+CUST0314,Omamuzo King,Mar-25,19,Akwa Ibom,South South,Mobile SIM Card,Male,4,Very Good,10,500MB Daily Plan,?350.00,19,"?6,650.00",83.76,No,
+CUST0315,Obinna Anderson,Feb-25,70,Abia,South East,4G Router,Female,2,Fair,29,10GB+10mins Monthly Plan,"?4,500.00",5,"?22,500.00",86.3,No,
+CUST0315,Obinna Anderson,Feb-25,70,Abia,South East,Broadband MiFi,Female,2,Fair,29,120GB Monthly Broadband Plan,"?24,000.00",11,"?264,000.00",183.46,No,
+CUST0315,Obinna Anderson,Feb-25,70,Abia,South East,Mobile SIM Card,Female,2,Fair,29,3.2GB 2-Day Plan,"?1,000.00",4,"?4,000.00",111.69,No,
+CUST0316,Shehu Rogers,Mar-25,56,Plateau,North Central,Mobile SIM Card,Male,4,Very Good,49,1GB+1.5mins Daily Plan,?500.00,7,"?3,500.00",30.82,No,
+CUST0316,Shehu Rogers,Mar-25,56,Plateau,North Central,5G Broadband Router,Male,4,Very Good,49,150GB FUP Monthly Unlimited,"?20,000.00",1,"?20,000.00",26.74,No,
+CUST0317,Zainab Shaw,Jan-25,45,Osun,South West,4G Router,Male,3,Good,44,165GB Monthly Plan,"?35,000.00",12,"?420,000.00",142.55,Yes,Better Offers from Competitors
+CUST0317,Zainab Shaw,Jan-25,45,Osun,South West,5G Broadband Router,Male,3,Good,44,300GB FUP Monthly Unlimited,"?30,000.00",16,"?480,000.00",170.5,Yes,Better Offers from Competitors
+CUST0318,John Martinez,Jan-25,33,Abuja (FCT),North Central,5G Broadband Router,Male,4,Very Good,15,450GB 3-Month Broadband Plan,"?75,000.00",7,"?525,000.00",44.9,No,
+CUST0319,Fatima Powell,Feb-25,24,Enugu,South East,Mobile SIM Card,Female,3,Good,56,20GB Monthly Plan,"?7,500.00",20,"?150,000.00",155.35,No,
+CUST0320,Omamuzo Perez,Jan-25,56,Kebbi,North West,4G Router,Male,4,Very Good,34,165GB Monthly Plan,"?35,000.00",2,"?70,000.00",196.77,No,
+CUST0321,Omamuzo Schwartz,Feb-25,22,Benue,North Central,Mobile SIM Card,Female,3,Good,29,20GB Monthly Plan,"?7,500.00",2,"?15,000.00",59.24,No,
+CUST0321,Omamuzo Schwartz,Feb-25,22,Benue,North Central,Broadband MiFi,Female,3,Good,29,120GB Monthly Broadband Plan,"?24,000.00",15,"?360,000.00",180.78,No,
+CUST0322,Alabo Jackson,Feb-25,27,Zamfara,North West,Broadband MiFi,Male,4,Very Good,12,60GB Monthly Broadband Plan,"?14,500.00",7,"?101,500.00",118.27,No,
+CUST0322,Alabo Jackson,Feb-25,27,Zamfara,North West,Mobile SIM Card,Male,4,Very Good,12,12.5GB Monthly Plan,"?5,500.00",11,"?60,500.00",18.49,No,
+CUST0323,Amina Nguyen,Feb-25,31,Katsina,North West,4G Router,Male,3,Good,46,165GB Monthly Plan,"?35,000.00",6,"?210,000.00",9.26,Yes,High Call Tarriffs
+CUST0323,Amina Nguyen,Feb-25,31,Katsina,North West,Mobile SIM Card,Male,3,Good,46,7GB Monthly Plan,"?3,500.00",5,"?17,500.00",113.32,Yes,High Call Tarriffs
+CUST0324,Amina Taylor,Mar-25,34,Enugu,South East,5G Broadband Router,Male,3,Good,27,300GB FUP Monthly Unlimited,"?30,000.00",5,"?150,000.00",23.95,No,
+CUST0324,Amina Taylor,Mar-25,34,Enugu,South East,Mobile SIM Card,Male,3,Good,27,500MB Daily Plan,?350.00,9,"?3,150.00",1.2,No,
+CUST0325,Tunde Terry,Jan-25,74,Yobe,North East,4G Router,Female,5,Excellent,35,165GB Monthly Plan,"?35,000.00",15,"?525,000.00",91.02,No,
+CUST0326,Chinedu Krueger,Feb-25,16,Imo,South East,Mobile SIM Card,Female,1,Poor,40,2.5GB 2-Day Plan,?900.00,20,"?18,000.00",133.57,Yes,Poor Network
+CUST0327,Maryam Rhodes,Feb-25,58,Katsina,North West,4G Router,Male,2,Fair,7,65GB Monthly Plan,"?16,000.00",10,"?160,000.00",19.08,Yes,Costly Data Plans
+CUST0327,Maryam Rhodes,Feb-25,58,Katsina,North West,Mobile SIM Card,Male,2,Fair,7,7GB Monthly Plan,"?3,500.00",13,"?45,500.00",74.03,Yes,Costly Data Plans
+CUST0327,Maryam Rhodes,Feb-25,58,Katsina,North West,5G Broadband Router,Male,2,Fair,7,150GB FUP Monthly Unlimited,"?20,000.00",18,"?360,000.00",151.81,Yes,Costly Data Plans
+CUST0328,Kunle Liu,Mar-25,53,Taraba,North East,4G Router,Male,3,Good,8,65GB Monthly Plan,"?16,000.00",17,"?272,000.00",22.31,No,
+CUST0328,Kunle Liu,Mar-25,53,Taraba,North East,5G Broadband Router,Male,3,Good,8,150GB FUP Monthly Unlimited,"?20,000.00",20,"?400,000.00",96.99,No,
+CUST0328,Kunle Liu,Mar-25,53,Taraba,North East,Broadband MiFi,Male,3,Good,8,300GB FUP Monthly Unlimited,"?30,000.00",11,"?330,000.00",85.7,No,
+CUST0329,Saidu Anderson,Feb-25,61,Borno,North East,4G Router,Female,4,Very Good,34,10GB+10mins Monthly Plan,"?4,500.00",1,"?4,500.00",0.82,No,
+CUST0329,Saidu Anderson,Feb-25,61,Borno,North East,5G Broadband Router,Female,4,Very Good,34,1.5TB Yearly Broadband Plan,"?150,000.00",4,"?600,000.00",125.28,No,
+CUST0329,Saidu Anderson,Feb-25,61,Borno,North East,Mobile SIM Card,Female,4,Very Good,34,500MB Daily Plan,?350.00,14,"?4,900.00",160.01,No,
+CUST0330,Ibim Harrison,Feb-25,21,Bayelsa,South South,5G Broadband Router,Female,1,Poor,36,120GB Monthly Broadband Plan,"?24,000.00",18,"?432,000.00",60.41,No,
+CUST0330,Ibim Harrison,Feb-25,21,Bayelsa,South South,4G Router,Female,1,Poor,36,25GB Monthly Plan,"?9,000.00",4,"?36,000.00",153.52,No,
+CUST0330,Ibim Harrison,Feb-25,21,Bayelsa,South South,Broadband MiFi,Female,1,Poor,36,300GB FUP Monthly Unlimited,"?30,000.00",19,"?570,000.00",68.6,No,
+CUST0331,Funke Francis,Mar-25,38,Benue,North Central,4G Router,Female,4,Very Good,54,165GB Monthly Plan,"?35,000.00",15,"?525,000.00",31.5,No,
+CUST0332,David Ward,Jan-25,58,Sokoto,North West,5G Broadband Router,Female,5,Excellent,60,60GB Monthly Broadband Plan,"?14,500.00",11,"?159,500.00",115.69,Yes,High Call Tarriffs
+CUST0332,David Ward,Jan-25,58,Sokoto,North West,Mobile SIM Card,Female,5,Excellent,60,7GB Monthly Plan,"?3,500.00",5,"?17,500.00",13.71,Yes,High Call Tarriffs
+CUST0332,David Ward,Jan-25,58,Sokoto,North West,Broadband MiFi,Female,5,Excellent,60,300GB FUP Monthly Unlimited,"?30,000.00",11,"?330,000.00",168.23,Yes,High Call Tarriffs
+CUST0333,Omamuzo Miller,Jan-25,37,Jigawa,North West,Broadband MiFi,Male,3,Good,39,60GB Monthly Broadband Plan,"?14,500.00",8,"?116,000.00",17.82,No,
+CUST0333,Omamuzo Miller,Jan-25,37,Jigawa,North West,4G Router,Male,3,Good,39,25GB Monthly Plan,"?9,000.00",10,"?90,000.00",90.66,No,
+CUST0334,Fatima Carter,Jan-25,54,Enugu,South East,Broadband MiFi,Male,2,Fair,24,120GB Monthly Broadband Plan,"?24,000.00",11,"?264,000.00",31.24,No,
+CUST0334,Fatima Carter,Jan-25,54,Enugu,South East,4G Router,Male,2,Fair,24,165GB Monthly Plan,"?35,000.00",17,"?595,000.00",146.62,No,
+CUST0335,Maryam Patterson,Feb-25,57,Plateau,North Central,Mobile SIM Card,Male,2,Fair,53,16.5GB+10mins Monthly Plan,"?6,500.00",10,"?65,000.00",23.61,No,
+CUST0335,Maryam Patterson,Feb-25,57,Plateau,North Central,5G Broadband Router,Male,2,Fair,53,30GB Monthly Broadband Plan,"?9,000.00",20,"?180,000.00",137.57,No,
+CUST0336,Chinedu Reynolds,Mar-25,58,Sokoto,North West,4G Router,Male,1,Poor,7,10GB+10mins Monthly Plan,"?4,500.00",9,"?40,500.00",38.91,No,
+CUST0336,Chinedu Reynolds,Mar-25,58,Sokoto,North West,Mobile SIM Card,Male,1,Poor,7,16.5GB+10mins Monthly Plan,"?6,500.00",15,"?97,500.00",64.17,No,
+CUST0337,Ifeanyi Cunningham,Jan-25,50,Plateau,North Central,Broadband MiFi,Male,1,Poor,18,120GB Monthly Broadband Plan,"?24,000.00",5,"?120,000.00",64.04,No,
+CUST0337,Ifeanyi Cunningham,Jan-25,50,Plateau,North Central,Mobile SIM Card,Male,1,Poor,18,1GB+1.5mins Daily Plan,?500.00,6,"?3,000.00",115.03,No,
+CUST0337,Ifeanyi Cunningham,Jan-25,50,Plateau,North Central,4G Router,Male,1,Poor,18,65GB Monthly Plan,"?16,000.00",11,"?176,000.00",62.62,No,
+CUST0338,David Crosby,Feb-25,72,Oyo,South West,Mobile SIM Card,Male,1,Poor,2,20GB Monthly Plan,"?7,500.00",20,"?150,000.00",36.21,Yes,Poor Network
+CUST0339,Alabo Davis,Feb-25,61,Abia,South East,4G Router,Female,5,Excellent,53,165GB Monthly Plan,"?35,000.00",10,"?350,000.00",19.9,Yes,Better Offers from Competitors
+CUST0339,Alabo Davis,Feb-25,61,Abia,South East,Broadband MiFi,Female,5,Excellent,53,60GB Monthly Broadband Plan,"?14,500.00",8,"?116,000.00",94.37,Yes,Better Offers from Competitors
+CUST0340,Obinna Thomas,Mar-25,49,Gombe,North East,Broadband MiFi,Female,3,Good,12,60GB Monthly Broadband Plan,"?14,500.00",16,"?232,000.00",23.02,No,
+CUST0341,Zina Valenzuela,Feb-25,37,Cross River,South South,Broadband MiFi,Female,5,Excellent,39,300GB FUP Monthly Unlimited,"?30,000.00",13,"?390,000.00",106.78,Yes,Better Offers from Competitors
+CUST0341,Zina Valenzuela,Feb-25,37,Cross River,South South,4G Router,Female,5,Excellent,39,165GB Monthly Plan,"?35,000.00",8,"?280,000.00",48.1,Yes,Better Offers from Competitors
+CUST0341,Zina Valenzuela,Feb-25,37,Cross River,South South,Mobile SIM Card,Female,5,Excellent,39,16.5GB+10mins Monthly Plan,"?6,500.00",16,"?104,000.00",32.22,Yes,Better Offers from Competitors
+CUST0342,Omamuzo Holmes,Feb-25,24,Bayelsa,South South,4G Router,Male,4,Very Good,53,65GB Monthly Plan,"?16,000.00",19,"?304,000.00",148,No,
+CUST0342,Omamuzo Holmes,Feb-25,24,Bayelsa,South South,Broadband MiFi,Male,4,Very Good,53,60GB Monthly Broadband Plan,"?14,500.00",20,"?290,000.00",23.31,No,
+CUST0343,Zina Diaz,Mar-25,57,Anambra,South East,Mobile SIM Card,Female,4,Very Good,12,2.5GB 2-Day Plan,?900.00,5,"?4,500.00",18.56,Yes,Poor Network
+CUST0343,Zina Diaz,Mar-25,57,Anambra,South East,4G Router,Female,4,Very Good,12,65GB Monthly Plan,"?16,000.00",5,"?80,000.00",151.54,Yes,Poor Network
+CUST0343,Zina Diaz,Mar-25,57,Anambra,South East,5G Broadband Router,Female,4,Very Good,12,1.5TB Yearly Broadband Plan,"?150,000.00",13,"?1,950,000.00",106.49,Yes,Poor Network
+CUST0344,Alabo Baker,Mar-25,41,Ondo,South West,Broadband MiFi,Female,4,Very Good,20,30GB Monthly Broadband Plan,"?9,000.00",17,"?153,000.00",122.49,No,
+CUST0344,Alabo Baker,Mar-25,41,Ondo,South West,5G Broadband Router,Female,4,Very Good,20,450GB 3-Month Broadband Plan,"?75,000.00",10,"?750,000.00",169.6,No,
+CUST0345,Sade Mercer,Mar-25,63,Oyo,South West,4G Router,Male,1,Poor,46,165GB Monthly Plan,"?35,000.00",13,"?455,000.00",140.59,No,
+CUST0346,Ese Harper,Feb-25,64,Kebbi,North West,Mobile SIM Card,Female,2,Fair,28,7GB Monthly Plan,"?3,500.00",5,"?17,500.00",168.07,No,
+CUST0347,Abubakar Mcknight,Jan-25,32,Borno,North East,Mobile SIM Card,Male,2,Fair,5,3.2GB 2-Day Plan,"?1,000.00",14,"?14,000.00",27.88,No,
+CUST0347,Abubakar Mcknight,Jan-25,32,Borno,North East,Broadband MiFi,Male,2,Fair,5,60GB Monthly Broadband Plan,"?14,500.00",20,"?290,000.00",178.77,No,
+CUST0348,Boma Anderson,Feb-25,39,Sokoto,North West,Mobile SIM Card,Female,4,Very Good,36,2.5GB 2-Day Plan,?900.00,8,"?7,200.00",115.8,No,
+CUST0349,Michael Smith,Jan-25,50,Kogi,North Central,Broadband MiFi,Female,5,Excellent,3,60GB Monthly Broadband Plan,"?14,500.00",3,"?43,500.00",192.37,No,
+CUST0349,Michael Smith,Jan-25,50,Kogi,North Central,5G Broadband Router,Female,5,Excellent,3,300GB FUP Monthly Unlimited,"?30,000.00",17,"?510,000.00",146.17,No,
+CUST0350,Zainab Compton,Jan-25,75,Bauchi,North East,Broadband MiFi,Male,2,Fair,34,120GB Monthly Broadband Plan,"?24,000.00",11,"?264,000.00",11.03,No,
+CUST0350,Zainab Compton,Jan-25,75,Bauchi,North East,5G Broadband Router,Male,2,Fair,34,30GB Monthly Broadband Plan,"?9,000.00",17,"?153,000.00",94.04,No,
+CUST0350,Zainab Compton,Jan-25,75,Bauchi,North East,4G Router,Male,2,Fair,34,165GB Monthly Plan,"?35,000.00",11,"?385,000.00",115.01,No,
+CUST0351,Ibim Mills,Jan-25,61,Cross River,South South,5G Broadband Router,Female,5,Excellent,11,300GB FUP Monthly Unlimited,"?30,000.00",10,"?300,000.00",114.79,No,
+CUST0351,Ibim Mills,Jan-25,61,Cross River,South South,Broadband MiFi,Female,5,Excellent,11,120GB Monthly Broadband Plan,"?24,000.00",16,"?384,000.00",5.95,No,
+CUST0351,Ibim Mills,Jan-25,61,Cross River,South South,4G Router,Female,5,Excellent,11,65GB Monthly Plan,"?16,000.00",3,"?48,000.00",25.8,No,
+CUST0352,Zainab Rivera,Mar-25,48,Borno,North East,4G Router,Female,1,Poor,18,165GB Monthly Plan,"?35,000.00",6,"?210,000.00",74.27,No,
+CUST0352,Zainab Rivera,Mar-25,48,Borno,North East,5G Broadband Router,Female,1,Poor,18,120GB Monthly Broadband Plan,"?24,000.00",8,"?192,000.00",156.61,No,
+CUST0352,Zainab Rivera,Mar-25,48,Borno,North East,Broadband MiFi,Female,1,Poor,18,60GB Monthly Broadband Plan,"?14,500.00",17,"?246,500.00",36.57,No,
+CUST0353,Bola Patterson,Feb-25,59,Katsina,North West,Mobile SIM Card,Male,4,Very Good,39,12.5GB Monthly Plan,"?5,500.00",6,"?33,000.00",145.34,No,
+CUST0353,Bola Patterson,Feb-25,59,Katsina,North West,Broadband MiFi,Male,4,Very Good,39,150GB FUP Monthly Unlimited,"?20,000.00",12,"?240,000.00",115.76,No,
+CUST0354,Sade Brown,Feb-25,49,Delta,South South,4G Router,Male,4,Very Good,11,165GB Monthly Plan,"?35,000.00",5,"?175,000.00",95.18,No,
+CUST0354,Sade Brown,Feb-25,49,Delta,South South,Mobile SIM Card,Male,4,Very Good,11,16.5GB+10mins Monthly Plan,"?6,500.00",1,"?6,500.00",174.12,No,
+CUST0355,Abubakar Martin,Jan-25,73,Jigawa,North West,5G Broadband Router,Female,1,Poor,34,200GB Monthly Broadband Plan,"?25,000.00",4,"?100,000.00",54.43,No,
+CUST0355,Abubakar Martin,Jan-25,73,Jigawa,North West,4G Router,Female,1,Poor,34,25GB Monthly Plan,"?9,000.00",13,"?117,000.00",131.04,No,
+CUST0355,Abubakar Martin,Jan-25,73,Jigawa,North West,Mobile SIM Card,Female,1,Poor,34,12.5GB Monthly Plan,"?5,500.00",8,"?44,000.00",154.74,No,
+CUST0356,Bala Gibson,Jan-25,59,Enugu,South East,Mobile SIM Card,Female,1,Poor,36,3.2GB 2-Day Plan,"?1,000.00",15,"?15,000.00",105.29,No,
+CUST0357,Oghene Winters,Jan-25,44,Cross River,South South,4G Router,Female,1,Poor,13,65GB Monthly Plan,"?16,000.00",4,"?64,000.00",141.76,No,
+CUST0358,Chinedu Smith,Jan-25,32,Jigawa,North West,Broadband MiFi,Male,2,Fair,58,300GB FUP Monthly Unlimited,"?30,000.00",11,"?330,000.00",153.99,Yes,Fast Data Consumption
+CUST0358,Chinedu Smith,Jan-25,32,Jigawa,North West,5G Broadband Router,Male,2,Fair,58,120GB Monthly Broadband Plan,"?24,000.00",3,"?72,000.00",32.81,Yes,Fast Data Consumption
+CUST0358,Chinedu Smith,Jan-25,32,Jigawa,North West,4G Router,Male,2,Fair,58,25GB Monthly Plan,"?9,000.00",13,"?117,000.00",155.53,Yes,Fast Data Consumption
+CUST0359,Omamuzo Juarez,Mar-25,58,Oyo,South West,4G Router,Female,2,Fair,53,165GB Monthly Plan,"?35,000.00",16,"?560,000.00",36.1,No,
+CUST0359,Omamuzo Juarez,Mar-25,58,Oyo,South West,5G Broadband Router,Female,2,Fair,53,150GB FUP Monthly Unlimited,"?20,000.00",14,"?280,000.00",29.2,No,
+CUST0360,Fatima Webb,Jan-25,29,Nasarawa,North Central,Mobile SIM Card,Female,1,Poor,7,12.5GB Monthly Plan,"?5,500.00",1,"?5,500.00",30.2,Yes,High Call Tarriffs
+CUST0360,Fatima Webb,Jan-25,29,Nasarawa,North Central,Broadband MiFi,Female,1,Poor,7,30GB Monthly Broadband Plan,"?9,000.00",9,"?81,000.00",133.09,Yes,High Call Tarriffs
+CUST0361,Obinna Andrews,Feb-25,58,Kebbi,North West,Broadband MiFi,Male,4,Very Good,33,30GB Monthly Broadband Plan,"?9,000.00",16,"?144,000.00",77.19,No,
+CUST0361,Obinna Andrews,Feb-25,58,Kebbi,North West,5G Broadband Router,Male,4,Very Good,33,150GB FUP Monthly Unlimited,"?20,000.00",12,"?240,000.00",113.67,No,
+CUST0361,Obinna Andrews,Feb-25,58,Kebbi,North West,Mobile SIM Card,Male,4,Very Good,33,7GB Monthly Plan,"?3,500.00",13,"?45,500.00",136.53,No,
+CUST0362,Sade Donaldson,Feb-25,27,Gombe,North East,Broadband MiFi,Female,3,Good,6,60GB Monthly Broadband Plan,"?14,500.00",10,"?145,000.00",132.32,No,
+CUST0363,Omamuzo Alexander,Feb-25,29,Ekiti,South West,4G Router,Female,2,Fair,6,165GB Monthly Plan,"?35,000.00",18,"?630,000.00",78.06,Yes,Poor Customer Service
+CUST0364,Maryam Harmon,Jan-25,79,Adamawa,North East,Broadband MiFi,Female,3,Good,2,150GB FUP Monthly Unlimited,"?20,000.00",17,"?340,000.00",161.52,Yes,Better Offers from Competitors
+CUST0364,Maryam Harmon,Jan-25,79,Adamawa,North East,4G Router,Female,3,Good,2,165GB Monthly Plan,"?35,000.00",18,"?630,000.00",188.05,Yes,Better Offers from Competitors
+CUST0364,Maryam Harmon,Jan-25,79,Adamawa,North East,Mobile SIM Card,Female,3,Good,2,1.5GB 2-Day Plan,?600.00,8,"?4,800.00",148.34,Yes,Better Offers from Competitors
+CUST0365,Kunle Myers,Jan-25,20,Plateau,North Central,Broadband MiFi,Female,4,Very Good,42,30GB Monthly Broadband Plan,"?9,000.00",2,"?18,000.00",34.86,No,
+CUST0365,Kunle Myers,Jan-25,20,Plateau,North Central,Mobile SIM Card,Female,4,Very Good,42,1GB+1.5mins Daily Plan,?500.00,4,"?2,000.00",164.24,No,
+CUST0365,Kunle Myers,Jan-25,20,Plateau,North Central,5G Broadband Router,Female,4,Very Good,42,1.5TB Yearly Broadband Plan,"?150,000.00",19,"?2,850,000.00",122.44,No,
+CUST0366,Kunle Brady,Feb-25,29,Delta,South South,5G Broadband Router,Female,1,Poor,39,450GB 3-Month Broadband Plan,"?75,000.00",19,"?1,425,000.00",65.18,No,
+CUST0366,Kunle Brady,Feb-25,29,Delta,South South,Mobile SIM Card,Female,1,Poor,39,16.5GB+10mins Monthly Plan,"?6,500.00",7,"?45,500.00",27.9,No,
+CUST0367,Bola Carpenter,Mar-25,38,Bayelsa,South South,5G Broadband Router,Male,2,Fair,8,300GB FUP Monthly Unlimited,"?30,000.00",19,"?570,000.00",88.01,No,
+CUST0368,Bola Meadows,Feb-25,33,Anambra,South East,Broadband MiFi,Female,1,Poor,50,30GB Monthly Broadband Plan,"?9,000.00",3,"?27,000.00",36.29,No,
+CUST0369,Abubakar Rodriguez,Feb-25,69,Taraba,North East,4G Router,Male,3,Good,14,65GB Monthly Plan,"?16,000.00",16,"?256,000.00",119.46,No,
+CUST0369,Abubakar Rodriguez,Feb-25,69,Taraba,North East,Broadband MiFi,Male,3,Good,14,120GB Monthly Broadband Plan,"?24,000.00",10,"?240,000.00",190.08,No,
+CUST0370,Oghene Bush,Jan-25,69,Lagos,South West,5G Broadband Router,Male,5,Excellent,13,1.5TB Yearly Broadband Plan,"?150,000.00",7,"?1,050,000.00",154.18,No,
+CUST0370,Oghene Bush,Jan-25,69,Lagos,South West,Mobile SIM Card,Male,5,Excellent,13,1GB+1.5mins Daily Plan,?500.00,4,"?2,000.00",11.09,No,
+CUST0370,Oghene Bush,Jan-25,69,Lagos,South West,Broadband MiFi,Male,5,Excellent,13,150GB FUP Monthly Unlimited,"?20,000.00",16,"?320,000.00",137.21,No,
+CUST0371,Grace Wilkerson,Mar-25,38,Abuja (FCT),North Central,Mobile SIM Card,Male,3,Good,4,3.2GB 2-Day Plan,"?1,000.00",18,"?18,000.00",148.21,Yes,Costly Data Plans
+CUST0371,Grace Wilkerson,Mar-25,38,Abuja (FCT),North Central,Broadband MiFi,Male,3,Good,4,150GB FUP Monthly Unlimited,"?20,000.00",1,"?20,000.00",32.03,Yes,Costly Data Plans
+CUST0372,Grace Salas,Feb-25,30,Kaduna,North West,4G Router,Male,5,Excellent,47,25GB Monthly Plan,"?9,000.00",4,"?36,000.00",46.4,No,
+CUST0372,Grace Salas,Feb-25,30,Kaduna,North West,5G Broadband Router,Male,5,Excellent,47,200GB Monthly Broadband Plan,"?25,000.00",8,"?200,000.00",45.94,No,
+CUST0373,Ibim Adams,Feb-25,41,Jigawa,North West,4G Router,Male,5,Excellent,5,165GB Monthly Plan,"?35,000.00",12,"?420,000.00",36.02,No,
+CUST0373,Ibim Adams,Feb-25,41,Jigawa,North West,Broadband MiFi,Male,5,Excellent,5,150GB FUP Monthly Unlimited,"?20,000.00",7,"?140,000.00",91.82,No,
+CUST0374,Oghene Oliver,Jan-25,50,Benue,North Central,Mobile SIM Card,Female,5,Excellent,9,12.5GB Monthly Plan,"?5,500.00",11,"?60,500.00",83.94,Yes,Poor Customer Service
+CUST0375,Nura Oconnell,Feb-25,53,Abuja (FCT),North Central,Mobile SIM Card,Male,1,Poor,37,12.5GB Monthly Plan,"?5,500.00",14,"?77,000.00",56.19,No,
+CUST0375,Nura Oconnell,Feb-25,53,Abuja (FCT),North Central,Broadband MiFi,Male,1,Poor,37,150GB FUP Monthly Unlimited,"?20,000.00",14,"?280,000.00",49.94,No,
+CUST0375,Nura Oconnell,Feb-25,53,Abuja (FCT),North Central,4G Router,Male,1,Poor,37,10GB+10mins Monthly Plan,"?4,500.00",19,"?85,500.00",178.42,No,
+CUST0376,Obinna Miller,Feb-25,16,Kogi,North Central,Mobile SIM Card,Male,5,Excellent,3,3.2GB 2-Day Plan,"?1,000.00",8,"?8,000.00",90.76,Yes,Relocation
+CUST0377,Chinedu Christian,Mar-25,17,Kogi,North Central,Mobile SIM Card,Male,3,Good,9,1GB+1.5mins Daily Plan,?500.00,15,"?7,500.00",32.78,Yes,Poor Network
+CUST0378,Funke Carlson,Feb-25,74,Sokoto,North West,Mobile SIM Card,Male,2,Fair,56,2.5GB 2-Day Plan,?900.00,3,"?2,700.00",172.15,No,
+CUST0378,Funke Carlson,Feb-25,74,Sokoto,North West,5G Broadband Router,Male,2,Fair,56,450GB 3-Month Broadband Plan,"?75,000.00",11,"?825,000.00",178.74,No,
+CUST0379,Sarah Woods,Mar-25,20,Cross River,South South,Broadband MiFi,Female,5,Excellent,49,120GB Monthly Broadband Plan,"?24,000.00",2,"?48,000.00",176.23,No,
+CUST0380,Michael Jacobs,Mar-25,62,Oyo,South West,5G Broadband Router,Male,4,Very Good,25,150GB FUP Monthly Unlimited,"?20,000.00",7,"?140,000.00",112.37,No,
+CUST0380,Michael Jacobs,Mar-25,62,Oyo,South West,Broadband MiFi,Male,4,Very Good,25,150GB FUP Monthly Unlimited,"?20,000.00",8,"?160,000.00",196.26,No,
+CUST0381,David Murphy,Feb-25,30,Taraba,North East,Mobile SIM Card,Male,3,Good,49,2.5GB 2-Day Plan,?900.00,12,"?10,800.00",13.14,No,
+CUST0381,David Murphy,Feb-25,30,Taraba,North East,4G Router,Male,3,Good,49,165GB Monthly Plan,"?35,000.00",17,"?595,000.00",97.5,No,
+CUST0382,Ifeanyi Cooper,Mar-25,76,Adamawa,North East,Broadband MiFi,Female,1,Poor,29,60GB Monthly Broadband Plan,"?14,500.00",10,"?145,000.00",179.64,Yes,Fast Data Consumption
+CUST0383,Kunle Manning,Feb-25,29,Abuja (FCT),North Central,Broadband MiFi,Female,4,Very Good,8,120GB Monthly Broadband Plan,"?24,000.00",16,"?384,000.00",186.38,Yes,Poor Customer Service
+CUST0383,Kunle Manning,Feb-25,29,Abuja (FCT),North Central,4G Router,Female,4,Very Good,8,25GB Monthly Plan,"?9,000.00",1,"?9,000.00",84.32,Yes,Poor Customer Service
+CUST0383,Kunle Manning,Feb-25,29,Abuja (FCT),North Central,5G Broadband Router,Female,4,Very Good,8,120GB Monthly Broadband Plan,"?24,000.00",1,"?24,000.00",38.22,Yes,Poor Customer Service
+CUST0384,Nura Rodriguez,Mar-25,58,Kogi,North Central,Mobile SIM Card,Female,4,Very Good,42,1.5GB 2-Day Plan,?600.00,10,"?6,000.00",179.71,No,
+CUST0384,Nura Rodriguez,Mar-25,58,Kogi,North Central,4G Router,Female,4,Very Good,42,10GB+10mins Monthly Plan,"?4,500.00",8,"?36,000.00",157.96,No,
+CUST0384,Nura Rodriguez,Mar-25,58,Kogi,North Central,5G Broadband Router,Female,4,Very Good,42,1.5TB Yearly Broadband Plan,"?150,000.00",10,"?1,500,000.00",74.69,No,
+CUST0385,Sade George,Feb-25,34,Ekiti,South West,5G Broadband Router,Female,5,Excellent,30,300GB FUP Monthly Unlimited,"?30,000.00",4,"?120,000.00",32.67,No,
+CUST0385,Sade George,Feb-25,34,Ekiti,South West,Broadband MiFi,Female,5,Excellent,30,30GB Monthly Broadband Plan,"?9,000.00",19,"?171,000.00",198.76,No,
+CUST0385,Sade George,Feb-25,34,Ekiti,South West,Mobile SIM Card,Female,5,Excellent,30,1.5GB 2-Day Plan,?600.00,12,"?7,200.00",88.46,No,
+CUST0386,Shehu Torres,Feb-25,42,Rivers,South South,5G Broadband Router,Female,3,Good,23,150GB FUP Monthly Unlimited,"?20,000.00",13,"?260,000.00",184.13,No,
+CUST0387,Grace Walsh,Jan-25,34,Sokoto,North West,5G Broadband Router,Female,5,Excellent,10,120GB Monthly Broadband Plan,"?24,000.00",19,"?456,000.00",193.94,No,
+CUST0387,Grace Walsh,Jan-25,34,Sokoto,North West,4G Router,Female,5,Excellent,10,10GB+10mins Monthly Plan,"?4,500.00",15,"?67,500.00",160.02,No,
+CUST0388,Tega Cervantes,Jan-25,30,Taraba,North East,Mobile SIM Card,Male,3,Good,9,7GB Monthly Plan,"?3,500.00",2,"?7,000.00",18.95,Yes,Relocation
+CUST0389,Bala Dunn,Jan-25,44,Akwa Ibom,South South,Broadband MiFi,Male,5,Excellent,2,150GB FUP Monthly Unlimited,"?20,000.00",20,"?400,000.00",98.35,No,
+CUST0389,Bala Dunn,Jan-25,44,Akwa Ibom,South South,5G Broadband Router,Male,5,Excellent,2,30GB Monthly Broadband Plan,"?9,000.00",12,"?108,000.00",181.74,No,
+CUST0389,Bala Dunn,Jan-25,44,Akwa Ibom,South South,4G Router,Male,5,Excellent,2,165GB Monthly Plan,"?35,000.00",14,"?490,000.00",30.02,No,
+CUST0390,Ejiro Gonzalez,Mar-25,65,Gombe,North East,Broadband MiFi,Male,3,Good,19,60GB Monthly Broadband Plan,"?14,500.00",14,"?203,000.00",148.43,No,
+CUST0390,Ejiro Gonzalez,Mar-25,65,Gombe,North East,Mobile SIM Card,Male,3,Good,19,12.5GB Monthly Plan,"?5,500.00",14,"?77,000.00",58.08,No,
+CUST0391,Ibim Schwartz,Mar-25,33,Katsina,North West,5G Broadband Router,Male,4,Very Good,14,150GB FUP Monthly Unlimited,"?20,000.00",9,"?180,000.00",1.82,No,
+CUST0391,Ibim Schwartz,Mar-25,33,Katsina,North West,Broadband MiFi,Male,4,Very Good,14,60GB Monthly Broadband Plan,"?14,500.00",15,"?217,500.00",35.39,No,
+CUST0391,Ibim Schwartz,Mar-25,33,Katsina,North West,4G Router,Male,4,Very Good,14,10GB+10mins Monthly Plan,"?4,500.00",13,"?58,500.00",40.25,No,
+CUST0392,Abubakar Hayes,Mar-25,78,Rivers,South South,4G Router,Female,4,Very Good,54,65GB Monthly Plan,"?16,000.00",10,"?160,000.00",31.23,No,
+CUST0392,Abubakar Hayes,Mar-25,78,Rivers,South South,Broadband MiFi,Female,4,Very Good,54,60GB Monthly Broadband Plan,"?14,500.00",10,"?145,000.00",25.27,No,
+CUST0393,Ibim Ballard,Jan-25,38,Yobe,North East,5G Broadband Router,Male,3,Good,2,1.5TB Yearly Broadband Plan,"?150,000.00",9,"?1,350,000.00",113.33,No,
+CUST0394,John Nielsen,Mar-25,31,Gombe,North East,5G Broadband Router,Male,2,Fair,55,1.5TB Yearly Broadband Plan,"?150,000.00",5,"?750,000.00",175.72,No,
+CUST0395,Oghene Pacheco,Feb-25,36,Oyo,South West,Broadband MiFi,Female,3,Good,24,150GB FUP Monthly Unlimited,"?20,000.00",20,"?400,000.00",153.06,Yes,Costly Data Plans
+CUST0395,Oghene Pacheco,Feb-25,36,Oyo,South West,5G Broadband Router,Female,3,Good,24,300GB FUP Monthly Unlimited,"?30,000.00",11,"?330,000.00",108.97,Yes,Costly Data Plans
+CUST0395,Oghene Pacheco,Feb-25,36,Oyo,South West,Mobile SIM Card,Female,3,Good,24,1GB+1.5mins Daily Plan,?500.00,12,"?6,000.00",54.66,Yes,Costly Data Plans
+CUST0396,Ngozi Johnson,Mar-25,61,Plateau,North Central,5G Broadband Router,Male,3,Good,9,150GB FUP Monthly Unlimited,"?20,000.00",17,"?340,000.00",43.97,No,
+CUST0396,Ngozi Johnson,Mar-25,61,Plateau,North Central,Broadband MiFi,Male,3,Good,9,150GB FUP Monthly Unlimited,"?20,000.00",18,"?360,000.00",166.4,No,
+CUST0397,Sarah Perry,Jan-25,30,Kogi,North Central,Mobile SIM Card,Female,1,Poor,59,7GB Monthly Plan,"?3,500.00",12,"?42,000.00",62.66,No,
+CUST0398,Amaka Shannon,Mar-25,72,Bauchi,North East,4G Router,Female,1,Poor,12,10GB+10mins Monthly Plan,"?4,500.00",5,"?22,500.00",171.43,No,
+CUST0399,Nura Delgado,Jan-25,55,Borno,North East,Broadband MiFi,Male,4,Very Good,9,30GB Monthly Broadband Plan,"?9,000.00",14,"?126,000.00",155.05,No,
+CUST0400,Bola Vincent,Jan-25,41,Anambra,South East,Broadband MiFi,Male,4,Very Good,51,300GB FUP Monthly Unlimited,"?30,000.00",4,"?120,000.00",133.68,Yes,Costly Data Plans
+CUST0401,Ifeanyi Adkins,Mar-25,42,Benue,North Central,5G Broadband Router,Male,1,Poor,43,200GB Monthly Broadband Plan,"?25,000.00",17,"?425,000.00",32.53,Yes,Better Offers from Competitors
+CUST0401,Ifeanyi Adkins,Mar-25,42,Benue,North Central,Mobile SIM Card,Male,1,Poor,43,500MB Daily Plan,?350.00,3,"?1,050.00",101.23,Yes,Better Offers from Competitors
+CUST0401,Ifeanyi Adkins,Mar-25,42,Benue,North Central,4G Router,Male,1,Poor,43,65GB Monthly Plan,"?16,000.00",1,"?16,000.00",164.01,Yes,Better Offers from Competitors
+CUST0402,Sarah Oconnor,Jan-25,43,Benue,North Central,Mobile SIM Card,Female,1,Poor,11,12.5GB Monthly Plan,"?5,500.00",4,"?22,000.00",134.87,No,
+CUST0402,Sarah Oconnor,Jan-25,43,Benue,North Central,4G Router,Female,1,Poor,11,10GB+10mins Monthly Plan,"?4,500.00",13,"?58,500.00",167.03,No,
+CUST0402,Sarah Oconnor,Jan-25,43,Benue,North Central,Broadband MiFi,Female,1,Poor,11,60GB Monthly Broadband Plan,"?14,500.00",8,"?116,000.00",43.25,No,
+CUST0403,Ibim Soto,Jan-25,30,Niger,North Central,5G Broadband Router,Male,5,Excellent,30,30GB Monthly Broadband Plan,"?9,000.00",16,"?144,000.00",16.91,Yes,Better Offers from Competitors
+CUST0403,Ibim Soto,Jan-25,30,Niger,North Central,Mobile SIM Card,Male,5,Excellent,30,3.2GB 2-Day Plan,"?1,000.00",15,"?15,000.00",77.26,Yes,Better Offers from Competitors
+CUST0404,Maryam Buck,Feb-25,72,Osun,South West,5G Broadband Router,Female,2,Fair,19,30GB Monthly Broadband Plan,"?9,000.00",16,"?144,000.00",199.75,No,
+CUST0404,Maryam Buck,Feb-25,72,Osun,South West,Broadband MiFi,Female,2,Fair,19,30GB Monthly Broadband Plan,"?9,000.00",17,"?153,000.00",79.58,No,
+CUST0405,Chinedu Brown,Jan-25,31,Plateau,North Central,4G Router,Female,2,Fair,26,165GB Monthly Plan,"?35,000.00",14,"?490,000.00",24.99,Yes,Poor Customer Service
+CUST0405,Chinedu Brown,Jan-25,31,Plateau,North Central,5G Broadband Router,Female,2,Fair,26,1.5TB Yearly Broadband Plan,"?150,000.00",19,"?2,850,000.00",56.06,Yes,Poor Customer Service
+CUST0406,Zainab Soto,Feb-25,67,Ekiti,South West,Mobile SIM Card,Female,4,Very Good,43,3.2GB 2-Day Plan,"?1,000.00",16,"?16,000.00",24.88,No,
+CUST0407,Grace Thompson,Jan-25,45,Borno,North East,4G Router,Male,1,Poor,7,165GB Monthly Plan,"?35,000.00",11,"?385,000.00",121.11,No,
+CUST0408,Obinna Daniels,Feb-25,54,Anambra,South East,Mobile SIM Card,Male,4,Very Good,43,1GB+1.5mins Daily Plan,?500.00,18,"?9,000.00",108.72,Yes,High Call Tarriffs
+CUST0408,Obinna Daniels,Feb-25,54,Anambra,South East,5G Broadband Router,Male,4,Very Good,43,30GB Monthly Broadband Plan,"?9,000.00",2,"?18,000.00",190.54,Yes,High Call Tarriffs
+CUST0409,Boma Burns,Feb-25,31,Jigawa,North West,4G Router,Female,4,Very Good,21,25GB Monthly Plan,"?9,000.00",6,"?54,000.00",177,No,
+CUST0410,Grace Snyder,Feb-25,71,Borno,North East,Mobile SIM Card,Female,4,Very Good,46,12.5GB Monthly Plan,"?5,500.00",6,"?33,000.00",112.67,No,
+CUST0410,Grace Snyder,Feb-25,71,Borno,North East,5G Broadband Router,Female,4,Very Good,46,30GB Monthly Broadband Plan,"?9,000.00",16,"?144,000.00",78.58,No,
+CUST0410,Grace Snyder,Feb-25,71,Borno,North East,4G Router,Female,4,Very Good,46,165GB Monthly Plan,"?35,000.00",12,"?420,000.00",123.58,No,
+CUST0411,Abubakar Lane,Jan-25,57,Oyo,South West,Broadband MiFi,Male,2,Fair,38,300GB FUP Monthly Unlimited,"?30,000.00",14,"?420,000.00",76.42,No,
+CUST0411,Abubakar Lane,Jan-25,57,Oyo,South West,5G Broadband Router,Male,2,Fair,38,200GB Monthly Broadband Plan,"?25,000.00",14,"?350,000.00",198.39,No,
+CUST0412,Oghene Bartlett,Mar-25,23,Imo,South East,5G Broadband Router,Male,5,Excellent,16,150GB FUP Monthly Unlimited,"?20,000.00",1,"?20,000.00",67.85,Yes,High Call Tarriffs
+CUST0413,David Giles,Feb-25,57,Rivers,South South,5G Broadband Router,Female,5,Excellent,43,1.5TB Yearly Broadband Plan,"?150,000.00",11,"?1,650,000.00",117.8,No,
+CUST0413,David Giles,Feb-25,57,Rivers,South South,Broadband MiFi,Female,5,Excellent,43,60GB Monthly Broadband Plan,"?14,500.00",11,"?159,500.00",114.29,No,
+CUST0414,Ngozi Williams,Feb-25,78,Anambra,South East,5G Broadband Router,Male,5,Excellent,22,200GB Monthly Broadband Plan,"?25,000.00",7,"?175,000.00",193.9,No,
+CUST0414,Ngozi Williams,Feb-25,78,Anambra,South East,Broadband MiFi,Male,5,Excellent,22,60GB Monthly Broadband Plan,"?14,500.00",3,"?43,500.00",127.27,No,
+CUST0414,Ngozi Williams,Feb-25,78,Anambra,South East,4G Router,Male,5,Excellent,22,10GB+10mins Monthly Plan,"?4,500.00",2,"?9,000.00",57.83,No,
+CUST0415,Maryam Anthony,Jan-25,67,Osun,South West,Mobile SIM Card,Male,5,Excellent,46,20GB Monthly Plan,"?7,500.00",3,"?22,500.00",42.34,No,
+CUST0416,Maryam Blankenship,Mar-25,80,Abia,South East,Mobile SIM Card,Female,2,Fair,43,16.5GB+10mins Monthly Plan,"?6,500.00",1,"?6,500.00",36.53,No,
+CUST0416,Maryam Blankenship,Mar-25,80,Abia,South East,5G Broadband Router,Female,2,Fair,43,300GB FUP Monthly Unlimited,"?30,000.00",7,"?210,000.00",115.58,No,
+CUST0417,Zina Hernandez,Jan-25,50,Adamawa,North East,4G Router,Female,5,Excellent,60,10GB+10mins Monthly Plan,"?4,500.00",10,"?45,000.00",149.41,Yes,Fast Data Consumption
+CUST0418,Boma Johnson,Feb-25,68,Niger,North Central,4G Router,Male,4,Very Good,41,165GB Monthly Plan,"?35,000.00",5,"?175,000.00",48.08,Yes,Costly Data Plans
+CUST0418,Boma Johnson,Feb-25,68,Niger,North Central,Mobile SIM Card,Male,4,Very Good,41,500MB Daily Plan,?350.00,10,"?3,500.00",6.03,Yes,Costly Data Plans
+CUST0418,Boma Johnson,Feb-25,68,Niger,North Central,Broadband MiFi,Male,4,Very Good,41,60GB Monthly Broadband Plan,"?14,500.00",14,"?203,000.00",97.33,Yes,Costly Data Plans
+CUST0419,Boma Sanchez,Feb-25,20,Benue,North Central,4G Router,Male,1,Poor,18,65GB Monthly Plan,"?16,000.00",16,"?256,000.00",192.78,Yes,Better Offers from Competitors
+CUST0419,Boma Sanchez,Feb-25,20,Benue,North Central,5G Broadband Router,Male,1,Poor,18,30GB Monthly Broadband Plan,"?9,000.00",3,"?27,000.00",11.54,Yes,Better Offers from Competitors
+CUST0420,Ese Miller,Mar-25,54,Kaduna,North West,4G Router,Female,1,Poor,58,65GB Monthly Plan,"?16,000.00",19,"?304,000.00",104.63,No,
+CUST0420,Ese Miller,Mar-25,54,Kaduna,North West,Broadband MiFi,Female,1,Poor,58,120GB Monthly Broadband Plan,"?24,000.00",3,"?72,000.00",50.74,No,
+CUST0420,Ese Miller,Mar-25,54,Kaduna,North West,5G Broadband Router,Female,1,Poor,58,60GB Monthly Broadband Plan,"?14,500.00",11,"?159,500.00",120.16,No,
+CUST0421,Tega Stokes,Feb-25,65,Imo,South East,Mobile SIM Card,Female,1,Poor,14,2.5GB 2-Day Plan,?900.00,12,"?10,800.00",98.33,Yes,Costly Data Plans
+CUST0421,Tega Stokes,Feb-25,65,Imo,South East,4G Router,Female,1,Poor,14,65GB Monthly Plan,"?16,000.00",14,"?224,000.00",63.64,Yes,Costly Data Plans
+CUST0422,John Smith,Feb-25,47,Akwa Ibom,South South,Broadband MiFi,Male,3,Good,24,30GB Monthly Broadband Plan,"?9,000.00",8,"?72,000.00",138.29,No,
+CUST0423,Saidu Smith,Jan-25,65,Abia,South East,Mobile SIM Card,Female,5,Excellent,58,20GB Monthly Plan,"?7,500.00",9,"?67,500.00",185.54,No,
+CUST0423,Saidu Smith,Jan-25,65,Abia,South East,Broadband MiFi,Female,5,Excellent,58,300GB FUP Monthly Unlimited,"?30,000.00",8,"?240,000.00",18.5,No,
+CUST0424,Maryam Becker,Mar-25,42,Abuja (FCT),North Central,Broadband MiFi,Female,4,Very Good,41,60GB Monthly Broadband Plan,"?14,500.00",11,"?159,500.00",147.52,No,
+CUST0424,Maryam Becker,Mar-25,42,Abuja (FCT),North Central,4G Router,Female,4,Very Good,41,165GB Monthly Plan,"?35,000.00",4,"?140,000.00",175.41,No,
+CUST0425,Amina Ortega,Feb-25,49,Zamfara,North West,5G Broadband Router,Male,5,Excellent,23,30GB Monthly Broadband Plan,"?9,000.00",6,"?54,000.00",128.45,No,
+CUST0425,Amina Ortega,Feb-25,49,Zamfara,North West,4G Router,Male,5,Excellent,23,165GB Monthly Plan,"?35,000.00",5,"?175,000.00",158.31,No,
+CUST0425,Amina Ortega,Feb-25,49,Zamfara,North West,Broadband MiFi,Male,5,Excellent,23,30GB Monthly Broadband Plan,"?9,000.00",10,"?90,000.00",80.43,No,
+CUST0426,Ese Mathis,Feb-25,26,Delta,South South,Mobile SIM Card,Male,5,Excellent,16,1.5GB 2-Day Plan,?600.00,19,"?11,400.00",52.51,No,
+CUST0426,Ese Mathis,Feb-25,26,Delta,South South,4G Router,Male,5,Excellent,16,25GB Monthly Plan,"?9,000.00",7,"?63,000.00",160.01,No,
+CUST0427,Chinedu West,Feb-25,69,Gombe,North East,4G Router,Male,5,Excellent,26,10GB+10mins Monthly Plan,"?4,500.00",6,"?27,000.00",52.73,Yes,Poor Network
+CUST0427,Chinedu West,Feb-25,69,Gombe,North East,Broadband MiFi,Male,5,Excellent,26,30GB Monthly Broadband Plan,"?9,000.00",14,"?126,000.00",80.51,Yes,Poor Network
+CUST0427,Chinedu West,Feb-25,69,Gombe,North East,Mobile SIM Card,Male,5,Excellent,26,1GB+1.5mins Daily Plan,?500.00,12,"?6,000.00",30.28,Yes,Poor Network
+CUST0428,Amina Skinner,Feb-25,31,Lagos,South West,4G Router,Female,4,Very Good,50,25GB Monthly Plan,"?9,000.00",16,"?144,000.00",57.95,Yes,High Call Tarriffs
+CUST0429,Omamuzo Smith,Feb-25,32,Kwara,North Central,Mobile SIM Card,Male,3,Good,39,1.5GB 2-Day Plan,?600.00,5,"?3,000.00",82,No,
+CUST0430,Funke Lawson,Feb-25,53,Edo,South South,Mobile SIM Card,Male,2,Fair,40,12.5GB Monthly Plan,"?5,500.00",11,"?60,500.00",27.07,No,
+CUST0430,Funke Lawson,Feb-25,53,Edo,South South,Broadband MiFi,Male,2,Fair,40,60GB Monthly Broadband Plan,"?14,500.00",13,"?188,500.00",137.53,No,
+CUST0430,Funke Lawson,Feb-25,53,Edo,South South,5G Broadband Router,Male,2,Fair,40,450GB 3-Month Broadband Plan,"?75,000.00",9,"?675,000.00",147.35,No,
+CUST0431,Kunle Cooper,Feb-25,28,Oyo,South West,Broadband MiFi,Male,4,Very Good,22,120GB Monthly Broadband Plan,"?24,000.00",10,"?240,000.00",124.12,No,
+CUST0431,Kunle Cooper,Feb-25,28,Oyo,South West,Mobile SIM Card,Male,4,Very Good,22,20GB Monthly Plan,"?7,500.00",5,"?37,500.00",134.42,No,
+CUST0431,Kunle Cooper,Feb-25,28,Oyo,South West,4G Router,Male,4,Very Good,22,65GB Monthly Plan,"?16,000.00",9,"?144,000.00",116.31,No,
+CUST0432,Amina Espinoza,Jan-25,80,Yobe,North East,Mobile SIM Card,Female,2,Fair,57,3.2GB 2-Day Plan,"?1,000.00",5,"?5,000.00",63,Yes,High Call Tarriffs
+CUST0432,Amina Espinoza,Jan-25,80,Yobe,North East,Broadband MiFi,Female,2,Fair,57,60GB Monthly Broadband Plan,"?14,500.00",9,"?130,500.00",174.4,Yes,High Call Tarriffs
+CUST0432,Amina Espinoza,Jan-25,80,Yobe,North East,4G Router,Female,2,Fair,57,25GB Monthly Plan,"?9,000.00",10,"?90,000.00",185.28,Yes,High Call Tarriffs
+CUST0433,Saidu Whitehead,Feb-25,49,Bauchi,North East,4G Router,Female,3,Good,28,165GB Monthly Plan,"?35,000.00",5,"?175,000.00",11.12,No,
+CUST0433,Saidu Whitehead,Feb-25,49,Bauchi,North East,5G Broadband Router,Female,3,Good,28,30GB Monthly Broadband Plan,"?9,000.00",2,"?18,000.00",46.36,No,
+CUST0434,John Williams,Jan-25,49,Abuja (FCT),North Central,Mobile SIM Card,Female,4,Very Good,28,3.2GB 2-Day Plan,"?1,000.00",5,"?5,000.00",169.24,Yes,Costly Data Plans
+CUST0434,John Williams,Jan-25,49,Abuja (FCT),North Central,4G Router,Female,4,Very Good,28,65GB Monthly Plan,"?16,000.00",7,"?112,000.00",70.25,Yes,Costly Data Plans
+CUST0434,John Williams,Jan-25,49,Abuja (FCT),North Central,5G Broadband Router,Female,4,Very Good,28,120GB Monthly Broadband Plan,"?24,000.00",6,"?144,000.00",36.54,Yes,Costly Data Plans
+CUST0435,Michael Santana,Feb-25,50,Ondo,South West,Mobile SIM Card,Male,4,Very Good,34,3.2GB 2-Day Plan,"?1,000.00",1,"?1,000.00",177.53,No,
+CUST0436,Abubakar Bullock,Jan-25,31,Kebbi,North West,Mobile SIM Card,Female,3,Good,38,1GB+1.5mins Daily Plan,?500.00,1,?500.00,119.04,Yes,Poor Network
+CUST0436,Abubakar Bullock,Jan-25,31,Kebbi,North West,4G Router,Female,3,Good,38,25GB Monthly Plan,"?9,000.00",20,"?180,000.00",193.97,Yes,Poor Network
+CUST0437,Alabo Young,Jan-25,57,Borno,North East,Broadband MiFi,Male,3,Good,56,120GB Monthly Broadband Plan,"?24,000.00",13,"?312,000.00",190.4,No,
+CUST0438,Chinedu Ramos,Jan-25,67,Edo,South South,Mobile SIM Card,Male,1,Poor,16,20GB Monthly Plan,"?7,500.00",5,"?37,500.00",57.34,Yes,Poor Customer Service
+CUST0439,Ifeanyi Zimmerman,Mar-25,54,Yobe,North East,5G Broadband Router,Female,5,Excellent,48,60GB Monthly Broadband Plan,"?14,500.00",13,"?188,500.00",98.18,Yes,High Call Tarriffs
+CUST0440,John Carter,Jan-25,50,Kwara,North Central,Mobile SIM Card,Male,3,Good,49,2.5GB 2-Day Plan,?900.00,15,"?13,500.00",102.91,No,
+CUST0440,John Carter,Jan-25,50,Kwara,North Central,Broadband MiFi,Male,3,Good,49,150GB FUP Monthly Unlimited,"?20,000.00",5,"?100,000.00",129.7,No,
+CUST0441,Grace Williams,Jan-25,26,Cross River,South South,5G Broadband Router,Female,4,Very Good,28,60GB Monthly Broadband Plan,"?14,500.00",10,"?145,000.00",104.86,No,
+CUST0442,Sade Johnson,Jan-25,25,Rivers,South South,5G Broadband Router,Male,4,Very Good,33,150GB FUP Monthly Unlimited,"?20,000.00",1,"?20,000.00",153.85,Yes,High Call Tarriffs
+CUST0442,Sade Johnson,Jan-25,25,Rivers,South South,4G Router,Male,4,Very Good,33,65GB Monthly Plan,"?16,000.00",15,"?240,000.00",148.23,Yes,High Call Tarriffs
+CUST0442,Sade Johnson,Jan-25,25,Rivers,South South,Mobile SIM Card,Male,4,Very Good,33,1.5GB 2-Day Plan,?600.00,13,"?7,800.00",157.34,Yes,High Call Tarriffs
+CUST0443,Bola Wright,Jan-25,26,Kogi,North Central,5G Broadband Router,Female,4,Very Good,21,60GB Monthly Broadband Plan,"?14,500.00",20,"?290,000.00",37.42,No,
+CUST0443,Bola Wright,Jan-25,26,Kogi,North Central,Broadband MiFi,Female,4,Very Good,21,300GB FUP Monthly Unlimited,"?30,000.00",4,"?120,000.00",174.39,No,
+CUST0444,Boma Shah,Jan-25,18,Lagos,South West,Mobile SIM Card,Female,2,Fair,8,16.5GB+10mins Monthly Plan,"?6,500.00",20,"?130,000.00",60.91,No,
+CUST0445,Ejiro Wagner,Feb-25,66,Abia,South East,4G Router,Male,1,Poor,9,65GB Monthly Plan,"?16,000.00",5,"?80,000.00",42.24,Yes,Better Offers from Competitors
+CUST0446,Halima Lambert,Mar-25,71,Adamawa,North East,Broadband MiFi,Male,4,Very Good,6,150GB FUP Monthly Unlimited,"?20,000.00",15,"?300,000.00",180.53,Yes,Fast Data Consumption
+CUST0447,Grace Hudson,Feb-25,76,Kano,North West,Broadband MiFi,Female,2,Fair,38,30GB Monthly Broadband Plan,"?9,000.00",14,"?126,000.00",20.98,Yes,Better Offers from Competitors
+CUST0447,Grace Hudson,Feb-25,76,Kano,North West,4G Router,Female,2,Fair,38,165GB Monthly Plan,"?35,000.00",19,"?665,000.00",169.8,Yes,Better Offers from Competitors
+CUST0448,Abubakar Ryan,Jan-25,20,Yobe,North East,Broadband MiFi,Female,2,Fair,32,120GB Monthly Broadband Plan,"?24,000.00",14,"?336,000.00",13.17,No,
+CUST0448,Abubakar Ryan,Jan-25,20,Yobe,North East,4G Router,Female,2,Fair,32,165GB Monthly Plan,"?35,000.00",20,"?700,000.00",23.83,No,
+CUST0448,Abubakar Ryan,Jan-25,20,Yobe,North East,5G Broadband Router,Female,2,Fair,32,200GB Monthly Broadband Plan,"?25,000.00",14,"?350,000.00",89.94,No,
+CUST0449,Funke Chung,Mar-25,36,Cross River,South South,5G Broadband Router,Male,4,Very Good,31,300GB FUP Monthly Unlimited,"?30,000.00",13,"?390,000.00",176.69,Yes,Poor Customer Service
+CUST0449,Funke Chung,Mar-25,36,Cross River,South South,Mobile SIM Card,Male,4,Very Good,31,20GB Monthly Plan,"?7,500.00",12,"?90,000.00",166.7,Yes,Poor Customer Service
+CUST0449,Funke Chung,Mar-25,36,Cross River,South South,4G Router,Male,4,Very Good,31,165GB Monthly Plan,"?35,000.00",6,"?210,000.00",160.05,Yes,Poor Customer Service
+CUST0450,Fatima Curtis,Feb-25,52,Katsina,North West,Mobile SIM Card,Female,2,Fair,9,12.5GB Monthly Plan,"?5,500.00",7,"?38,500.00",61.08,Yes,Fast Data Consumption
+CUST0451,Sade Baker,Feb-25,18,Ekiti,South West,Mobile SIM Card,Female,2,Fair,23,12.5GB Monthly Plan,"?5,500.00",8,"?44,000.00",23.24,No,
+CUST0451,Sade Baker,Feb-25,18,Ekiti,South West,4G Router,Female,2,Fair,23,10GB+10mins Monthly Plan,"?4,500.00",16,"?72,000.00",112.62,No,
+CUST0452,Saidu Jackson,Mar-25,59,Ekiti,South West,Broadband MiFi,Male,2,Fair,50,60GB Monthly Broadband Plan,"?14,500.00",4,"?58,000.00",159.9,No,
+CUST0452,Saidu Jackson,Mar-25,59,Ekiti,South West,5G Broadband Router,Male,2,Fair,50,150GB FUP Monthly Unlimited,"?20,000.00",20,"?400,000.00",156.44,No,
+CUST0452,Saidu Jackson,Mar-25,59,Ekiti,South West,Mobile SIM Card,Male,2,Fair,50,3.2GB 2-Day Plan,"?1,000.00",2,"?2,000.00",164.81,No,
+CUST0453,Michael Madden,Feb-25,29,Abuja (FCT),North Central,Mobile SIM Card,Male,3,Good,56,3.2GB 2-Day Plan,"?1,000.00",12,"?12,000.00",31.28,Yes,Costly Data Plans
+CUST0453,Michael Madden,Feb-25,29,Abuja (FCT),North Central,5G Broadband Router,Male,3,Good,56,200GB Monthly Broadband Plan,"?25,000.00",4,"?100,000.00",163.92,Yes,Costly Data Plans
+CUST0453,Michael Madden,Feb-25,29,Abuja (FCT),North Central,4G Router,Male,3,Good,56,10GB+10mins Monthly Plan,"?4,500.00",14,"?63,000.00",88.1,Yes,Costly Data Plans
+CUST0454,Tunde Fuller,Feb-25,47,Taraba,North East,5G Broadband Router,Female,1,Poor,19,60GB Monthly Broadband Plan,"?14,500.00",17,"?246,500.00",30.75,Yes,High Call Tarriffs
+CUST0454,Tunde Fuller,Feb-25,47,Taraba,North East,Mobile SIM Card,Female,1,Poor,19,20GB Monthly Plan,"?7,500.00",5,"?37,500.00",157.55,Yes,High Call Tarriffs
+CUST0455,Boma Baker,Mar-25,68,Kogi,North Central,Broadband MiFi,Female,1,Poor,55,30GB Monthly Broadband Plan,"?9,000.00",13,"?117,000.00",67.99,No,
+CUST0456,Amina Diaz,Jan-25,71,Oyo,South West,5G Broadband Router,Female,2,Fair,49,450GB 3-Month Broadband Plan,"?75,000.00",18,"?1,350,000.00",80.7,No,
+CUST0457,Maryam Martin,Mar-25,56,Ekiti,South West,Mobile SIM Card,Male,5,Excellent,53,12.5GB Monthly Plan,"?5,500.00",18,"?99,000.00",128.95,No,
+CUST0458,Alabo Bradley,Mar-25,60,Kebbi,North West,4G Router,Male,1,Poor,57,25GB Monthly Plan,"?9,000.00",17,"?153,000.00",43.14,Yes,Costly Data Plans
+CUST0458,Alabo Bradley,Mar-25,60,Kebbi,North West,5G Broadband Router,Male,1,Poor,57,120GB Monthly Broadband Plan,"?24,000.00",6,"?144,000.00",104.51,Yes,Costly Data Plans
+CUST0460,Ejiro Martin,Jan-25,49,Zamfara,North West,Broadband MiFi,Female,1,Poor,8,150GB FUP Monthly Unlimited,"?20,000.00",19,"?380,000.00",161.17,No,
+CUST0460,Ejiro Martin,Jan-25,49,Zamfara,North West,4G Router,Female,1,Poor,8,10GB+10mins Monthly Plan,"?4,500.00",10,"?45,000.00",70.39,No,
+CUST0460,Ejiro Martin,Jan-25,49,Zamfara,North West,5G Broadband Router,Female,1,Poor,8,300GB FUP Monthly Unlimited,"?30,000.00",17,"?510,000.00",143.01,No,
+CUST0461,Halima Walker,Mar-25,29,Niger,North Central,Mobile SIM Card,Male,4,Very Good,53,3.2GB 2-Day Plan,"?1,000.00",5,"?5,000.00",12.91,Yes,High Call Tarriffs
+CUST0461,Halima Walker,Mar-25,29,Niger,North Central,Broadband MiFi,Male,4,Very Good,53,60GB Monthly Broadband Plan,"?14,500.00",3,"?43,500.00",43.35,Yes,High Call Tarriffs
+CUST0462,Ejiro Brown,Mar-25,67,Bauchi,North East,Mobile SIM Card,Female,5,Excellent,56,12.5GB Monthly Plan,"?5,500.00",14,"?77,000.00",146.48,No,
+CUST0462,Ejiro Brown,Mar-25,67,Bauchi,North East,5G Broadband Router,Female,5,Excellent,56,300GB FUP Monthly Unlimited,"?30,000.00",5,"?150,000.00",29.3,No,
+CUST0463,Grace Bell,Feb-25,74,Borno,North East,4G Router,Male,4,Very Good,45,65GB Monthly Plan,"?16,000.00",14,"?224,000.00",120.52,No,
+CUST0463,Grace Bell,Feb-25,74,Borno,North East,5G Broadband Router,Male,4,Very Good,45,150GB FUP Monthly Unlimited,"?20,000.00",19,"?380,000.00",24.61,No,
+CUST0463,Grace Bell,Feb-25,74,Borno,North East,Mobile SIM Card,Male,4,Very Good,45,1GB+1.5mins Daily Plan,?500.00,5,"?2,500.00",8.54,No,
+CUST0464,Ifeanyi Smith,Mar-25,63,Abia,South East,Mobile SIM Card,Female,4,Very Good,20,2.5GB 2-Day Plan,?900.00,10,"?9,000.00",187.4,Yes,Poor Customer Service
+CUST0465,Abubakar Ross,Jan-25,43,Enugu,South East,Mobile SIM Card,Female,5,Excellent,1,12.5GB Monthly Plan,"?5,500.00",19,"?104,500.00",114.83,No,
+CUST0466,Alabo Escobar,Feb-25,59,Jigawa,North West,Mobile SIM Card,Female,2,Fair,54,12.5GB Monthly Plan,"?5,500.00",11,"?60,500.00",30.22,No,
+CUST0466,Alabo Escobar,Feb-25,59,Jigawa,North West,5G Broadband Router,Female,2,Fair,54,150GB FUP Monthly Unlimited,"?20,000.00",20,"?400,000.00",160.06,No,
+CUST0467,Ibim Hunter,Jan-25,65,Osun,South West,Broadband MiFi,Female,4,Very Good,22,120GB Monthly Broadband Plan,"?24,000.00",10,"?240,000.00",126.21,No,
+CUST0467,Ibim Hunter,Jan-25,65,Osun,South West,Mobile SIM Card,Female,4,Very Good,22,16.5GB+10mins Monthly Plan,"?6,500.00",18,"?117,000.00",129.21,No,
+CUST0467,Ibim Hunter,Jan-25,65,Osun,South West,5G Broadband Router,Female,4,Very Good,22,150GB FUP Monthly Unlimited,"?20,000.00",20,"?400,000.00",38.89,No,
+CUST0468,David Boone,Jan-25,22,Bauchi,North East,4G Router,Male,5,Excellent,49,65GB Monthly Plan,"?16,000.00",7,"?112,000.00",55.36,No,
+CUST0469,Halima Matthews,Jan-25,72,Katsina,North West,5G Broadband Router,Female,4,Very Good,26,450GB 3-Month Broadband Plan,"?75,000.00",1,"?75,000.00",36.51,No,
+CUST0470,Sarah Gordon,Jan-25,56,Jigawa,North West,4G Router,Female,1,Poor,6,25GB Monthly Plan,"?9,000.00",5,"?45,000.00",153.78,No,
+CUST0470,Sarah Gordon,Jan-25,56,Jigawa,North West,Broadband MiFi,Female,1,Poor,6,300GB FUP Monthly Unlimited,"?30,000.00",6,"?180,000.00",190.46,No,
+CUST0471,Sade Wagner,Jan-25,57,Enugu,South East,4G Router,Male,3,Good,46,25GB Monthly Plan,"?9,000.00",4,"?36,000.00",51.96,No,
+CUST0471,Sade Wagner,Jan-25,57,Enugu,South East,Mobile SIM Card,Male,3,Good,46,2.5GB 2-Day Plan,?900.00,20,"?18,000.00",40.91,No,
+CUST0472,Halima Adams,Mar-25,79,Zamfara,North West,Mobile SIM Card,Female,1,Poor,8,2.5GB 2-Day Plan,?900.00,8,"?7,200.00",81.8,No,
+CUST0472,Halima Adams,Mar-25,79,Zamfara,North West,Broadband MiFi,Female,1,Poor,8,30GB Monthly Broadband Plan,"?9,000.00",19,"?171,000.00",54.2,No,
+CUST0472,Halima Adams,Mar-25,79,Zamfara,North West,4G Router,Female,1,Poor,8,65GB Monthly Plan,"?16,000.00",18,"?288,000.00",49.64,No,
+CUST0473,Amaka Jackson,Feb-25,54,Kogi,North Central,4G Router,Female,2,Fair,6,165GB Monthly Plan,"?35,000.00",18,"?630,000.00",192.29,No,
+CUST0474,Alabo Moreno,Mar-25,21,Lagos,South West,5G Broadband Router,Female,2,Fair,54,450GB 3-Month Broadband Plan,"?75,000.00",7,"?525,000.00",199.85,Yes,Fast Data Consumption
+CUST0474,Alabo Moreno,Mar-25,21,Lagos,South West,Mobile SIM Card,Female,2,Fair,54,16.5GB+10mins Monthly Plan,"?6,500.00",6,"?39,000.00",56.62,Yes,Fast Data Consumption
+CUST0475,David Park,Jan-25,24,Abia,South East,Mobile SIM Card,Male,2,Fair,26,16.5GB+10mins Monthly Plan,"?6,500.00",11,"?71,500.00",191.5,No,
+CUST0475,David Park,Jan-25,24,Abia,South East,Broadband MiFi,Male,2,Fair,26,300GB FUP Monthly Unlimited,"?30,000.00",15,"?450,000.00",127.22,No,
+CUST0476,Zainab Lam,Jan-25,47,Niger,North Central,4G Router,Female,5,Excellent,14,165GB Monthly Plan,"?35,000.00",1,"?35,000.00",1.35,No,
+CUST0476,Zainab Lam,Jan-25,47,Niger,North Central,5G Broadband Router,Female,5,Excellent,14,300GB FUP Monthly Unlimited,"?30,000.00",16,"?480,000.00",82.93,No,
+CUST0476,Zainab Lam,Jan-25,47,Niger,North Central,Broadband MiFi,Female,5,Excellent,14,60GB Monthly Broadband Plan,"?14,500.00",3,"?43,500.00",107.86,No,
+CUST0478,Ifeanyi Ballard,Jan-25,75,Gombe,North East,5G Broadband Router,Male,2,Fair,29,150GB FUP Monthly Unlimited,"?20,000.00",10,"?200,000.00",163.35,No,
+CUST0478,Ifeanyi Ballard,Jan-25,75,Gombe,North East,Broadband MiFi,Male,2,Fair,29,150GB FUP Monthly Unlimited,"?20,000.00",16,"?320,000.00",47.23,No,
+CUST0479,Ejiro Stewart,Feb-25,20,Akwa Ibom,South South,Mobile SIM Card,Female,1,Poor,58,16.5GB+10mins Monthly Plan,"?6,500.00",18,"?117,000.00",99.06,Yes,Better Offers from Competitors
+CUST0479,Ejiro Stewart,Feb-25,20,Akwa Ibom,South South,Broadband MiFi,Female,1,Poor,58,150GB FUP Monthly Unlimited,"?20,000.00",19,"?380,000.00",132.14,Yes,Better Offers from Competitors
+CUST0479,Ejiro Stewart,Feb-25,20,Akwa Ibom,South South,4G Router,Female,1,Poor,58,10GB+10mins Monthly Plan,"?4,500.00",5,"?22,500.00",13.54,Yes,Better Offers from Competitors
+CUST0480,Kunle Goodwin,Mar-25,32,Edo,South South,5G Broadband Router,Male,2,Fair,57,1.5TB Yearly Broadband Plan,"?150,000.00",14,"?2,100,000.00",0.89,No,
+CUST0481,Sade Reed,Jan-25,57,Kwara,North Central,Broadband MiFi,Female,5,Excellent,18,150GB FUP Monthly Unlimited,"?20,000.00",14,"?280,000.00",9.87,No,
+CUST0481,Sade Reed,Jan-25,57,Kwara,North Central,5G Broadband Router,Female,5,Excellent,18,1.5TB Yearly Broadband Plan,"?150,000.00",13,"?1,950,000.00",63.59,No,
+CUST0482,Bala Gibson,Feb-25,58,Katsina,North West,4G Router,Male,4,Very Good,48,10GB+10mins Monthly Plan,"?4,500.00",3,"?13,500.00",66.18,No,
+CUST0484,Ngozi Chan,Jan-25,76,Imo,South East,Broadband MiFi,Female,3,Good,54,120GB Monthly Broadband Plan,"?24,000.00",4,"?96,000.00",124.1,No,
+CUST0485,Alabo Anderson,Jan-25,31,Katsina,North West,Broadband MiFi,Male,4,Very Good,59,60GB Monthly Broadband Plan,"?14,500.00",20,"?290,000.00",11.43,No,
+CUST0485,Alabo Anderson,Jan-25,31,Katsina,North West,Mobile SIM Card,Male,4,Very Good,59,20GB Monthly Plan,"?7,500.00",2,"?15,000.00",13.63,No,
+CUST0485,Alabo Anderson,Jan-25,31,Katsina,North West,5G Broadband Router,Male,4,Very Good,59,30GB Monthly Broadband Plan,"?9,000.00",13,"?117,000.00",59.34,No,
+CUST0486,Tamuno Hudson,Jan-25,28,Kogi,North Central,Broadband MiFi,Male,4,Very Good,56,30GB Monthly Broadband Plan,"?9,000.00",11,"?99,000.00",91.09,No,
+CUST0486,Tamuno Hudson,Jan-25,28,Kogi,North Central,4G Router,Male,4,Very Good,56,10GB+10mins Monthly Plan,"?4,500.00",1,"?4,500.00",22.05,No,
+CUST0487,Kunle Gilmore,Jan-25,40,Borno,North East,4G Router,Female,4,Very Good,23,10GB+10mins Monthly Plan,"?4,500.00",2,"?9,000.00",159.51,No,
+CUST0487,Kunle Gilmore,Jan-25,40,Borno,North East,Broadband MiFi,Female,4,Very Good,23,150GB FUP Monthly Unlimited,"?20,000.00",14,"?280,000.00",62.68,No,
+CUST0488,Michael Jones,Jan-25,61,Abia,South East,5G Broadband Router,Male,3,Good,10,300GB FUP Monthly Unlimited,"?30,000.00",17,"?510,000.00",11.93,No,
+CUST0488,Michael Jones,Jan-25,61,Abia,South East,Broadband MiFi,Male,3,Good,10,120GB Monthly Broadband Plan,"?24,000.00",14,"?336,000.00",171.81,No,
+CUST0489,Oghene Wilson,Jan-25,41,Benue,North Central,Mobile SIM Card,Male,3,Good,51,7GB Monthly Plan,"?3,500.00",14,"?49,000.00",123.41,Yes,Fast Data Consumption
+CUST0489,Oghene Wilson,Jan-25,41,Benue,North Central,5G Broadband Router,Male,3,Good,51,200GB Monthly Broadband Plan,"?25,000.00",15,"?375,000.00",32.87,Yes,Fast Data Consumption
+CUST0489,Oghene Wilson,Jan-25,41,Benue,North Central,4G Router,Male,3,Good,51,65GB Monthly Plan,"?16,000.00",1,"?16,000.00",99.44,Yes,Fast Data Consumption
+CUST0490,Nura Cox,Jan-25,45,Sokoto,North West,4G Router,Male,3,Good,16,10GB+10mins Monthly Plan,"?4,500.00",1,"?4,500.00",165.3,No,
+CUST0490,Nura Cox,Jan-25,45,Sokoto,North West,Mobile SIM Card,Male,3,Good,16,7GB Monthly Plan,"?3,500.00",12,"?42,000.00",2.47,No,
+CUST0491,Funke Smith,Feb-25,30,Plateau,North Central,Broadband MiFi,Female,5,Excellent,29,150GB FUP Monthly Unlimited,"?20,000.00",6,"?120,000.00",39.97,No,
+CUST0491,Funke Smith,Feb-25,30,Plateau,North Central,Mobile SIM Card,Female,5,Excellent,29,500MB Daily Plan,?350.00,6,"?2,100.00",177.13,No,
+CUST0492,Tega Kim,Feb-25,47,Enugu,South East,4G Router,Male,3,Good,2,165GB Monthly Plan,"?35,000.00",4,"?140,000.00",131.15,No,
+CUST0493,Tega Fischer,Mar-25,42,Abia,South East,Mobile SIM Card,Female,3,Good,16,3.2GB 2-Day Plan,"?1,000.00",5,"?5,000.00",29.31,No,
+CUST0493,Tega Fischer,Mar-25,42,Abia,South East,5G Broadband Router,Female,3,Good,16,60GB Monthly Broadband Plan,"?14,500.00",13,"?188,500.00",38.74,No,
+CUST0493,Tega Fischer,Mar-25,42,Abia,South East,Broadband MiFi,Female,3,Good,16,300GB FUP Monthly Unlimited,"?30,000.00",14,"?420,000.00",63.93,No,
+CUST0494,Halima Martin,Feb-25,21,Benue,North Central,4G Router,Female,3,Good,51,165GB Monthly Plan,"?35,000.00",3,"?105,000.00",42.24,Yes,High Call Tarriffs
+CUST0494,Halima Martin,Feb-25,21,Benue,North Central,5G Broadband Router,Female,3,Good,51,1.5TB Yearly Broadband Plan,"?150,000.00",20,"?3,000,000.00",158.3,Yes,High Call Tarriffs
+CUST0495,Kunle Brown,Mar-25,37,Zamfara,North West,5G Broadband Router,Female,4,Very Good,49,200GB Monthly Broadband Plan,"?25,000.00",16,"?400,000.00",105.33,No,
+CUST0496,Grace Matthews,Jan-25,76,Akwa Ibom,South South,4G Router,Female,2,Fair,41,10GB+10mins Monthly Plan,"?4,500.00",13,"?58,500.00",61.55,Yes,Poor Customer Service
+CUST0496,Grace Matthews,Jan-25,76,Akwa Ibom,South South,Mobile SIM Card,Female,2,Fair,41,1.5GB 2-Day Plan,?600.00,12,"?7,200.00",187.13,Yes,Poor Customer Service
+CUST0497,Saidu Baker,Jan-25,26,Borno,North East,Broadband MiFi,Male,5,Excellent,19,60GB Monthly Broadband Plan,"?14,500.00",14,"?203,000.00",90.5,No,
+CUST0497,Saidu Baker,Jan-25,26,Borno,North East,4G Router,Male,5,Excellent,19,165GB Monthly Plan,"?35,000.00",16,"?560,000.00",73.82,No,
+CUST0497,Saidu Baker,Jan-25,26,Borno,North East,5G Broadband Router,Male,5,Excellent,19,200GB Monthly Broadband Plan,"?25,000.00",1,"?25,000.00",54.97,No,
+CUST0498,Shehu Harris,Jan-25,72,Osun,South West,Broadband MiFi,Female,3,Good,42,150GB FUP Monthly Unlimited,"?20,000.00",3,"?60,000.00",20.13,No,
+CUST0498,Shehu Harris,Jan-25,72,Osun,South West,4G Router,Female,3,Good,42,25GB Monthly Plan,"?9,000.00",7,"?63,000.00",8.14,No,
+CUST0499,Tega Hood,Mar-25,41,Bayelsa,South South,5G Broadband Router,Female,2,Fair,20,30GB Monthly Broadband Plan,"?9,000.00",10,"?90,000.00",154.13,No,
+CUST0500,Oghene Hamilton,Feb-25,67,Kebbi,North West,4G Router,Male,4,Very Good,31,165GB Monthly Plan,"?35,000.00",15,"?525,000.00",144.64,Yes,High Call Tarriffs
+CUST0500,Oghene Hamilton,Feb-25,67,Kebbi,North West,Mobile SIM Card,Male,4,Very Good,31,7GB Monthly Plan,"?3,500.00",11,"?38,500.00",158.49,Yes,High Call Tarriffs
+CUST0500,Oghene Hamilton,Feb-25,67,Kebbi,North West,Broadband MiFi,Male,4,Very Good,31,150GB FUP Monthly Unlimited,"?20,000.00",14,"?280,000.00",86.04,Yes,High Call Tarriffs
