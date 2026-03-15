@@ -21,7 +21,7 @@ COUNT(DISTINCT(customer_id)) as UNIQUE_CUSTOMERS
 FROM mtn_churn
 )
 
-SELECT 'Churn' as , churn as VALUE
+SELECT 'Churn' as METRIC, churn as VALUE
 FROM churn_calc
 UNION ALL
 SELECT 'Unique customers', UNIQUE_CUSTOMERS
@@ -67,12 +67,18 @@ ADD region VARCHAR(20)
 UPDATE mtn_churn
 SET region =
 CASE
-    WHEN state IN ('Benue','Kogi','Kwara','Nasarawa','Niger','Plateau','Abuja (FCT)') THEN 'North Central'
-    WHEN state IN ('Adamawa','Bauchi','Borno','Gombe','Taraba','Yobe') THEN 'North East'
-    WHEN state IN ('Jigawa','Kaduna','Kano','Katsina','Kebbi','Sokoto','Zamfara') THEN 'North West'
-    WHEN state IN ('Abia','Anambra','Ebonyi','Enugu','Imo') THEN 'South East'
-    WHEN state IN ('Akwa Ibom','Bayelsa','Cross River','Delta','Edo','Rivers') THEN 'South South'
-    WHEN state IN ('Ekiti','Lagos','Ogun','Ondo','Osun','Oyo') THEN 'South West'
+    WHEN state IN ('Benue','Kogi','Kwara','Nasarawa','Niger','Plateau','Abuja (FCT)')
+        THEN 'North Central'
+    WHEN state IN ('Adamawa','Bauchi','Borno','Gombe','Taraba','Yobe')
+        THEN 'North East'
+    WHEN state IN ('Jigawa','Kaduna','Kano','Katsina','Kebbi','Sokoto','Zamfara')
+        THEN 'North West'
+    WHEN state IN ('Abia','Anambra','Ebonyi','Enugu','Imo')
+        THEN 'South East'
+    WHEN state IN ('Akwa Ibom','Bayelsa','Cross River','Delta','Edo','Rivers')
+        THEN 'South South'
+    WHEN state IN ('Ekiti','Lagos','Ogun','Ondo','Osun','Oyo')
+        THEN 'South West'
 END;
 
 -- regional analysis 
