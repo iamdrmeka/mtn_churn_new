@@ -2,14 +2,14 @@
 
 ## BUSINESS PROBLEM
 
-    This project aims to Analyse  the usage patterns of mtn products in Nigeria, customer churn and and create insights on customer retention, product performance and revenue optimization
+    This project aims to Analyze  the usage patterns of mtn products in Nigeria, customer churn and and create insights on customer retention, product performance and revenue optimization
 
 ## DATASET OVERVIEW
 
     - Total Records: 974
     - Unique Customers: 496
     - Period: One Year
-    - Teritory: Nigeria
+    - Territory: Nigeria
     - Devices: 4
 
 ## KEY COLUMNS
@@ -46,7 +46,7 @@
     - Total Churned Customers: 146
     - Overall Churn rate: 29.44
 
-    The data presented a 29.44% churn rate which is very high and has resulted in loss of revenue.
+The Analysis reveals a 29.44% churn rate, indicating a significant loss of customers and high revenue leakage. This presents the need for improved retention plans.
 
 #### Gender Distribution
 
@@ -70,8 +70,8 @@ The North central recorded the highest volume of customers while the south east 
 ![alt text](Tables&plots/age_grp_churn.png)
 
 The Data shows that a significant portion(29%) of the customer base are Senior citizens of 60 years old and above, followed by the middle aged people. The data further shows that the acceptance of our services goes down as the different ages go down, with younger people with just a 10% share of the customer base.
-The churn pattern also shows that the younf adults had the highest churn rate of about 34% followed by the youths. Efforts must be made to undestand the preferences of these groups to enable us penetrate the market.
-we mst also ensure to carry out survery to understand why we have more of the snr citizens using our products and less of the younger people. A dive into the reason for churn shows relocation being the most reason, while customer satisfaction among them seems to be low as more than 58% percent of the youths scored our services between 1(poor) and 2(fair).
+The churn pattern also shows that the young adults had the highest churn rate of about 34% followed by the youths. Efforts must be made to understand the preferences of these groups to enable us penetrate the market.
+we mst also ensure to carry out survey to understand why we have more of the snr citizens using our products and less of the younger people. A dive into the reason for churn shows relocation being the most reason, while customer satisfaction among them seems to be low as more than 58% percent of the youths scored our services between 1(poor) and 2(fair).
 
 ## REVENUE
 
@@ -89,41 +89,41 @@ we mst also ensure to carry out survery to understand why we have more of the sn
 
 ![alt text](Tables&plots/revenue_region.png)
 
-    Data from revenue shows the North Central leading the revenue generation followed by the North and The south East being the lowest as seeen in the customer distribution. The South South however genertated more revenue than the South West and North west which had more customers - this shows a higher premium purchase from the region.
+Data from revenue shows the North Central leading the revenue generation followed by the North and The south East being the lowest as seen in the customer distribution. The South South however generated more revenue than the South West and North west which had more customers - this shows a higher premium purchase from the region.
 
-    Whille the North Central Tops the List of customers and Revenue, Only Platue State from the region features in the top 5 revenue generating states with another 2 featuring in the top 10; Only one North Central State features in the bottom 10.
+While the North Central Tops the List of customers and Revenue, Only Platue State from the region features in the top 5 revenue generating states with another 2 featuring in the top 10; Only one North Central State features in the bottom 10.
 
     The South East states neither featured in the top 10 or bottom 10 states.
 
 ### Revenue By Age Groups
 
 ![Age_grps](Tables&plots/age_grp_revenue.png)  
- We dived in to know which age group of customers generates the most revenue.
-REneveue Generation correlates with the customer distribution. with most of the revenue from the senior citizens coming down with age as the Youths have the lowest.
+We dived in to know which age group of customers generates the most revenue.
+Revenue Generation correlates with the customer distribution. with most of the revenue from the senior citizens coming down with age as the Youths have the lowest.
 
-    Eforts should be made to improve in this as the current tech savvy youths and young adults have more demand and access to the internet and should have the highest market share. This current situation is costing the organisation serious losses and we have an untapped market.
+Efforts should be made to improve in this as the current tech savvy youths and young adults have more demand and access to the internet and should have the highest market share. This current situation is costing the organization serious losses and we have an untapped market.
 
 ### Revenue From Devices
 
 ![alt text](Tables&plots/device_sales.png)  
 ![alt text](Tables&plots/revenue_devives.png)
 
-The most Revenue came from the 5g broadband router which generated more than twice the second on the revenue list (Broad band MIFI). However on the scale of sales, the most sold device was the mobile simcard followed by the 5g router.
+The most Revenue came from the 5g broadband router which generated more than twice the second on the revenue list (Broad band MIFI). However on the scale of sales, the most sold device was the mobile simc ard followed by the 5g router.
 
-The revenue discripancy with the sales is as a result of the unit price as the 5g is more expensive than the others.
+The revenue discrepancy with the sales is as a result of the unit price as the 5g is more expensive than the others.
 
 Production cost data needs to be provided to enable us determine which product is more profitable regardless of the sales and revenue reported.
 
 ![alt text](Tables&plots/device_popular.png)  
-The various regions do not show any major differences in thier choices of device except for the south east which displayed a very low patronage for the 5g broadband router and 4g router, suggesting a possible lower purchasing power of current customers
+The various regions do not show any major differences in their choices of device except for the south east which displayed a very low patronage for the 5g broadband router and 4g router, suggesting a possible lower purchasing power of current customers
 
 ### Revenue from Sunscription Plans
 
 ![alt text](Tables&plots/revenue_subs.png)  
-The 1.5tb yearly broad band plan generated the most revenue. This is reasonable as the most reasonable as the leading devices are boradband devices.
+The 1.5tb yearly broad band plan generated the most revenue. This is reasonable as the most reasonable as the leading devices are broadband devices.
 ![alt text](Tables&plots/sub_sales.png)
 For sales volume, the 1.5tb plan sold only 25 units, with the 60gb monthly broadband plan leading the sales chat.
-The 1.5tb plan may have fetched the highest revenue, however, the sales is very; this may be due to afforfability.
+The 1.5tb plan may have fetched the highest revenue, however, the sales is very; this may be due to affordability.
 
     - A quick look at what the top spenders are buying (*Middle age and Senior*)
 
@@ -146,7 +146,7 @@ Satisfaction may not be a leading cause of customer churn, but efforts must be m
 ## CUSTOMER CHURN REASON
 
 ![alt text](<Tables&plots/churn reason.png>)  
-Data from the churn reason shows the major reason why customers leave us due to better offer from customers citing afordability challenges. This is followed still by high call tarriffs which will also explain better offers from customers.
+Data from the churn reason shows the major reason why customers leave us due to better offer from customers citing affordability challenges. This is followed still by high call tariffs which will also explain better offers from customers.
 
 Poor network also features high alongside costly data plans and poor customer service.
 
@@ -157,7 +157,7 @@ Efforts should be made to improve to restructure the data plans to meet the real
 # DATA EXPLORATION
 
 - SQL File: [SQL](mtn_churn.sql)
-- Python File: [Python](mtn_churn.ipynb)
+- Python(Pandas) File: [Python](mtn_churn.ipynb)
 - DataSet: [csv](mtn_churn_csv.csv)
 
 ## Author
