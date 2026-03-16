@@ -1,0 +1,331 @@
+<!DOCTYPE html>
+<html lang="en" x-data="{dark:false, mobile:false}" :class="dark ? 'dark' : ''">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<title>Nnaemeka | Data Analyst</title>
+
+<!-- Tailwind -->
+<script src="https://cdn.tailwindcss.com"></script>
+
+<!-- Alpine JS -->
+<script defer src="https://unpkg.com/alpinejs@3.x.x/dist/cdn.min.js"></script>
+
+<!-- AOS Animations -->
+<link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet">
+
+<script>
+tailwind.config = {
+darkMode: 'class'
+}
+</script>
+
+<style>
+
+/* Smooth scrolling */
+
+html{
+scroll-behavior:smooth;
+}
+
+/* Custom gradient */
+
+.hero-gradient{
+background:linear-gradient(135deg,#2563eb,#9333ea);
+}
+
+/* Project hover */
+
+.project-card:hover{
+transform:translateY(-6px);
+transition:0.3s;
+}
+
+/* Glow button */
+
+.btn-glow:hover{
+box-shadow:0 0 20px rgba(99,102,241,0.7);
+}
+
+</style>
+
+</head>
+
+<body class="bg-gray-50 dark:bg-gray-900 text-gray-800 dark:text-gray-200">
+
+<!-- NAVBAR -->
+
+<nav class="fixed w-full bg-white dark:bg-gray-900 shadow z-50">
+
+<div class="max-w-6xl mx-auto px-6 py-4 flex justify-between items-center">
+
+<h1 class="font-bold text-xl">Nnaemeka</h1>
+
+<div class="hidden md:flex space-x-6">
+
+<a href="#about" class="hover:text-blue-500">About</a>
+<a href="#projects" class="hover:text-blue-500">Projects</a>
+<a href="#skills" class="hover:text-blue-500">Skills</a>
+<a href="#contact" class="hover:text-blue-500">Contact</a>
+
+<button @click="dark=!dark" class="ml-4">
+🌙
+</button>
+
+</div>
+
+<button @click="mobile=!mobile" class="md:hidden">
+☰
+</button>
+
+</div>
+
+<!-- mobile -->
+
+<div x-show="mobile" class="md:hidden px-6 pb-4">
+
+<a href="#about" class="block py-2">About</a>
+<a href="#projects" class="block py-2">Projects</a>
+<a href="#skills" class="block py-2">Skills</a>
+<a href="#contact" class="block py-2">Contact</a>
+
+</div>
+
+</nav>
+
+<!-- HERO -->
+
+<section class="hero-gradient text-white pt-32 pb-28">
+
+<div class="max-w-6xl mx-auto px-6 text-center">
+
+<h1 class="text-5xl font-bold mb-6" data-aos="fade-up">
+Data Analyst & Problem Solver
+</h1>
+
+<p class="text-lg mb-8 opacity-90" data-aos="fade-up" data-aos-delay="100">
+
+I transform raw data into actionable insights using Python, SQL and modern analytics tools.
+
+</p>
+
+<a href="#projects" class="bg-white text-gray-900 px-8 py-3 rounded-lg btn-glow font-semibold">
+
+View My Work
+
+</a>
+
+</div>
+
+</section>
+
+<!-- ABOUT -->
+
+<section id="about" class="py-24">
+
+<div class="max-w-6xl mx-auto px-6 grid md:grid-cols-2 gap-12 items-center">
+
+<div data-aos="fade-right">
+
+<h2 class="text-3xl font-bold mb-6">
+
+About Me
+
+</h2>
+
+<p class="mb-4">
+
+I am a data analyst passionate about extracting insights from complex datasets and transforming them into business decisions.
+
+</p>
+
+<p>
+
+My expertise includes SQL analytics, Python data processing, Pandas data manipulation, and visualization of business insights.
+
+</p>
+
+</div>
+
+<div data-aos="fade-left">
+
+<img src="https://images.unsplash.com/photo-1551288049-bebda4e38f71"
+class="rounded-xl shadow-lg">
+
+</div>
+
+</div>
+
+</section>
+
+<!-- PROJECTS -->
+
+<section id="projects" class="bg-gray-100 dark:bg-gray-800 py-24">
+
+<div class="max-w-6xl mx-auto px-6">
+
+<h2 class="text-3xl font-bold mb-12 text-center">
+
+Projects
+
+</h2>
+
+<div class="grid md:grid-cols-3 gap-8">
+
+<!-- project -->
+
+<div class="bg-white dark:bg-gray-900 p-6 rounded-xl shadow project-card" data-aos="zoom-in">
+
+<h3 class="font-bold text-lg mb-3">
+
+MTN Customer Churn Analysis
+
+</h3>
+
+<p class="text-sm mb-4">
+
+Analyzed telecom churn patterns using Python and SQL to identify drivers of customer attrition.
+
+</p>
+
+<a href="#" class="text-blue-500 text-sm">
+
+View Project →
+
+</a>
+
+</div>
+
+<!-- project -->
+
+<div class="bg-white dark:bg-gray-900 p-6 rounded-xl shadow project-card" data-aos="zoom-in">
+
+<h3 class="font-bold text-lg mb-3">
+
+Revenue Trend Dashboard
+
+</h3>
+
+<p class="text-sm mb-4">
+
+Developed revenue insights using Pandas and data visualization techniques.
+
+</p>
+
+<a href="#" class="text-blue-500 text-sm">
+
+View Project →
+
+</a>
+
+</div>
+
+<!-- project -->
+
+<div class="bg-white dark:bg-gray-900 p-6 rounded-xl shadow project-card" data-aos="zoom-in">
+
+<h3 class="font-bold text-lg mb-3">
+
+Customer Segmentation
+
+</h3>
+
+<p class="text-sm mb-4">
+
+Performed clustering analysis to segment customers for targeted marketing strategies.
+
+</p>
+
+<a href="#" class="text-blue-500 text-sm">
+
+View Project →
+
+</a>
+
+</div>
+
+</div>
+
+</div>
+
+</section>
+
+<!-- SKILLS -->
+
+<section id="skills" class="py-24">
+
+<div class="max-w-5xl mx-auto px-6 text-center">
+
+<h2 class="text-3xl font-bold mb-12">
+
+Skills
+
+</h2>
+
+<div class="grid md:grid-cols-4 gap-6">
+
+<div class="bg-white dark:bg-gray-800 p-6 rounded-xl shadow">Python</div>
+
+<div class="bg-white dark:bg-gray-800 p-6 rounded-xl shadow">SQL</div>
+
+<div class="bg-white dark:bg-gray-800 p-6 rounded-xl shadow">Pandas</div>
+
+<div class="bg-white dark:bg-gray-800 p-6 rounded-xl shadow">Data Visualization</div>
+
+</div>
+
+</div>
+
+</section>
+
+<!-- CONTACT -->
+
+<section id="contact" class="bg-gray-100 dark:bg-gray-800 py-24">
+
+<div class="max-w-xl mx-auto text-center px-6">
+
+<h2 class="text-3xl font-bold mb-8">
+
+Contact
+
+</h2>
+
+<p class="mb-6">
+
+Interested in collaborating or discussing data projects?
+
+</p>
+
+<a href="mailto:your@email.com"
+class="bg-blue-600 text-white px-8 py-3 rounded-lg btn-glow">
+
+Send Email
+
+</a>
+
+</div>
+
+</section>
+
+<!-- FOOTER -->
+
+<footer class="py-10 text-center text-sm opacity-70">
+
+© 2026 Nnaemeka • Data Analyst Portfolio
+
+</footer>
+
+<script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
+
+<script>
+
+AOS.init({
+duration:800,
+once:true
+})
+
+</script>
+
+</body>
+</html>
