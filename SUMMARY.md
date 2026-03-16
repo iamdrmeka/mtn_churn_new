@@ -48,3 +48,5 @@ This shows that affordability is the number one factor leading to customer churn
 
 Customer satisfaction rate survey does not skew fully to the negative as approximately 61% of the customers gave a review of good to excellent.
 Customer churn is mostly due to affordability and pricing and not majorly from poor customer service.
+
+[Back to Full Report](mtn_churn_REPORT.md)

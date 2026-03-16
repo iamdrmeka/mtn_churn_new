@@ -152,7 +152,7 @@ Poor network also features high alongside costly data plans and poor customer se
 
 Efforts should be made to improve to restructure the data plans to meet the reality of the market demand.
 
-## KEY INSIGHTS AND SUMMARY: [Summary](SUMMARY.md)
+[KEY INSIGHTS AND SUMMARY:](SUMMARY.md)
 
 # DATA EXPLORATION
 
