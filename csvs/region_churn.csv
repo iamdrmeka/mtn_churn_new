@@ -1,0 +1,7 @@
+region,Total Customers,Churned Customers,churn_rate
+north central,104,34,33.0
+north east,95,26,27.0
+north west,90,26,29.0
+south east,66,25,38.0
+south south,70,19,27.0
+south west,71,16,23.0

@@ -1,4 +1,4 @@
-# MTN CHURN ANALYSIS REPORT
+# Customer Churn & Revenue Analysis for Telecom Services (MTN Nigeria Case Study)
 
 ## BUSINESS PROBLEM
 

@@ -10,9 +10,6 @@ RENAME COLUMN `unit price` TO unit_price;
 
 ALTER TABLE mtn_churn
 RENAME COLUMN `Number of times purchased` TO unit_price;
-
-
-
 ALTER TABLE mtn_churn
 RENAME COLUMN `Total Revenue` TO total_revenue;
 

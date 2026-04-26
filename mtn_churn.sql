@@ -90,13 +90,13 @@ SELECT
     ROUND((100 * churn)/Customers,2) AS Churn_rate
 FROM (SELECT  
     Region,
-    count(DISTINCT customer_id) as Customers,
+    count(DISTINCT customer_id) as Customers, 9
     count(DISTINCT CASE WHEN customer_churn_status = 'yes' then customer_id END) AS Churn
 FROM mtn_churn
 GROUP BY region)T
 ORDER BY Churn_rate DESC;
 
--- RUN  A QUICK SCAN OF THE INIDIDUAL STATES AND THEIR CHURN RATE
+-- RUN  A QUICK SCAN OF THE INIDIDUAL STATES AND customer count
 
 SELECT 
     region,
@@ -105,13 +105,13 @@ SELECT
 FROM mtn_churn
 -- where region = 'south east'
 GROUP BY region, state
-order by region, customers DESC
+order by customers DESC
 ;
 
 ----Revenue Analysis
     --  total Revneue
 SELECT 
-    FORMAT(sum(total_revenue),2) as total_revenue
+    FORMAT(sum(total_reven ue),2) as total_revenue
 from mtn_churn;
 
     -- Revenue per Region
